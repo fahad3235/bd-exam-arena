@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BD Exam Arena — বিডি এক্সাম অ্যারেনা</title>
+<meta name="description" content="Free, fully offline, bilingual (Bangla/English) BCS and job exam preparation app with 800 curated MCQs.">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <span class="brand-icon">🏟️</span>
+    <div>
+      <h1 id="brandName">BD Exam Arena</h1>
+      <p id="brandTag">BCS &amp; Job Exam Prep</p>
+    </div>
+  </div>
+  <div class="topbar-right">
+    <div class="xp-badge" id="xpBadge" title="XP">⭐ <span id="xpVal">0</span></div>
+    <button class="lang-btn" id="langToggle" aria-label="Language">বাংলা</button>
+  </div>
+</header>
+
+<nav class="tabs" id="mainTabs">
+  <button data-screen="home" class="active">🏠 <span data-i18n="home">Home</span></button>
+  <button data-screen="analytics">📊 <span data-i18n="analytics">Analytics</span></button>
+  <button data-screen="history">🕘 <span data-i18n="history">History</span></button>
+</nav>
+
+<main>
+  <!-- HOME -->
+  <section id="screen-home" class="screen active">
+    <div class="hero">
+      <h2 data-i18n="heroTitle">Master the BCS &amp; Job Exams</h2>
+      <p data-i18n="heroSub">800 curated bilingual MCQs · 8 subjects · fully offline</p>
+      <div class="hero-stats">
+        <div class="stat"><span class="stat-num" id="statQuestions">–</span><span class="stat-lbl" data-i18n="questions">Questions</span></div>
+        <div class="stat"><span class="stat-num" id="statSubjects">8</span><span class="stat-lbl" data-i18n="subjects">Subjects</span></div>
+        <div class="stat"><span class="stat-num" id="statSessions">0</span><span class="stat-lbl" data-i18n="sessions">Sessions</span></div>
+        <div class="stat"><span class="stat-num" id="statLevel">1</span><span class="stat-lbl" data-i18n="level">Level</span></div>
+      </div>
+    </div>
+    <div class="mode-grid">
+      <button class="mode-card" id="btnQuick">
+        <span class="mode-icon">⚡</span>
+        <h3 data-i18n="quickPractice">Quick Practice</h3>
+        <p data-i18n="quickDesc">20 random questions from all subjects</p>
+      </button>
+      <button class="mode-card" id="btnDrill">
+        <span class="mode-icon">🎯</span>
+        <h3 data-i18n="topicDrill">Topic Drill</h3>
+        <p data-i18n="drillDesc">Pick a subject &amp; topic, drill 20 questions</p>
+      </button>
+      <button class="mode-card mock" id="btnMock">
+        <span class="mode-icon">📝</span>
+        <h3 data-i18n="fullMock">Full Mock Exam</h3>
+        <p data-i18n="mockDesc">100 questions · 120 min · −0.25 negative marking</p>
+      </button>
+    </div>
+    <div class="subject-strip" id="subjectStrip"></div>
+  </section>
+
+  <!-- DRILL SETUP -->
+  <section id="screen-drill" class="screen">
+    <h2 data-i18n="topicDrill">Topic Drill</h2>
+    <label class="fld-label" data-i18n="chooseSubject">Choose subject</label>
+    <div class="chip-row" id="drillSubjects"></div>
+    <label class="fld-label" data-i18n="chooseTopic">Choose topic</label>
+    <div class="chip-row" id="drillTopics"></div>
+    <button class="btn primary big" id="btnStartDrill" disabled data-i18n="begin">Begin Drill</button>
+    <button class="btn ghost" data-goto="home" data-i18n="back">Back</button>
+  </section>
+
+  <!-- MOCK SETUP -->
+  <section id="screen-mocksetup" class="screen">
+    <h2 data-i18n="fullMock">Full Mock Exam</h2>
+    <div class="info-box">
+      <p>📋 <span data-i18n="mockRule1">100 questions from all 8 subjects</span></p>
+      <p>⏱️ <span data-i18n="mockRule2">120 minutes total — auto-submits at 0:00</span></p>
+      <p>➖ <span data-i18n="mockRule3">Negative marking: −0.25 per wrong answer (BCS style)</span></p>
+      <p>🚩 <span data-i18n="mockRule4">Flag questions and jump with the palette</span></p>
+    </div>
+    <button class="btn primary big" id="btnStartMock" data-i18n="startExam">Start Exam</button>
+    <button class="btn ghost" data-goto="home" data-i18n="back">Back</button>
+  </section>
+
+  <!-- QUIZ -->
+  <section id="screen-quiz" class="screen">
+    <div class="quiz-top">
+      <div class="quiz-progress"><div id="quizProgFill"></div></div>
+      <div class="quiz-meta">
+        <span id="quizCount">1 / 20</span>
+        <span id="quizTimer" class="timer hidden">120:00</span>
+      </div>
+    </div>
+    <div class="q-card">
+      <div class="q-tags"><span id="qSubject" class="tag"></span><span id="qTopic" class="tag dim"></span></div>
+      <h3 id="qText"></h3>
+      <div class="opts" id="qOpts"></div>
+      <div class="q-explain hidden" id="qExplain"></div>
+    </div>
+    <div class="quiz-nav">
+      <button class="btn ghost" id="btnPrevQ" data-i18n="prev">← Prev</button>
+      <button class="btn ghost" id="btnFlag">🚩 <span data-i18n="flag">Flag</span></button>
+      <button class="btn primary" id="btnNextQ" data-i18n="next">Next →</button>
+    </div>
+    <button class="btn warn big hidden" id="btnSubmitQuiz" data-i18n="submitExam">Submit Exam</button>
+    <button class="btn ghost hidden" id="btnPaletteToggle">🔢 <span data-i18n="palette">Palette</span></button>
+    <div class="palette hidden" id="qPalette"></div>
+  </section>
+
+  <!-- RESULT -->
+  <section id="screen-result" class="screen">
+    <h2 data-i18n="result">Result</h2>
+    <div class="score-ring"><span id="resScore">0</span></div>
+    <div class="res-grid">
+      <div class="res-cell good"><span id="resCorrect">0</span><label data-i18n="correct">Correct</label></div>
+      <div class="res-cell bad"><span id="resWrong">0</span><label data-i18n="wrong">Wrong</label></div>
+      <div class="res-cell dim"><span id="resSkipped">0</span><label data-i18n="skipped">Skipped</label></div>
+      <div class="res-cell"><span id="resAcc">0%</span><label data-i18n="accuracy">Accuracy</label></div>
+      <div class="res-cell"><span id="resTime">0s</span><label data-i18n="avgTime">Avg / question</label></div>
+      <div class="res-cell"><span id="resXP">+0</span><label>XP</label></div>
+    </div>
+    <p class="neg-note hidden" id="resNegNote"></p>
+    <div class="btn-row">
+      <button class="btn primary" id="btnReview" data-i18n="reviewAnswers">Review Answers</button>
+      <button class="btn ghost" data-goto="home" data-i18n="home">Home</button>
+    </div>
+  </section>
+
+  <!-- REVIEW -->
+  <section id="screen-review" class="screen">
+    <h2 data-i18n="reviewAnswers">Review Answers</h2>
+    <div class="chip-row" id="reviewFilter">
+      <button class="chip active" data-f="all" data-i18n="all">All</button>
+      <button class="chip" data-f="wrong" data-i18n="wrong">Wrong</button>
+      <button class="chip" data-f="correct" data-i18n="correct">Correct</button>
+      <button class="chip" data-f="skipped" data-i18n="skipped">Skipped</button>
+    </div>
+    <div id="reviewList"></div>
+    <button class="btn ghost" data-goto="home" data-i18n="home">Home</button>
+  </section>
+
+  <!-- ANALYTICS -->
+  <section id="screen-analytics" class="screen">
+    <h2 data-i18n="analytics">Analytics</h2>
+    <div id="analyticsEmpty" class="info-box"><p data-i18n="analyticsEmpty">Finish a practice session to unlock analytics.</p></div>
+    <div id="analyticsBody" class="hidden">
+      <h3 data-i18n="accuracyBySubject">Accuracy by subject</h3>
+      <div id="subjBars"></div>
+      <h3 data-i18n="weakTopics">Weak topics — study plan</h3>
+      <div id="weakList"></div>
+      <div class="res-grid">
+        <div class="res-cell"><span id="anTotal">0</span><label data-i18n="questionsAnswered">Answered</label></div>
+        <div class="res-cell"><span id="anAcc">0%</span><label data-i18n="accuracy">Accuracy</label></div>
+        <div class="res-cell"><span id="anTime">0s</span><label data-i18n="avgTime">Avg / question</label></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- HISTORY -->
+  <section id="screen-history" class="screen">
+    <h2 data-i18n="history">History</h2>
+    <div id="historyList"></div>
+    <div class="btn-row">
+      <button class="btn ghost" id="btnExport" data-i18n="exportData">Export data</button>
+      <button class="btn ghost" id="btnImport" data-i18n="importData">Import data</button>
+      <input type="file" id="importFile" accept="application/json" class="hidden">
+    </div>
+  </section>
+</main>
+
+<footer><p>BD Exam Arena · 100% offline · <span data-i18n="footerNote">for practice only, not affiliated with any exam authority</span></p></footer>
+<script src="js/i18n.js"></script>
+<script src="js/data.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

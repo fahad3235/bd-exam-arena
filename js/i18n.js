@@ -1,0 +1,77 @@
+/* BD Exam Arena — i18n (EN / বাংলা) + Bengali digit helper */
+const I18N = {
+en: {
+  brandTag: "BCS & Job Exam Prep",
+  home: "Home", analytics: "Analytics", history: "History",
+  heroTitle: "Master the BCS & Job Exams",
+  heroSub: "800 curated bilingual MCQs · 8 subjects · fully offline",
+  questions: "Questions", subjects: "Subjects", sessions: "Sessions", level: "Level",
+  quickPractice: "Quick Practice", quickDesc: "20 random questions from all subjects",
+  topicDrill: "Topic Drill", drillDesc: "Pick a subject & topic, drill 20 questions",
+  fullMock: "Full Mock Exam", mockDesc: "100 questions · 120 min · −0.25 negative marking",
+  chooseSubject: "Choose subject", chooseTopic: "Choose topic", begin: "Begin Drill", back: "Back",
+  mockRule1: "100 questions from all 8 subjects",
+  mockRule2: "120 minutes total — auto-submits at 0:00",
+  mockRule3: "Negative marking: −0.25 per wrong answer (BCS style)",
+  mockRule4: "Flag questions and jump with the palette",
+  startExam: "Start Exam",
+  prev: "← Prev", next: "Next →", flag: "Flag", palette: "Palette", submitExam: "Submit Exam",
+  result: "Result", correct: "Correct", wrong: "Wrong", skipped: "Skipped",
+  accuracy: "Accuracy", avgTime: "Avg / question", reviewAnswers: "Review Answers",
+  all: "All", yourAnswer: "Your answer", correctAnswer: "Correct answer", notAnswered: "Not answered",
+  accuracyBySubject: "Accuracy by subject", weakTopics: "Weak topics — study plan",
+  questionsAnswered: "Answered", analyticsEmpty: "Finish a practice session to unlock analytics.",
+  noWeak: "No weak topics detected — keep it up! 🎉",
+  exportData: "Export data", importData: "Import data",
+  footerNote: "for practice only, not affiliated with any exam authority",
+  timeUp: "Time's up! Auto-submitted.",
+  negNote: s => `Negative marking applied: ${s}`,
+  weakRec: (topic, n) => `You got ${n}% on “${topic}”. Revise the basics, then drill 20 more questions on this topic.`,
+  levelUp: l => `Level up! You are now Level ${l} 🎉`,
+  sessionSaved: "Session saved.",
+  dataImported: "Data imported.", badFile: "Invalid backup file.",
+  confirmClear: "Delete this session?",
+  explanation: "Explanation",
+},
+bn: {
+  brandTag: "বিসিএস ও চাকরি পরীক্ষার প্রস্তুতি",
+  home: "হোম", analytics: "বিশ্লেষণ", history: "ইতিহাস",
+  heroTitle: "বিসিএস ও চাকরি পরীক্ষায় সফল হোন",
+  heroSub: "৮০০টি নির্বাচিত দ্বিভাষিক MCQ · ৮টি বিষয় · সম্পূর্ণ অফলাইন",
+  questions: "প্রশ্ন", subjects: "বিষয়", sessions: "সেশন", level: "লেভেল",
+  quickPractice: "দ্রুত অনুশীলন", quickDesc: "সব বিষয় থেকে ২০টি এলোমেলো প্রশ্ন",
+  topicDrill: "টপিক ড্রিল", drillDesc: "বিষয় ও টপিক বেছে ২০টি প্রশ্নের অনুশীলন",
+  fullMock: "পূর্ণ মক পরীক্ষা", mockDesc: "১০০টি প্রশ্ন · ১২০ মিনিট · −০.২৫ নেগেটিভ মার্কিং",
+  chooseSubject: "বিষয় বেছে নিন", chooseTopic: "টপিক বেছে নিন", begin: "ড্রিল শুরু", back: "পেছনে",
+  mockRule1: "৮টি বিষয় থেকে ১০০টি প্রশ্ন",
+  mockRule2: "মোট ১২০ মিনিট — ০:০০ হলে স্বয়ংক্রিয় জমা",
+  mockRule3: "নেগেটিভ মার্কিং: ভুল উত্তরে −০.২৫ (বিসিএস ধাঁচে)",
+  mockRule4: "প্রশ্ন ফ্ল্যাগ করুন ও প্যালেট দিয়ে যান",
+  startExam: "পরীক্ষা শুরু",
+  prev: "← আগে", next: "পরে →", flag: "ফ্ল্যাগ", palette: "প্যালেট", submitExam: "পরীক্ষা জমা দিন",
+  result: "ফলাফল", correct: "সঠিক", wrong: "ভুল", skipped: "বাদ",
+  accuracy: "নির্ভুলতা", avgTime: "গড় / প্রশ্ন", reviewAnswers: "উত্তর পর্যালোচনা",
+  all: "সব", yourAnswer: "আপনার উত্তর", correctAnswer: "সঠিক উত্তর", notAnswered: "উত্তর দেননি",
+  accuracyBySubject: "বিষয়ভিত্তিক নির্ভুলতা", weakTopics: "দুর্বল টপিক — পড়ার পরিকল্পনা",
+  questionsAnswered: "উত্তর দিয়েছেন", analyticsEmpty: "বিশ্লেষণ দেখতে একটি অনুশীলন সেশন শেষ করুন।",
+  noWeak: "কোনো দুর্বল টপিক পাওয়া যায়নি — এগিয়ে যান! 🎉",
+  exportData: "ডেটা এক্সপোর্ট", importData: "ডেটা ইমপোর্ট",
+  footerNote: "শুধু অনুশীলনের জন্য, কোনো পরীক্ষা কর্তৃপক্ষের সাথে সম্পৃক্ত নয়",
+  timeUp: "সময় শেষ! স্বয়ংক্রিয়ভাবে জমা হয়েছে।",
+  negNote: s => `নেগেটিভ মার্কিং প্রয়োগ: ${s}`,
+  weakRec: (topic, n) => `“${topic}”-এ আপনার স্কোর ${n}%। মৌলিক বিষয়গুলো ঝালিয়ে নিন, তারপর এই টপিকে আরও ২০টি প্রশ্ন অনুশীলন করুন।`,
+  levelUp: l => `লেভেল আপ! আপনি এখন লেভেল ${l} 🎉`,
+  sessionSaved: "সেশন সংরক্ষিত হয়েছে।",
+  dataImported: "ডেটা ইমপোর্ট হয়েছে।", badFile: "অবৈধ ব্যাকআপ ফাইল।",
+  confirmClear: "এই সেশনটি মুছবেন?",
+  explanation: "ব্যাখ্যা",
+}};
+
+const BN_DIGITS = ['০','১','২','৩','৪','৫','৬','৭','৮','৯'];
+function bnDigits(v){
+  return String(v).replace(/[0-9]/g, d => BN_DIGITS[+d]);
+}
+function fmtNum(v, lang){
+  if (typeof v === 'number' && !Number.isInteger(v)) v = Math.round(v*100)/100;
+  return lang === 'bn' ? bnDigits(v) : String(v);
+}
