@@ -1,0 +1,2207 @@
+{
+  "subject": "english",
+  "subject_en": "English Grammar & Vocabulary",
+  "subject_bn": "ইংরেজি ব্যাকরণ ও শব্দভাণ্ডার",
+  "questions": [
+    {
+      "id": "en-001",
+      "topic_en": "Tense",
+      "topic_bn": "ব্যাকরণ: কাল",
+      "q_en": "She ___ to school by bus every day.",
+      "q_bn": "সে প্রতিদিন বাসে স্কুলে ___।",
+      "options_en": [
+        "goes",
+        "go",
+        "has gone",
+        "going"
+      ],
+      "options_bn": [
+        "goes",
+        "go",
+        "has gone",
+        "going"
+      ],
+      "answer": 0,
+      "explain_en": "'Every day' shows a habitual action, so the simple present tense is used. With the third-person singular subject 'she', the verb takes -s: goes.",
+      "explain_bn": "'Every day' অভ্যাসগত কাজ বোঝায়, তাই simple present tense ব্যবহৃত হয়। Third-person singular subject 'she'-এর সাথে verb-এর শেষে -s যোগ হয়: goes।"
+    },
+    {
+      "id": "en-002",
+      "topic_en": "Tense",
+      "topic_bn": "ব্যাকরণ: কাল",
+      "q_en": "By the time we reached the station, the train ___.",
+      "q_bn": "আমরা স্টেশনে পৌঁছানোর আগেই ট্রেনটি ___।",
+      "options_en": [
+        "had already left",
+        "has already left",
+        "already leaves",
+        "will already leave"
+      ],
+      "options_bn": [
+        "had already left",
+        "has already left",
+        "already leaves",
+        "will already leave"
+      ],
+      "answer": 0,
+      "explain_en": "When two past actions are mentioned, the earlier one uses the past perfect tense (had + past participle).",
+      "explain_bn": "অতীতের দুটি কাজের মধ্যে আগেরটি past perfect tense-এ (had + past participle) হয়।"
+    },
+    {
+      "id": "en-003",
+      "topic_en": "Tense",
+      "topic_bn": "ব্যাকরণ: কাল",
+      "q_en": "I ___ in Dhaka since 2015.",
+      "q_bn": "আমি ২০১৫ সাল থেকে ঢাকায় ___।",
+      "options_en": [
+        "live",
+        "have lived",
+        "lived",
+        "will live"
+      ],
+      "options_bn": [
+        "live",
+        "have lived",
+        "lived",
+        "will live"
+      ],
+      "answer": 1,
+      "explain_en": "'Since 2015' shows an action that started in the past and continues in the present, so the present perfect tense is used.",
+      "explain_bn": "'Since 2015' এমন কাজ বোঝায় যা অতীতে শুরু হয়ে বর্তমানে চলছে, তাই present perfect tense ব্যবহৃত হয়।"
+    },
+    {
+      "id": "en-004",
+      "topic_en": "Tense",
+      "topic_bn": "ব্যাকরণ: কাল",
+      "q_en": "They ___ the project by next March.",
+      "q_bn": "তারা আগামী মার্চের মধ্যে প্রকল্পটি ___।",
+      "options_en": [
+        "will have finished",
+        "finish",
+        "have finished",
+        "finished"
+      ],
+      "options_bn": [
+        "will have finished",
+        "finish",
+        "have finished",
+        "finished"
+      ],
+      "answer": 0,
+      "explain_en": "'By next March' is a future deadline, so the future perfect tense (will have + past participle) is used.",
+      "explain_bn": "'By next March' ভবিষ্যতের একটি সময়সীমা বোঝায়, তাই future perfect tense (will have + past participle) ব্যবহৃত হয়।"
+    },
+    {
+      "id": "en-005",
+      "topic_en": "Tense",
+      "topic_bn": "ব্যাকরণ: কাল",
+      "q_en": "Look at those dark clouds! It ___.",
+      "q_bn": "ওই কালো মেঘগুলোর দিকে তাকাও! ___।",
+      "options_en": [
+        "rains",
+        "rained",
+        "is going to rain",
+        "has rained"
+      ],
+      "options_bn": [
+        "rains",
+        "rained",
+        "is going to rain",
+        "has rained"
+      ],
+      "answer": 2,
+      "explain_en": "A future event predicted from present evidence (dark clouds) uses 'be going to'.",
+      "explain_bn": "বর্তমান লক্ষণ (কালো মেঘ) দেখে ভবিষ্যৎ অনুমান করতে 'be going to' ব্যবহৃত হয়।"
+    },
+    {
+      "id": "en-006",
+      "topic_en": "Tense",
+      "topic_bn": "ব্যাকরণ: কাল",
+      "q_en": "She ___ dinner when the phone rang.",
+      "q_bn": "ফোন বাজার সময় সে রাতের খাবার ___।",
+      "options_en": [
+        "cooks",
+        "was cooking",
+        "has cooked",
+        "will cook"
+      ],
+      "options_bn": [
+        "cooks",
+        "was cooking",
+        "has cooked",
+        "will cook"
+      ],
+      "answer": 1,
+      "explain_en": "A longer action in progress when another past action interrupted it uses the past continuous tense (was/were + -ing).",
+      "explain_bn": "অতীতের একটি কাজ চলাকালীন আরেকটি কাজ ঘটলে চলমান কাজটি past continuous tense-এ (was/were + -ing) হয়।"
+    },
+    {
+      "id": "en-007",
+      "topic_en": "Tense",
+      "topic_bn": "ব্যাকরণ: কাল",
+      "q_en": "He ___ here for five years and still works here.",
+      "q_bn": "সে পাঁচ বছর ধরে এখানে ___ এবং এখনো এখানে কাজ করে।",
+      "options_en": [
+        "has been working",
+        "works",
+        "worked",
+        "is worked"
+      ],
+      "options_bn": [
+        "has been working",
+        "works",
+        "worked",
+        "is worked"
+      ],
+      "answer": 0,
+      "explain_en": "'For five years' with the action still continuing needs the present perfect continuous tense (has/have been + -ing).",
+      "explain_bn": "'For five years' এবং কাজটি এখনো চলমান থাকায় present perfect continuous tense (has/have been + -ing) ব্যবহৃত হয়।"
+    },
+    {
+      "id": "en-008",
+      "topic_en": "Tense",
+      "topic_bn": "ব্যাকরণ: কাল",
+      "q_en": "If he had studied harder, he ___ the test.",
+      "q_bn": "সে যদি আরও কঠোর পড়াশোনা করত, তবে সে পরীক্ষায় ___।",
+      "options_en": [
+        "will pass",
+        "passes",
+        "would have passed",
+        "would pass"
+      ],
+      "options_bn": [
+        "will pass",
+        "passes",
+        "would have passed",
+        "would pass"
+      ],
+      "answer": 2,
+      "explain_en": "This is a third conditional: if + past perfect is followed by would have + past participle.",
+      "explain_bn": "এটি third conditional: if + past perfect-এর পরে would have + past participle বসে।"
+    },
+    {
+      "id": "en-009",
+      "topic_en": "Voice",
+      "topic_bn": "ব্যাকরণ: বাচ্য",
+      "q_en": "Choose the passive form: 'The hunter killed the tiger.'",
+      "q_bn": "'The hunter killed the tiger.' — বাক্যটির passive form কোনটি?",
+      "options_en": [
+        "The tiger was killed by the hunter.",
+        "The tiger is killed by the hunter.",
+        "The hunter was killed by the tiger.",
+        "The tiger had killed the hunter."
+      ],
+      "options_bn": [
+        "The tiger was killed by the hunter.",
+        "The tiger is killed by the hunter.",
+        "The hunter was killed by the tiger.",
+        "The tiger had killed the hunter."
+      ],
+      "answer": 0,
+      "explain_en": "Past simple active becomes past simple passive: was/were + past participle, with the object becoming the subject.",
+      "explain_bn": "Past simple active-এর passive হয় past simple passive: was/were + past participle; object টি subject হয়।"
+    },
+    {
+      "id": "en-010",
+      "topic_en": "Voice",
+      "topic_bn": "ব্যাকরণ: বাচ্য",
+      "q_en": "Choose the passive form: 'They elected him chairman.'",
+      "q_bn": "'They elected him chairman.' — বাক্যটির passive form কোনটি?",
+      "options_en": [
+        "He was being elected chairman.",
+        "He was elected chairman.",
+        "He had elected chairman.",
+        "He is elected chairman by them."
+      ],
+      "options_bn": [
+        "He was being elected chairman.",
+        "He was elected chairman.",
+        "He had elected chairman.",
+        "He is elected chairman by them."
+      ],
+      "answer": 1,
+      "explain_en": "The object 'him' becomes the subject 'he', and the past simple verb becomes 'was elected'.",
+      "explain_bn": "Object 'him' subject 'he' হয় এবং past simple verb-টি 'was elected' হয়।"
+    },
+    {
+      "id": "en-011",
+      "topic_en": "Voice",
+      "topic_bn": "ব্যাকরণ: বাচ্য",
+      "q_en": "Choose the passive form: 'Who wrote this poem?'",
+      "q_bn": "'Who wrote this poem?' — বাক্যটির passive form কোনটি?",
+      "options_en": [
+        "Who was written this poem by?",
+        "This poem was written by who?",
+        "By whom was this poem written?",
+        "By whom this poem wrote?"
+      ],
+      "options_bn": [
+        "Who was written this poem by?",
+        "This poem was written by who?",
+        "By whom was this poem written?",
+        "By whom this poem wrote?"
+      ],
+      "answer": 2,
+      "explain_en": "A question beginning with 'who' becomes passive with 'By whom' followed by was/were + past participle.",
+      "explain_bn": "'Who' দিয়ে শুরু প্রশ্নের passive 'By whom' দিয়ে শুরু হয়, এরপর was/were + past participle বসে।"
+    },
+    {
+      "id": "en-012",
+      "topic_en": "Voice",
+      "topic_bn": "ব্যাকরণ: বাচ্য",
+      "q_en": "Choose the passive form: 'Open the window.'",
+      "q_bn": "'Open the window.' — বাক্যটির passive form কোনটি?",
+      "options_en": [
+        "The window is opened.",
+        "Let the window opened.",
+        "Let open the window.",
+        "Let the window be opened."
+      ],
+      "options_bn": [
+        "The window is opened.",
+        "Let the window opened.",
+        "Let open the window.",
+        "Let the window be opened."
+      ],
+      "answer": 3,
+      "explain_en": "An imperative sentence becomes passive with 'Let + object + be + past participle'.",
+      "explain_bn": "Imperative বাক্যের passive হয় 'Let + object + be + past participle' গঠনে।"
+    },
+    {
+      "id": "en-013",
+      "topic_en": "Voice",
+      "topic_bn": "ব্যাকরণ: বাচ্য",
+      "q_en": "Choose the passive form: 'She sings a sweet song.'",
+      "q_bn": "'She sings a sweet song.' — বাক্যটির passive form কোনটি?",
+      "options_en": [
+        "A sweet song was sung by her.",
+        "A sweet song is sung by her.",
+        "A sweet song has sung by her.",
+        "She is sung a sweet song."
+      ],
+      "options_bn": [
+        "A sweet song was sung by her.",
+        "A sweet song is sung by her.",
+        "A sweet song has sung by her.",
+        "She is sung a sweet song."
+      ],
+      "answer": 1,
+      "explain_en": "Present simple active becomes present simple passive: is/am/are + past participle.",
+      "explain_bn": "Present simple active-এর passive হয় present simple passive: is/am/are + past participle।"
+    },
+    {
+      "id": "en-014",
+      "topic_en": "Voice",
+      "topic_bn": "ব্যাকরণ: বাচ্য",
+      "q_en": "Choose the passive form: 'Do it now.'",
+      "q_bn": "'Do it now.' — বাক্যটির passive form কোনটি?",
+      "options_en": [
+        "Let it be done now.",
+        "Let it done now.",
+        "It is done now.",
+        "Let now it be done."
+      ],
+      "options_bn": [
+        "Let it be done now.",
+        "Let it done now.",
+        "It is done now.",
+        "Let now it be done."
+      ],
+      "answer": 0,
+      "explain_en": "An imperative becomes passive with 'Let + object + be + past participle'.",
+      "explain_bn": "Imperative বাক্যের passive হয় 'Let + object + be + past participle' গঠনে।"
+    },
+    {
+      "id": "en-015",
+      "topic_en": "Voice",
+      "topic_bn": "ব্যাকরণ: বাচ্য",
+      "q_en": "Choose the passive form: 'The news surprised everyone.'",
+      "q_bn": "'The news surprised everyone.' — বাক্যটির passive form কোনটি?",
+      "options_en": [
+        "Everyone was surprising the news.",
+        "Everyone is surprised by the news.",
+        "Everyone was surprised by the news.",
+        "The news was surprised by everyone."
+      ],
+      "options_bn": [
+        "Everyone was surprising the news.",
+        "Everyone is surprised by the news.",
+        "Everyone was surprised by the news.",
+        "The news was surprised by everyone."
+      ],
+      "answer": 2,
+      "explain_en": "Past simple active becomes past simple passive: was/were + past participle; the object becomes the subject.",
+      "explain_bn": "Past simple active-এর passive হয় was/were + past participle; object টি subject হয়।"
+    },
+    {
+      "id": "en-016",
+      "topic_en": "Narration",
+      "topic_bn": "ব্যাকরণ: উক্তি",
+      "q_en": "Choose the indirect speech: He said, 'I am ill.'",
+      "q_bn": "Indirect speech নির্ণয় করো: He said, 'I am ill.'",
+      "options_en": [
+        "He said that he is ill.",
+        "He said that he was ill.",
+        "He says that he was ill.",
+        "He said that I was ill."
+      ],
+      "options_bn": [
+        "He said that he is ill.",
+        "He said that he was ill.",
+        "He says that he was ill.",
+        "He said that I was ill."
+      ],
+      "answer": 1,
+      "explain_en": "When the reporting verb is in the past tense, present simple in direct speech changes to past simple in indirect speech.",
+      "explain_bn": "Reporting verb past tense হলে direct speech-এর present simple indirect speech-এ past simple হয়।"
+    },
+    {
+      "id": "en-017",
+      "topic_en": "Narration",
+      "topic_bn": "ব্যাকরণ: উক্তি",
+      "q_en": "Choose the indirect speech: She said to me, 'Do you know him?'",
+      "q_bn": "Indirect speech নির্ণয় করো: She said to me, 'Do you know him?'",
+      "options_en": [
+        "She asked me that I knew him.",
+        "She asked me whether I know him.",
+        "She asked me if I knew him.",
+        "She told me do you know him."
+      ],
+      "options_bn": [
+        "She asked me that I knew him.",
+        "She asked me whether I know him.",
+        "She asked me if I knew him.",
+        "She told me do you know him."
+      ],
+      "answer": 2,
+      "explain_en": "A yes/no question becomes 'asked + if/whether + subject + past verb' in indirect speech.",
+      "explain_bn": "Yes/no প্রশ্নের indirect speech হয় 'asked + if/whether + subject + past verb' গঠনে।"
+    },
+    {
+      "id": "en-018",
+      "topic_en": "Narration",
+      "topic_bn": "ব্যাকরণ: উক্তি",
+      "q_en": "Choose the indirect speech: The teacher said, 'The sun rises in the east.'",
+      "q_bn": "Indirect speech নির্ণয় করো: The teacher said, 'The sun rises in the east.'",
+      "options_en": [
+        "The teacher said that the sun rises in the east.",
+        "The teacher said that the sun rose in the east.",
+        "The teacher said that the sun has risen in the east.",
+        "The teacher says that the sun rises in the east."
+      ],
+      "options_bn": [
+        "The teacher said that the sun rises in the east.",
+        "The teacher said that the sun rose in the east.",
+        "The teacher said that the sun has risen in the east.",
+        "The teacher says that the sun rises in the east."
+      ],
+      "answer": 0,
+      "explain_en": "A universal truth does not change its tense in indirect speech.",
+      "explain_bn": "চিরন্তন সত্য (universal truth) indirect speech-এ tense পরিবর্তন হয় না।"
+    },
+    {
+      "id": "en-019",
+      "topic_en": "Narration",
+      "topic_bn": "ব্যাকরণ: উক্তি",
+      "q_en": "Choose the indirect speech: He said to me, 'Please help me.'",
+      "q_bn": "Indirect speech নির্ণয় করো: He said to me, 'Please help me.'",
+      "options_en": [
+        "He told me that I help him.",
+        "He requested me that I helped him.",
+        "He said me please help me.",
+        "He requested me to help him."
+      ],
+      "options_bn": [
+        "He told me that I help him.",
+        "He requested me that I helped him.",
+        "He said me please help me.",
+        "He requested me to help him."
+      ],
+      "answer": 3,
+      "explain_en": "A request in direct speech becomes 'requested + object + to + verb' in indirect speech.",
+      "explain_bn": "অনুরোধবাচক বাক্যের indirect speech হয় 'requested + object + to + verb' গঠনে।"
+    },
+    {
+      "id": "en-020",
+      "topic_en": "Narration",
+      "topic_bn": "ব্যাকরণ: উক্তি",
+      "q_en": "Choose the indirect speech: He said, 'I shall go tomorrow.'",
+      "q_bn": "Indirect speech নির্ণয় করো: He said, 'I shall go tomorrow.'",
+      "options_en": [
+        "He said he will go tomorrow.",
+        "He said that he would go the next day.",
+        "He said that he should go tomorrow.",
+        "He says that he would go the next day."
+      ],
+      "options_bn": [
+        "He said he will go tomorrow.",
+        "He said that he would go the next day.",
+        "He said that he should go tomorrow.",
+        "He says that he would go the next day."
+      ],
+      "answer": 1,
+      "explain_en": "'Shall' becomes 'would' and 'tomorrow' becomes 'the next day' in indirect speech.",
+      "explain_bn": "Indirect speech-এ 'shall' → 'would' এবং 'tomorrow' → 'the next day' হয়।"
+    },
+    {
+      "id": "en-021",
+      "topic_en": "Narration",
+      "topic_bn": "ব্যাকরণ: উক্তি",
+      "q_en": "Choose the indirect speech: She said, 'I have finished my work.'",
+      "q_bn": "Indirect speech নির্ণয় করো: She said, 'I have finished my work.'",
+      "options_en": [
+        "She said that she has finished her work.",
+        "She said that she had finished my work.",
+        "She said that she had finished her work.",
+        "She says that she had finished her work."
+      ],
+      "options_bn": [
+        "She said that she has finished her work.",
+        "She said that she had finished my work.",
+        "She said that she had finished her work.",
+        "She says that she had finished her work."
+      ],
+      "answer": 2,
+      "explain_en": "Present perfect in direct speech changes to past perfect in indirect speech, and pronouns change accordingly.",
+      "explain_bn": "Direct speech-এর present perfect indirect speech-এ past perfect হয় এবং pronoun যথাযথভাবে বদলায়।"
+    },
+    {
+      "id": "en-022",
+      "topic_en": "Narration",
+      "topic_bn": "ব্যাকরণ: উক্তি",
+      "q_en": "Choose the indirect speech: The boy said, 'Hurrah! We have won.'",
+      "q_bn": "Indirect speech নির্ণয় করো: The boy said, 'Hurrah! We have won.'",
+      "options_en": [
+        "The boy exclaimed with joy that they had won.",
+        "The boy said hurrah we won.",
+        "The boy exclaimed with joy that we have won.",
+        "The boy said that they have won with joy."
+      ],
+      "options_bn": [
+        "The boy exclaimed with joy that they had won.",
+        "The boy said hurrah we won.",
+        "The boy exclaimed with joy that we have won.",
+        "The boy said that they have won with joy."
+      ],
+      "answer": 0,
+      "explain_en": "Exclamations of joy use 'exclaimed with joy that', and the present perfect changes to the past perfect.",
+      "explain_bn": "আনন্দসূচক উক্তিতে 'exclaimed with joy that' ব্যবহৃত হয় এবং present perfect past perfect হয়।"
+    },
+    {
+      "id": "en-023",
+      "topic_en": "Subject-Verb Agreement",
+      "topic_bn": "ব্যাকরণ: সাবজেক্ট-ভার্ব সমন্বয়",
+      "q_en": "Neither of the boys ___ present.",
+      "q_bn": "'Neither of the boys ___ present.' — শূন্যস্থানে কোনটি বসবে?",
+      "options_en": [
+        "are",
+        "is",
+        "was",
+        "were"
+      ],
+      "options_bn": [
+        "are",
+        "is",
+        "was",
+        "were"
+      ],
+      "answer": 2,
+      "explain_en": "'Neither of' takes a singular verb; the past tense of 'be' for a singular subject is 'was'.",
+      "explain_bn": "'Neither of'-এর পরে singular verb বসে; অতীতে singular subject-এর জন্য 'was' ব্যবহৃত হয়।"
+    },
+    {
+      "id": "en-024",
+      "topic_en": "Subject-Verb Agreement",
+      "topic_bn": "ব্যাকরণ: সাবজেক্ট-ভার্ব সমন্বয়",
+      "q_en": "The quality of the mangoes ___ good.",
+      "q_bn": "'The quality of the mangoes ___ good.' — শূন্যস্থানে কোনটি বসবে?",
+      "options_en": [
+        "are",
+        "is",
+        "were",
+        "have been"
+      ],
+      "options_bn": [
+        "are",
+        "is",
+        "were",
+        "have been"
+      ],
+      "answer": 1,
+      "explain_en": "The verb agrees with the main subject 'quality', which is singular, not with 'mangoes'.",
+      "explain_bn": "Verb মূল subject 'quality'-এর সাথে মিলবে, যা singular — 'mangoes'-এর সাথে নয়।"
+    },
+    {
+      "id": "en-025",
+      "topic_en": "Subject-Verb Agreement",
+      "topic_bn": "ব্যাকরণ: সাবজেক্ট-ভার্ব সমন্বয়",
+      "q_en": "Either Rahim or his friends ___ going.",
+      "q_bn": "'Either Rahim or his friends ___ going.' — শূন্যস্থানে কোনটি বসবে?",
+      "options_en": [
+        "is",
+        "am",
+        "was",
+        "are"
+      ],
+      "options_bn": [
+        "is",
+        "am",
+        "was",
+        "are"
+      ],
+      "answer": 3,
+      "explain_en": "With 'either...or', the verb agrees with the nearer subject 'friends', which is plural.",
+      "explain_bn": "'Either...or' গঠনে verb নিকটবর্তী subject 'friends'-এর সাথে মিলবে, যা plural।"
+    },
+    {
+      "id": "en-026",
+      "topic_en": "Subject-Verb Agreement",
+      "topic_bn": "ব্যাকরণ: সাবজেক্ট-ভার্ব সমন্বয়",
+      "q_en": "Two-thirds of the work ___ done.",
+      "q_bn": "'Two-thirds of the work ___ done.' — শূন্যস্থানে কোনটি বসবে?",
+      "options_en": [
+        "has been",
+        "have been",
+        "are being",
+        "were"
+      ],
+      "options_bn": [
+        "has been",
+        "have been",
+        "are being",
+        "were"
+      ],
+      "answer": 0,
+      "explain_en": "'Work' is uncountable and singular, so the verb is singular: 'has been'.",
+      "explain_bn": "'Work' অগণনীয় ও singular, তাই verb singular হবে: 'has been'।"
+    },
+    {
+      "id": "en-027",
+      "topic_en": "Subject-Verb Agreement",
+      "topic_bn": "ব্যাকরণ: সাবজেক্ট-ভার্ব সমন্বয়",
+      "q_en": "The committee ___ divided in its opinion.",
+      "q_bn": "'The committee ___ divided in its opinion.' — শূন্যস্থানে কোনটি বসবে?",
+      "options_en": [
+        "is",
+        "are",
+        "was",
+        "has"
+      ],
+      "options_bn": [
+        "is",
+        "are",
+        "was",
+        "has"
+      ],
+      "answer": 1,
+      "explain_en": "When the members of a collective noun act separately (they are divided), the verb is plural.",
+      "explain_bn": "Collective noun-এর সদস্যরা আলাদা মত পোষণ করলে (divided) verb plural হয়।"
+    },
+    {
+      "id": "en-028",
+      "topic_en": "Subject-Verb Agreement",
+      "topic_bn": "ব্যাকরণ: সাবজেক্ট-ভার্ব সমন্বয়",
+      "q_en": "Each of the students ___ a pen.",
+      "q_bn": "'Each of the students ___ a pen.' — শূন্যস্থানে কোনটি বসবে?",
+      "options_en": [
+        "have",
+        "are",
+        "has",
+        "were"
+      ],
+      "options_bn": [
+        "have",
+        "are",
+        "has",
+        "were"
+      ],
+      "answer": 2,
+      "explain_en": "'Each of' always takes a singular verb, so 'has' is correct.",
+      "explain_bn": "'Each of'-এর পরে সবসময় singular verb বসে, তাই 'has' সঠিক।"
+    },
+    {
+      "id": "en-029",
+      "topic_en": "Subject-Verb Agreement",
+      "topic_bn": "ব্যাকরণ: সাবজেক্ট-ভার্ব সমন্বয়",
+      "q_en": "Fifty miles ___ a long distance.",
+      "q_bn": "'Fifty miles ___ a long distance.' — শূন্যস্থানে কোনটি বসবে?",
+      "options_en": [
+        "is",
+        "are",
+        "were",
+        "have"
+      ],
+      "options_bn": [
+        "is",
+        "are",
+        "were",
+        "have"
+      ],
+      "answer": 0,
+      "explain_en": "A measurement expressing one single idea takes a singular verb.",
+      "explain_bn": "একটি একক ধারণা প্রকাশকারী পরিমাপের পরে singular verb বসে।"
+    },
+    {
+      "id": "en-030",
+      "topic_en": "Preposition",
+      "topic_bn": "ব্যাকরণ: প্রিপোজিশন",
+      "q_en": "He is afraid ___ dogs.",
+      "q_bn": "'He is afraid ___ dogs.' — শূন্যস্থানে কোন preposition বসবে?",
+      "options_en": [
+        "from",
+        "of",
+        "with",
+        "by"
+      ],
+      "options_bn": [
+        "from",
+        "of",
+        "with",
+        "by"
+      ],
+      "answer": 1,
+      "explain_en": "The adjective 'afraid' is followed by the preposition 'of'.",
+      "explain_bn": "'Afraid' adjective-টির পরে 'of' preposition বসে।"
+    },
+    {
+      "id": "en-031",
+      "topic_en": "Preposition",
+      "topic_bn": "ব্যাকরণ: প্রিপোজিশন",
+      "q_en": "She was born ___ 1998.",
+      "q_bn": "'She was born ___ 1998.' — শূন্যস্থানে কোন preposition বসবে?",
+      "options_en": [
+        "in",
+        "at",
+        "on",
+        "from"
+      ],
+      "options_bn": [
+        "in",
+        "at",
+        "on",
+        "from"
+      ],
+      "answer": 0,
+      "explain_en": "'In' is used before years, months, and long periods of time.",
+      "explain_bn": "বছর, মাস বা দীর্ঘ সময়ের আগে 'in' ব্যবহৃত হয়।"
+    },
+    {
+      "id": "en-032",
+      "topic_en": "Preposition",
+      "topic_bn": "ব্যাকরণ: প্রিপোজিশন",
+      "q_en": "The cat jumped ___ the table.",
+      "q_bn": "'The cat jumped ___ the table.' — শূন্যস্থানে কোন preposition বসবে?",
+      "options_en": [
+        "on",
+        "over",
+        "onto",
+        "into"
+      ],
+      "options_bn": [
+        "on",
+        "over",
+        "onto",
+        "into"
+      ],
+      "answer": 2,
+      "explain_en": "'Onto' shows movement to a surface, which fits jumping up to the table.",
+      "explain_bn": "কোনো পৃষ্ঠের দিকে গতি বোঝাতে 'onto' ব্যবহৃত হয়, যা টেবিলে লাফিয়ে ওঠার সাথে মানানসই।"
+    },
+    {
+      "id": "en-033",
+      "topic_en": "Preposition",
+      "topic_bn": "ব্যাকরণ: প্রিপোজিশন",
+      "q_en": "He has been ill ___ Monday.",
+      "q_bn": "'He has been ill ___ Monday.' — শূন্যস্থানে কোন preposition বসবে?",
+      "options_en": [
+        "from",
+        "for",
+        "in",
+        "since"
+      ],
+      "options_bn": [
+        "from",
+        "for",
+        "in",
+        "since"
+      ],
+      "answer": 3,
+      "explain_en": "'Since' is used with a point of time (Monday) in perfect tenses.",
+      "explain_bn": "Perfect tense-এ নির্দিষ্ট সময়বিন্দুর (Monday) আগে 'since' বসে।"
+    },
+    {
+      "id": "en-034",
+      "topic_en": "Preposition",
+      "topic_bn": "ব্যাকরণ: প্রিপোজিশন",
+      "q_en": "She is good ___ mathematics.",
+      "q_bn": "'She is good ___ mathematics.' — শূন্যস্থানে কোন preposition বসবে?",
+      "options_en": [
+        "in",
+        "at",
+        "for",
+        "on"
+      ],
+      "options_bn": [
+        "in",
+        "at",
+        "for",
+        "on"
+      ],
+      "answer": 1,
+      "explain_en": "The adjective 'good' takes 'at' when it means skilled in something.",
+      "explain_bn": "দক্ষতা অর্থে 'good' adjective-টির পরে 'at' বসে।"
+    },
+    {
+      "id": "en-035",
+      "topic_en": "Preposition",
+      "topic_bn": "ব্যাকরণ: প্রিপোজিশন",
+      "q_en": "He died ___ cholera.",
+      "q_bn": "'He died ___ cholera.' — শূন্যস্থানে কোন preposition বসবে?",
+      "options_en": [
+        "from",
+        "by",
+        "of",
+        "with"
+      ],
+      "options_bn": [
+        "from",
+        "by",
+        "of",
+        "with"
+      ],
+      "answer": 2,
+      "explain_en": "'Die of' is used for a disease or illness.",
+      "explain_bn": "রোগে মারা যাওয়া বোঝাতে 'die of' ব্যবহৃত হয়।"
+    },
+    {
+      "id": "en-036",
+      "topic_en": "Preposition",
+      "topic_bn": "ব্যাকরণ: প্রিপোজিশন",
+      "q_en": "Distribute the mangoes ___ the children.",
+      "q_bn": "'Distribute the mangoes ___ the children.' — শূন্যস্থানে কোন preposition বসবে?",
+      "options_en": [
+        "among",
+        "between",
+        "with",
+        "to"
+      ],
+      "options_bn": [
+        "among",
+        "between",
+        "with",
+        "to"
+      ],
+      "answer": 0,
+      "explain_en": "'Among' is used when distributing to more than two people or things.",
+      "explain_bn": "দুইয়ের অধিক ব্যক্তি বা বস্তুর মধ্যে বণ্টনে 'among' ব্যবহৃত হয়।"
+    },
+    {
+      "id": "en-037",
+      "topic_en": "Preposition",
+      "topic_bn": "ব্যাকরণ: প্রিপোজিশন",
+      "q_en": "I have no objection ___ your proposal.",
+      "q_bn": "'I have no objection ___ your proposal.' — শূন্যস্থানে কোন preposition বসবে?",
+      "options_en": [
+        "for",
+        "against",
+        "with",
+        "to"
+      ],
+      "options_bn": [
+        "for",
+        "against",
+        "with",
+        "to"
+      ],
+      "answer": 3,
+      "explain_en": "The noun 'objection' is followed by the preposition 'to'.",
+      "explain_bn": "'Objection' noun-টির পরে 'to' preposition বসে।"
+    },
+    {
+      "id": "en-038",
+      "topic_en": "Article",
+      "topic_bn": "ব্যাকরণ: আর্টিকেল",
+      "q_en": "___ honest man is respected everywhere.",
+      "q_bn": "'___ honest man is respected everywhere.' — শূন্যস্থানে কোন article বসবে?",
+      "options_en": [
+        "An",
+        "A",
+        "The",
+        "No article"
+      ],
+      "options_bn": [
+        "An",
+        "A",
+        "The",
+        "No article (কোনো article নয়)"
+      ],
+      "answer": 0,
+      "explain_en": "'Honest' begins with a vowel sound (the h is silent), so 'an' is used.",
+      "explain_bn": "'Honest' শব্দটি vowel ধ্বনি দিয়ে শুরু (h অনুচ্চারিত), তাই 'an' বসে।"
+    },
+    {
+      "id": "en-039",
+      "topic_en": "Article",
+      "topic_bn": "ব্যাকরণ: আর্টিকেল",
+      "q_en": "He is ___ university student.",
+      "q_bn": "'He is ___ university student.' — শূন্যস্থানে কোন article বসবে?",
+      "options_en": [
+        "an",
+        "a",
+        "the",
+        "No article"
+      ],
+      "options_bn": [
+        "an",
+        "a",
+        "the",
+        "No article (কোনো article নয়)"
+      ],
+      "answer": 1,
+      "explain_en": "'University' begins with the consonant sound /juː/, so 'a' is used.",
+      "explain_bn": "'University' ব্যঞ্জনধ্বনি /juː/ দিয়ে শুরু, তাই 'a' বসে।"
+    },
+    {
+      "id": "en-040",
+      "topic_en": "Article",
+      "topic_bn": "ব্যাকরণ: আর্টিকেল",
+      "q_en": "___ moon shines at night.",
+      "q_bn": "'___ moon shines at night.' — শূন্যস্থানে কোন article বসবে?",
+      "options_en": [
+        "A",
+        "An",
+        "The",
+        "No article"
+      ],
+      "options_bn": [
+        "A",
+        "An",
+        "The",
+        "No article (কোনো article নয়)"
+      ],
+      "answer": 2,
+      "explain_en": "Unique natural objects like the moon take the definite article 'the'.",
+      "explain_bn": "পৃথিবীতে একমাত্র এমন প্রাকৃতিক বস্তুর আগে 'the' বসে।"
+    },
+    {
+      "id": "en-041",
+      "topic_en": "Article",
+      "topic_bn": "ব্যাকরণ: আর্টিকেল",
+      "q_en": "He plays ___ cricket.",
+      "q_bn": "'He plays ___ cricket.' — শূন্যস্থানে কোন article বসবে?",
+      "options_en": [
+        "a",
+        "an",
+        "the",
+        "No article"
+      ],
+      "options_bn": [
+        "a",
+        "an",
+        "the",
+        "No article (কোনো article নয়)"
+      ],
+      "answer": 3,
+      "explain_en": "No article is used before the names of games and sports.",
+      "explain_bn": "খেলাধুলার নামের আগে কোনো article বসে না।"
+    },
+    {
+      "id": "en-042",
+      "topic_en": "Article",
+      "topic_bn": "ব্যাকরণ: আর্টিকেল",
+      "q_en": "___ Ganges is a sacred river.",
+      "q_bn": "'___ Ganges is a sacred river.' — শূন্যস্থানে কোন article বসবে?",
+      "options_en": [
+        "The",
+        "A",
+        "An",
+        "No article"
+      ],
+      "options_bn": [
+        "The",
+        "A",
+        "An",
+        "No article (কোনো article নয়)"
+      ],
+      "answer": 0,
+      "explain_en": "Rivers take the definite article 'the'.",
+      "explain_bn": "নদীর নামের আগে 'the' বসে।"
+    },
+    {
+      "id": "en-043",
+      "topic_en": "Article",
+      "topic_bn": "ব্যাকরণ: আর্টিকেল",
+      "q_en": "She went to ___ hospital to see her friend.",
+      "q_bn": "'She went to ___ hospital to see her friend.' — শূন্যস্থানে কোন article বসবে?",
+      "options_en": [
+        "a",
+        "the",
+        "an",
+        "No article"
+      ],
+      "options_bn": [
+        "a",
+        "the",
+        "an",
+        "No article (কোনো article নয়)"
+      ],
+      "answer": 1,
+      "explain_en": "A specific, known hospital takes the definite article 'the'.",
+      "explain_bn": "নির্দিষ্ট পরিচিত হাসপাতালের আগে 'the' বসে।"
+    },
+    {
+      "id": "en-044",
+      "topic_en": "Conditional",
+      "topic_bn": "ব্যাকরণ: শর্তবাচক বাক্য",
+      "q_en": "If I ___ rich, I would travel the world.",
+      "q_bn": "'If I ___ rich, I would travel the world.' — শূন্যস্থানে কোনটি বসবে?",
+      "options_en": [
+        "am",
+        "will be",
+        "were",
+        "have been"
+      ],
+      "options_bn": [
+        "am",
+        "will be",
+        "were",
+        "have been"
+      ],
+      "answer": 2,
+      "explain_en": "In the second conditional, 'were' is used with all subjects after 'if'.",
+      "explain_bn": "Second conditional-এ 'if'-এর পরে সব subject-এর সাথে 'were' ব্যবহৃত হয়।"
+    },
+    {
+      "id": "en-045",
+      "topic_en": "Conditional",
+      "topic_bn": "ব্যাকরণ: শর্তবাচক বাক্য",
+      "q_en": "If you heat ice, it ___.",
+      "q_bn": "'If you heat ice, it ___.' — শূন্যস্থানে কোনটি বসবে?",
+      "options_en": [
+        "will melt",
+        "melts",
+        "would melt",
+        "melted"
+      ],
+      "options_bn": [
+        "will melt",
+        "melts",
+        "would melt",
+        "melted"
+      ],
+      "answer": 1,
+      "explain_en": "The zero conditional expresses a general truth and uses the simple present in both clauses.",
+      "explain_bn": "Zero conditional সাধারণ সত্য প্রকাশ করে এবং উভয় clause-এ simple present tense নেয়।"
+    },
+    {
+      "id": "en-046",
+      "topic_en": "Conditional",
+      "topic_bn": "ব্যাকরণ: শর্তবাচক বাক্য",
+      "q_en": "If he had arrived earlier, he ___ the bus.",
+      "q_bn": "'If he had arrived earlier, he ___ the bus.' — শূন্যস্থানে কোনটি বসবে?",
+      "options_en": [
+        "would catch",
+        "will catch",
+        "catches",
+        "would have caught"
+      ],
+      "options_bn": [
+        "would catch",
+        "will catch",
+        "catches",
+        "would have caught"
+      ],
+      "answer": 3,
+      "explain_en": "The third conditional uses if + past perfect, followed by would have + past participle.",
+      "explain_bn": "Third conditional-এ if + past perfect-এর পরে would have + past participle বসে।"
+    },
+    {
+      "id": "en-047",
+      "topic_en": "Conditional",
+      "topic_bn": "ব্যাকরণ: শর্তবাচক বাক্য",
+      "q_en": "If it rains, we ___ at home.",
+      "q_bn": "'If it rains, we ___ at home.' — শূন্যস্থানে কোনটি বসবে?",
+      "options_en": [
+        "will stay",
+        "would stay",
+        "stayed",
+        "would have stayed"
+      ],
+      "options_bn": [
+        "will stay",
+        "would stay",
+        "stayed",
+        "would have stayed"
+      ],
+      "answer": 0,
+      "explain_en": "The first conditional uses if + present simple, followed by will + base verb.",
+      "explain_bn": "First conditional-এ if + present simple-এর পরে will + মূল verb বসে।"
+    },
+    {
+      "id": "en-048",
+      "topic_en": "Conditional",
+      "topic_bn": "ব্যাকরণ: শর্তবাচক বাক্য",
+      "q_en": "Had I known the truth, I ___ helped him.",
+      "q_bn": "'Had I known the truth, I ___ helped him.' — শূন্যস্থানে কোনটি বসবে?",
+      "options_en": [
+        "will have",
+        "would have",
+        "can have",
+        "shall have"
+      ],
+      "options_bn": [
+        "will have",
+        "would have",
+        "can have",
+        "shall have"
+      ],
+      "answer": 1,
+      "explain_en": "'Had I known' is an inverted third conditional, so the result clause uses 'would have'.",
+      "explain_bn": "'Had I known' হলো inverted third conditional, তাই ফলাফল clause-এ 'would have' বসে।"
+    },
+    {
+      "id": "en-049",
+      "topic_en": "Conditional",
+      "topic_bn": "ব্যাকরণ: শর্তবাচক বাক্য",
+      "q_en": "If she ___ harder, she would succeed.",
+      "q_bn": "'If she ___ harder, she would succeed.' — শূন্যস্থানে কোনটি বসবে?",
+      "options_en": [
+        "tries",
+        "will try",
+        "tried",
+        "had tried"
+      ],
+      "options_bn": [
+        "tries",
+        "will try",
+        "tried",
+        "had tried"
+      ],
+      "answer": 2,
+      "explain_en": "The second conditional uses if + past simple, followed by would + base verb.",
+      "explain_bn": "Second conditional-এ if + past simple-এর পরে would + মূল verb বসে।"
+    },
+    {
+      "id": "en-050",
+      "topic_en": "Parts of Speech",
+      "topic_bn": "ব্যাকরণ: পদ প্রকরণ",
+      "q_en": "In 'He runs quickly', the word 'quickly' is a/an ___.",
+      "q_bn": "'He runs quickly' বাক্যে 'quickly' শব্দটি কোন পদ?",
+      "options_en": [
+        "adverb",
+        "adjective",
+        "verb",
+        "noun"
+      ],
+      "options_bn": [
+        "adverb (ক্রিয়া বিশেষণ)",
+        "adjective (বিশেষণ)",
+        "verb (ক্রিয়া)",
+        "noun (বিশেষ্য)"
+      ],
+      "answer": 0,
+      "explain_en": "'Quickly' modifies the verb 'runs', so it is an adverb.",
+      "explain_bn": "'Quickly' verb 'runs'-কে বিশেষিত করে, তাই এটি adverb।"
+    },
+    {
+      "id": "en-051",
+      "topic_en": "Parts of Speech",
+      "topic_bn": "ব্যাকরণ: পদ প্রকরণ",
+      "q_en": "Which word is a preposition in 'The book is on the table'?",
+      "q_bn": "'The book is on the table' বাক্যে কোনটি preposition?",
+      "options_en": [
+        "book",
+        "on",
+        "the",
+        "is"
+      ],
+      "options_bn": [
+        "book (বই)",
+        "on (উপরে)",
+        "the",
+        "is (হয়)"
+      ],
+      "answer": 1,
+      "explain_en": "'On' shows the relation between 'book' and 'table', so it is a preposition.",
+      "explain_bn": "'On' 'book' ও 'table'-এর সম্পর্ক দেখায়, তাই এটি preposition।"
+    },
+    {
+      "id": "en-052",
+      "topic_en": "Parts of Speech",
+      "topic_bn": "ব্যাকরণ: পদ প্রকরণ",
+      "q_en": "'Honesty' is a ___ noun.",
+      "q_bn": "'Honesty' কোন ধরনের noun?",
+      "options_en": [
+        "proper",
+        "common",
+        "abstract",
+        "collective"
+      ],
+      "options_bn": [
+        "proper (বিশেষ)",
+        "common (সাধারণ)",
+        "abstract (ভাববাচক)",
+        "collective (সমষ্টিবাচক)"
+      ],
+      "answer": 2,
+      "explain_en": "'Honesty' names a quality that cannot be touched or seen, so it is an abstract noun.",
+      "explain_bn": "'Honesty' একটি গুণবাচক নাম যা স্পর্শ বা দেখা যায় না, তাই এটি abstract noun।"
+    },
+    {
+      "id": "en-053",
+      "topic_en": "Parts of Speech",
+      "topic_bn": "ব্যাকরণ: পদ প্রকরণ",
+      "q_en": "In 'They went home', the word 'they' is a ___ pronoun.",
+      "q_bn": "'They went home' বাক্যে 'they' কোন ধরনের pronoun?",
+      "options_en": [
+        "reflexive",
+        "relative",
+        "demonstrative",
+        "personal"
+      ],
+      "options_bn": [
+        "reflexive (আত্মবাচক)",
+        "relative (সম্পর্কবাচক)",
+        "demonstrative (নির্দেশক)",
+        "personal (ব্যক্তিবাচক)"
+      ],
+      "answer": 3,
+      "explain_en": "'They' stands for persons and is used as the subject, so it is a personal pronoun.",
+      "explain_bn": "'They' ব্যক্তিকে বোঝায় এবং subject হিসেবে ব্যবহৃত হয়, তাই এটি personal pronoun।"
+    },
+    {
+      "id": "en-054",
+      "topic_en": "Parts of Speech",
+      "topic_bn": "ব্যাকরণ: পদ প্রকরণ",
+      "q_en": "The word 'beautiful' is a/an ___.",
+      "q_bn": "'Beautiful' শব্দটি কোন পদ?",
+      "options_en": [
+        "adjective",
+        "adverb",
+        "noun",
+        "verb"
+      ],
+      "options_bn": [
+        "adjective (বিশেষণ)",
+        "adverb (ক্রিয়া বিশেষণ)",
+        "noun (বিশেষ্য)",
+        "verb (ক্রিয়া)"
+      ],
+      "answer": 0,
+      "explain_en": "'Beautiful' describes a noun, so it is an adjective.",
+      "explain_bn": "'Beautiful' noun-কে বর্ণনা করে, তাই এটি adjective।"
+    },
+    {
+      "id": "en-055",
+      "topic_en": "Parts of Speech",
+      "topic_bn": "ব্যাকরণ: পদ প্রকরণ",
+      "q_en": "In 'Alas! He is dead', the word 'alas' is a/an ___.",
+      "q_bn": "'Alas! He is dead' বাক্যে 'alas' কোন পদ?",
+      "options_en": [
+        "noun",
+        "interjection",
+        "conjunction",
+        "preposition"
+      ],
+      "options_bn": [
+        "noun (বিশেষ্য)",
+        "interjection (আবেগসূচক অব্যয়)",
+        "conjunction (সংযোজক অব্যয়)",
+        "preposition (সম্বন্ধসূচক অব্যয়)"
+      ],
+      "answer": 1,
+      "explain_en": "'Alas' expresses a sudden emotion, so it is an interjection.",
+      "explain_bn": "'Alas' হঠাৎ আবেগ প্রকাশ করে, তাই এটি interjection।"
+    },
+    {
+      "id": "en-056",
+      "topic_en": "Parts of Speech",
+      "topic_bn": "ব্যাকরণ: পদ প্রকরণ",
+      "q_en": "In 'Running is good exercise', the word 'running' is a ___.",
+      "q_bn": "'Running is good exercise' বাক্যে 'running' কী?",
+      "options_en": [
+        "participle",
+        "infinitive",
+        "gerund",
+        "verb"
+      ],
+      "options_bn": [
+        "participle",
+        "infinitive",
+        "gerund",
+        "verb (ক্রিয়া)"
+      ],
+      "answer": 2,
+      "explain_en": "'Running' is a verb form used as the subject (a noun), so it is a gerund.",
+      "explain_bn": "'Running' subject (noun) হিসেবে ব্যবহৃত verb-রূপ, তাই এটি gerund।"
+    },
+    {
+      "id": "en-057",
+      "topic_en": "Parts of Speech",
+      "topic_bn": "ব্যাকরণ: পদ প্রকরণ",
+      "q_en": "In 'He stayed home because he was ill', the word 'because' is a ___.",
+      "q_bn": "'He stayed home because he was ill' বাক্যে 'because' কোন পদ?",
+      "options_en": [
+        "preposition",
+        "adverb",
+        "adjective",
+        "conjunction"
+      ],
+      "options_bn": [
+        "preposition",
+        "adverb (ক্রিয়া বিশেষণ)",
+        "adjective (বিশেষণ)",
+        "conjunction (সংযোজক অব্যয়)"
+      ],
+      "answer": 3,
+      "explain_en": "'Because' joins two clauses, so it is a subordinating conjunction.",
+      "explain_bn": "'Because' দুটি clause-কে যুক্ত করে, তাই এটি conjunction।"
+    },
+    {
+      "id": "en-058",
+      "topic_en": "Synonym",
+      "topic_bn": "শব্দভাণ্ডার: সমার্থক শব্দ",
+      "q_en": "Choose the synonym of 'abandon'.",
+      "q_bn": "'abandon'-এর সমার্থক শব্দ কোনটি?",
+      "options_en": [
+        "leave",
+        "keep",
+        "hold",
+        "join"
+      ],
+      "options_bn": [
+        "leave (ত্যাগ করা)",
+        "keep (রাখা)",
+        "hold (ধরা)",
+        "join (যোগ দেওয়া)"
+      ],
+      "answer": 0,
+      "explain_en": "'Abandon' means to give up or leave behind; 'leave' is its synonym.",
+      "explain_bn": "'Abandon' অর্থ ত্যাগ করা বা ছেড়ে দেওয়া; 'leave'-এর অর্থও ত্যাগ করা।"
+    },
+    {
+      "id": "en-059",
+      "topic_en": "Synonym",
+      "topic_bn": "শব্দভাণ্ডার: সমার্থক শব্দ",
+      "q_en": "Choose the synonym of 'brave'.",
+      "q_bn": "'brave'-এর সমার্থক শব্দ কোনটি?",
+      "options_en": [
+        "timid",
+        "courageous",
+        "cowardly",
+        "fearful"
+      ],
+      "options_bn": [
+        "timid (ভীরু)",
+        "courageous (সাহসী)",
+        "cowardly (কাপুরুষ)",
+        "fearful (ভীত)"
+      ],
+      "answer": 1,
+      "explain_en": "'Brave' means showing no fear; 'courageous' has the same meaning.",
+      "explain_bn": "'Brave' অর্থ নির্ভীক; 'courageous'-এর অর্থও সাহসী।"
+    },
+    {
+      "id": "en-060",
+      "topic_en": "Synonym",
+      "topic_bn": "শব্দভাণ্ডার: সমার্থক শব্দ",
+      "q_en": "Choose the synonym of 'rapid'.",
+      "q_bn": "'rapid'-এর সমার্থক শব্দ কোনটি?",
+      "options_en": [
+        "slow",
+        "lazy",
+        "swift",
+        "calm"
+      ],
+      "options_bn": [
+        "slow (ধীর)",
+        "lazy (অলস)",
+        "swift (দ্রুত)",
+        "calm (শান্ত)"
+      ],
+      "answer": 2,
+      "explain_en": "'Rapid' means happening quickly; 'swift' means the same.",
+      "explain_bn": "'Rapid' অর্থ দ্রুতগতির; 'swift'-এর অর্থও দ্রুত।"
+    },
+    {
+      "id": "en-061",
+      "topic_en": "Synonym",
+      "topic_bn": "শব্দভাণ্ডার: সমার্থক শব্দ",
+      "q_en": "Choose the synonym of 'honest'.",
+      "q_bn": "'honest'-এর সমার্থক শব্দ কোনটি?",
+      "options_en": [
+        "false",
+        "dishonest",
+        "cunning",
+        "truthful"
+      ],
+      "options_bn": [
+        "false (মিথ্যা)",
+        "dishonest (অসৎ)",
+        "cunning (ধূর্ত)",
+        "truthful (সত্যবাদী)"
+      ],
+      "answer": 3,
+      "explain_en": "'Honest' means truthful and sincere; 'truthful' is its synonym.",
+      "explain_bn": "'Honest' অর্থ সৎ ও সত্যবাদী; 'truthful'-এর অর্থও সত্যবাদী।"
+    },
+    {
+      "id": "en-062",
+      "topic_en": "Synonym",
+      "topic_bn": "শব্দভাণ্ডার: সমার্থক শব্দ",
+      "q_en": "Choose the synonym of 'ancient'.",
+      "q_bn": "'ancient'-এর সমার্থক শব্দ কোনটি?",
+      "options_en": [
+        "old",
+        "new",
+        "modern",
+        "young"
+      ],
+      "options_bn": [
+        "old (পুরনো)",
+        "new (নতুন)",
+        "modern (আধুনিক)",
+        "young (তরুণ)"
+      ],
+      "answer": 0,
+      "explain_en": "'Ancient' means very old; 'old' is its synonym.",
+      "explain_bn": "'Ancient' অর্থ অতি পুরনো; 'old'-এর অর্থও পুরনো।"
+    },
+    {
+      "id": "en-063",
+      "topic_en": "Synonym",
+      "topic_bn": "শব্দভাণ্ডার: সমার্থক শব্দ",
+      "q_en": "Choose the synonym of 'generous'.",
+      "q_bn": "'generous'-এর সমার্থক শব্দ কোনটি?",
+      "options_en": [
+        "selfish",
+        "kind-hearted",
+        "miserly",
+        "greedy"
+      ],
+      "options_bn": [
+        "selfish (স্বার্থপর)",
+        "kind-hearted (দয়ালু)",
+        "miserly (কৃপণ)",
+        "greedy (লোভী)"
+      ],
+      "answer": 1,
+      "explain_en": "'Generous' means giving freely; 'kind-hearted' expresses the same idea.",
+      "explain_bn": "'Generous' অর্থ উদার; 'kind-hearted'-এর অর্থও দয়ালু/উদার।"
+    },
+    {
+      "id": "en-064",
+      "topic_en": "Synonym",
+      "topic_bn": "শব্দভাণ্ডার: সমার্থক শব্দ",
+      "q_en": "Choose the synonym of 'fragile'.",
+      "q_bn": "'fragile'-এর সমার্থক শব্দ কোনটি?",
+      "options_en": [
+        "strong",
+        "sturdy",
+        "delicate",
+        "tough"
+      ],
+      "options_bn": [
+        "strong (শক্তিশালী)",
+        "sturdy (মজবুত)",
+        "delicate (ভঙ্গুর)",
+        "tough (কঠিন)"
+      ],
+      "answer": 2,
+      "explain_en": "'Fragile' means easily broken; 'delicate' means the same.",
+      "explain_bn": "'Fragile' অর্থ সহজে ভেঙে যায় এমন; 'delicate'-এর অর্থও ভঙ্গুর।"
+    },
+    {
+      "id": "en-065",
+      "topic_en": "Synonym",
+      "topic_bn": "শব্দভাণ্ডার: সমার্থক শব্দ",
+      "q_en": "Choose the synonym of 'victory'.",
+      "q_bn": "'victory'-এর সমার্থক শব্দ কোনটি?",
+      "options_en": [
+        "loss",
+        "defeat",
+        "failure",
+        "triumph"
+      ],
+      "options_bn": [
+        "loss (ক্ষতি)",
+        "defeat (পরাজয়)",
+        "failure (ব্যর্থতা)",
+        "triumph (বিজয়)"
+      ],
+      "answer": 3,
+      "explain_en": "'Victory' means success in a contest; 'triumph' is its synonym.",
+      "explain_bn": "'Victory' অর্থ জয়লাভ; 'triumph'-এর অর্থও বিজয়।"
+    },
+    {
+      "id": "en-066",
+      "topic_en": "Synonym",
+      "topic_bn": "শব্দভাণ্ডার: সমার্থক শব্দ",
+      "q_en": "Choose the synonym of 'expand'.",
+      "q_bn": "'expand'-এর সমার্থক শব্দ কোনটি?",
+      "options_en": [
+        "enlarge",
+        "shrink",
+        "reduce",
+        "contract"
+      ],
+      "options_bn": [
+        "enlarge (বড় করা)",
+        "shrink (সংকুচিত হওয়া)",
+        "reduce (কমানো)",
+        "contract (সংকোচন)"
+      ],
+      "answer": 0,
+      "explain_en": "'Expand' means to become or make larger; 'enlarge' means the same.",
+      "explain_bn": "'Expand' অর্থ প্রসারিত করা; 'enlarge'-এর অর্থও বড় করা।"
+    },
+    {
+      "id": "en-067",
+      "topic_en": "Antonym",
+      "topic_bn": "শব্দভাণ্ডার: বিপরীত শব্দ",
+      "q_en": "Choose the antonym of 'generous'.",
+      "q_bn": "'generous'-এর বিপরীত শব্দ কোনটি?",
+      "options_en": [
+        "kind",
+        "liberal",
+        "miserly",
+        "noble"
+      ],
+      "options_bn": [
+        "kind (দয়ালু)",
+        "liberal (উদার)",
+        "miserly (কৃপণ)",
+        "noble (মহৎ)"
+      ],
+      "answer": 2,
+      "explain_en": "'Generous' means giving freely; its opposite is 'miserly' (unwilling to spend).",
+      "explain_bn": "'Generous' অর্থ উদার; এর বিপরীত 'miserly' (কৃপণ)।"
+    },
+    {
+      "id": "en-068",
+      "topic_en": "Antonym",
+      "topic_bn": "শব্দভাণ্ডার: বিপরীত শব্দ",
+      "q_en": "Choose the antonym of 'expand'.",
+      "q_bn": "'expand'-এর বিপরীত শব্দ কোনটি?",
+      "options_en": [
+        "enlarge",
+        "extend",
+        "widen",
+        "contract"
+      ],
+      "options_bn": [
+        "enlarge (বড় করা)",
+        "extend (বিস্তৃত করা)",
+        "widen (প্রশস্ত করা)",
+        "contract (সংকুচিত করা)"
+      ],
+      "answer": 3,
+      "explain_en": "'Expand' means to grow larger; its opposite is 'contract' (to shrink).",
+      "explain_bn": "'Expand' অর্থ প্রসারিত হওয়া; এর বিপরীত 'contract' (সংকুচিত হওয়া)।"
+    },
+    {
+      "id": "en-069",
+      "topic_en": "Antonym",
+      "topic_bn": "শব্দভাণ্ডার: বিপরীত শব্দ",
+      "q_en": "Choose the antonym of 'victory'.",
+      "q_bn": "'victory'-এর বিপরীত শব্দ কোনটি?",
+      "options_en": [
+        "defeat",
+        "win",
+        "success",
+        "glory"
+      ],
+      "options_bn": [
+        "defeat (পরাজয়)",
+        "win (জয়)",
+        "success (সাফল্য)",
+        "glory (গৌরব)"
+      ],
+      "answer": 0,
+      "explain_en": "'Victory' means winning; its opposite is 'defeat'.",
+      "explain_bn": "'Victory' অর্থ বিজয়; এর বিপরীত 'defeat' (পরাজয়)।"
+    },
+    {
+      "id": "en-070",
+      "topic_en": "Antonym",
+      "topic_bn": "শব্দভাণ্ডার: বিপরীত শব্দ",
+      "q_en": "Choose the antonym of 'ancient'.",
+      "q_bn": "'ancient'-এর বিপরীত শব্দ কোনটি?",
+      "options_en": [
+        "old",
+        "modern",
+        "antique",
+        "aged"
+      ],
+      "options_bn": [
+        "old (পুরনো)",
+        "modern (আধুনিক)",
+        "antique (প্রাচীন)",
+        "aged (বয়স্ক)"
+      ],
+      "answer": 1,
+      "explain_en": "'Ancient' means very old; its opposite is 'modern'.",
+      "explain_bn": "'Ancient' অর্থ অতি পুরনো; এর বিপরীত 'modern' (আধুনিক)।"
+    },
+    {
+      "id": "en-071",
+      "topic_en": "Antonym",
+      "topic_bn": "শব্দভাণ্ডার: বিপরীত শব্দ",
+      "q_en": "Choose the antonym of 'brave'.",
+      "q_bn": "'brave'-এর বিপরীত শব্দ কোনটি?",
+      "options_en": [
+        "bold",
+        "valiant",
+        "cowardly",
+        "heroic"
+      ],
+      "options_bn": [
+        "bold (সাহসী)",
+        "valiant (বীর)",
+        "cowardly (কাপুরুষ)",
+        "heroic (বীরত্বপূর্ণ)"
+      ],
+      "answer": 2,
+      "explain_en": "'Brave' means fearless; its opposite is 'cowardly'.",
+      "explain_bn": "'Brave' অর্থ সাহসী; এর বিপরীত 'cowardly' (কাপুরুষ)।"
+    },
+    {
+      "id": "en-072",
+      "topic_en": "Antonym",
+      "topic_bn": "শব্দভাণ্ডার: বিপরীত শব্দ",
+      "q_en": "Choose the antonym of 'honest'.",
+      "q_bn": "'honest'-এর বিপরীত শব্দ কোনটি?",
+      "options_en": [
+        "true",
+        "sincere",
+        "upright",
+        "dishonest"
+      ],
+      "options_bn": [
+        "true (সত্য)",
+        "sincere (আন্তরিক)",
+        "upright (সরল)",
+        "dishonest (অসৎ)"
+      ],
+      "answer": 3,
+      "explain_en": "'Honest' means truthful; its opposite is 'dishonest'.",
+      "explain_bn": "'Honest' অর্থ সৎ; এর বিপরীত 'dishonest' (অসৎ)।"
+    },
+    {
+      "id": "en-073",
+      "topic_en": "Antonym",
+      "topic_bn": "শব্দভাণ্ডার: বিপরীত শব্দ",
+      "q_en": "Choose the antonym of 'rapid'.",
+      "q_bn": "'rapid'-এর বিপরীত শব্দ কোনটি?",
+      "options_en": [
+        "slow",
+        "fast",
+        "quick",
+        "speedy"
+      ],
+      "options_bn": [
+        "slow (ধীর)",
+        "fast (দ্রুত)",
+        "quick (দ্রুত)",
+        "speedy (দ্রুতগতির)"
+      ],
+      "answer": 0,
+      "explain_en": "'Rapid' means fast; its opposite is 'slow'.",
+      "explain_bn": "'Rapid' অর্থ দ্রুত; এর বিপরীত 'slow' (ধীর)।"
+    },
+    {
+      "id": "en-074",
+      "topic_en": "Antonym",
+      "topic_bn": "শব্দভাণ্ডার: বিপরীত শব্দ",
+      "q_en": "Choose the antonym of 'fragile'.",
+      "q_bn": "'fragile'-এর বিপরীত শব্দ কোনটি?",
+      "options_en": [
+        "weak",
+        "sturdy",
+        "brittle",
+        "frail"
+      ],
+      "options_bn": [
+        "weak (দুর্বল)",
+        "sturdy (মজবুত)",
+        "brittle (ভঙ্গুর)",
+        "frail (দুর্বল)"
+      ],
+      "answer": 1,
+      "explain_en": "'Fragile' means easily broken; its opposite is 'sturdy' (strong and solid).",
+      "explain_bn": "'Fragile' অর্থ ভঙ্গুর; এর বিপরীত 'sturdy' (মজবুত)।"
+    },
+    {
+      "id": "en-075",
+      "topic_en": "Antonym",
+      "topic_bn": "শব্দভাণ্ডার: বিপরীত শব্দ",
+      "q_en": "Choose the antonym of 'lucid'.",
+      "q_bn": "'lucid'-এর বিপরীত শব্দ কোনটি?",
+      "options_en": [
+        "clear",
+        "plain",
+        "obscure",
+        "bright"
+      ],
+      "options_bn": [
+        "clear (স্পষ্ট)",
+        "plain (সরল)",
+        "obscure (অস্পষ্ট)",
+        "bright (উজ্জ্বল)"
+      ],
+      "answer": 2,
+      "explain_en": "'Lucid' means clear and easy to understand; its opposite is 'obscure' (unclear).",
+      "explain_bn": "'Lucid' অর্থ স্পষ্ট ও সহজবোধ্য; এর বিপরীত 'obscure' (অস্পষ্ট)।"
+    },
+    {
+      "id": "en-076",
+      "topic_en": "Idioms & Phrases",
+      "topic_bn": "শব্দভাণ্ডার: বাগধারা",
+      "q_en": "The meaning of 'to bite the dust' is —",
+      "q_bn": "'to bite the dust' বাগধারাটির অর্থ কী?",
+      "options_en": [
+        "to eat quickly",
+        "to fail or be defeated",
+        "to work hard",
+        "to hide oneself"
+      ],
+      "options_bn": [
+        "to eat quickly (দ্রুত খাওয়া)",
+        "to fail or be defeated (ব্যর্থ বা পরাজিত হওয়া)",
+        "to work hard (কঠোর পরিশ্রম করা)",
+        "to hide oneself (নিজেকে লুকানো)"
+      ],
+      "answer": 1,
+      "explain_en": "'To bite the dust' means to fail or be defeated, originally describing a fallen rider.",
+      "explain_bn": "'To bite the dust' অর্থ ব্যর্থ হওয়া বা পরাজিত হওয়া।"
+    },
+    {
+      "id": "en-077",
+      "topic_en": "Idioms & Phrases",
+      "topic_bn": "শব্দভাণ্ডার: বাগধারা",
+      "q_en": "The meaning of 'a blessing in disguise' is —",
+      "q_bn": "'a blessing in disguise' বাগধারাটির অর্থ কী?",
+      "options_en": [
+        "a hidden curse",
+        "an obvious gift",
+        "a hidden benefit",
+        "a clear loss"
+      ],
+      "options_bn": [
+        "a hidden curse (লুকানো অভিশাপ)",
+        "an obvious gift (স্পষ্ট উপহার)",
+        "a hidden benefit (লুকানো কল্যাণ)",
+        "a clear loss (স্পষ্ট ক্ষতি)"
+      ],
+      "answer": 2,
+      "explain_en": "'A blessing in disguise' is something that seems bad at first but turns out to be good — a hidden benefit.",
+      "explain_bn": "'A blessing in disguise' হলো এমন কিছু যা প্রথমে খারাপ মনে হলেও পরে কল্যাণকর প্রমাণিত হয় — লুকানো কল্যাণ।"
+    },
+    {
+      "id": "en-078",
+      "topic_en": "Idioms & Phrases",
+      "topic_bn": "শব্দভাণ্ডার: বাগধারা",
+      "q_en": "The meaning of 'to cry over spilt milk' is —",
+      "q_bn": "'to cry over spilt milk' বাগধারাটির অর্থ কী?",
+      "options_en": [
+        "to be very thirsty",
+        "to clean up a mess",
+        "to ask for help",
+        "to regret what cannot be changed"
+      ],
+      "options_bn": [
+        "to be very thirsty (খুব তৃষ্ণার্ত হওয়া)",
+        "to clean up a mess (অগোছালো পরিষ্কার করা)",
+        "to ask for help (সাহায্য চাওয়া)",
+        "to regret what cannot be changed (যা বদলানো যায় না তা নিয়ে আফসোস করা)"
+      ],
+      "answer": 3,
+      "explain_en": "'To cry over spilt milk' means to waste time regretting something that cannot be undone.",
+      "explain_bn": "'To cry over spilt milk' অর্থ যা আর বদলানো যায় না তা নিয়ে বৃথা আফসোস করা।"
+    },
+    {
+      "id": "en-079",
+      "topic_en": "Idioms & Phrases",
+      "topic_bn": "শব্দভাণ্ডার: বাগধারা",
+      "q_en": "The meaning of 'to break the ice' is —",
+      "q_bn": "'to break the ice' বাগধারাটির অর্থ কী?",
+      "options_en": [
+        "to start a conversation",
+        "to break something",
+        "to feel cold",
+        "to end a friendship"
+      ],
+      "options_bn": [
+        "to start a conversation (কথোপকথন শুরু করা)",
+        "to break something (কিছু ভাঙা)",
+        "to feel cold (ঠান্ডা অনুভব করা)",
+        "to end a friendship (বন্ধুত্ব শেষ করা)"
+      ],
+      "answer": 0,
+      "explain_en": "'To break the ice' means to do or say something to start a conversation and ease tension.",
+      "explain_bn": "'To break the ice' অর্থ কথোপকথন শুরু করে জড়তা কাটানো।"
+    },
+    {
+      "id": "en-080",
+      "topic_en": "Idioms & Phrases",
+      "topic_bn": "শব্দভাণ্ডার: বাগধারা",
+      "q_en": "The meaning of 'once in a blue moon' is —",
+      "q_bn": "'once in a blue moon' বাগধারাটির অর্থ কী?",
+      "options_en": [
+        "every month",
+        "very rarely",
+        "at night",
+        "on a holiday"
+      ],
+      "options_bn": [
+        "every month (প্রতি মাসে)",
+        "very rarely (খুব কদাচিৎ)",
+        "at night (রাতে)",
+        "on a holiday (ছুটির দিনে)"
+      ],
+      "answer": 1,
+      "explain_en": "'Once in a blue moon' describes something that happens very rarely.",
+      "explain_bn": "'Once in a blue moon' অর্থ খুব কদাচিৎ ঘটে এমন কিছু।"
+    },
+    {
+      "id": "en-081",
+      "topic_en": "Idioms & Phrases",
+      "topic_bn": "শব্দভাণ্ডার: বাগধারা",
+      "q_en": "The meaning of 'to hit the nail on the head' is —",
+      "q_bn": "'to hit the nail on the head' বাগধারাটির অর্থ কী?",
+      "options_en": [
+        "to hurt someone",
+        "to work with tools",
+        "to say exactly the right thing",
+        "to miss the point"
+      ],
+      "options_bn": [
+        "to hurt someone (কাউকে আঘাত করা)",
+        "to work with tools (যন্ত্রপাতি দিয়ে কাজ করা)",
+        "to say exactly the right thing (একদম সঠিক কথা বলা)",
+        "to miss the point (মূল বিষয় মিস করা)"
+      ],
+      "answer": 2,
+      "explain_en": "'To hit the nail on the head' means to say or do exactly the right thing.",
+      "explain_bn": "'To hit the nail on the head' অর্থ একদম সঠিক কথা বলা বা কাজ করা।"
+    },
+    {
+      "id": "en-082",
+      "topic_en": "Idioms & Phrases",
+      "topic_bn": "শব্দভাণ্ডার: বাগধারা",
+      "q_en": "The meaning of 'a piece of cake' is —",
+      "q_bn": "'a piece of cake' বাগধারাটির অর্থ কী?",
+      "options_en": [
+        "a sweet dish",
+        "a birthday party",
+        "a small portion",
+        "something very easy"
+      ],
+      "options_bn": [
+        "a sweet dish (মিষ্টি খাবার)",
+        "a birthday party (জন্মদিনের পার্টি)",
+        "a small portion (ছোট অংশ)",
+        "something very easy (খুব সহজ কিছু)"
+      ],
+      "answer": 3,
+      "explain_en": "'A piece of cake' means something very easy to do.",
+      "explain_bn": "'A piece of cake' অর্থ খুব সহজ কাজ।"
+    },
+    {
+      "id": "en-083",
+      "topic_en": "Idioms & Phrases",
+      "topic_bn": "শব্দভাণ্ডার: বাগধারা",
+      "q_en": "The meaning of 'to burn the midnight oil' is —",
+      "q_bn": "'to burn the midnight oil' বাগধারাটির অর্থ কী?",
+      "options_en": [
+        "to study or work late at night",
+        "to waste fuel",
+        "to cook at night",
+        "to sleep early"
+      ],
+      "options_bn": [
+        "to study or work late at night (গভীর রাত পর্যন্ত পড়া বা কাজ করা)",
+        "to waste fuel (জ্বালানি নষ্ট করা)",
+        "to cook at night (রাতে রান্না করা)",
+        "to sleep early (তাড়াতাড়ি ঘুমানো)"
+      ],
+      "answer": 0,
+      "explain_en": "'To burn the midnight oil' means to study or work late into the night.",
+      "explain_bn": "'To burn the midnight oil' অর্থ গভীর রাত পর্যন্ত পড়াশোনা বা কাজ করা।"
+    },
+    {
+      "id": "en-084",
+      "topic_en": "One-Word Substitution",
+      "topic_bn": "শব্দভাণ্ডার: এককথায় প্রকাশ",
+      "q_en": "One who can use both hands equally well is called —",
+      "q_bn": "যে ব্যক্তি উভয় হাত সমান দক্ষতায় ব্যবহার করতে পারে তাকে কী বলে?",
+      "options_en": [
+        "versatile",
+        "flexible",
+        "ambidextrous",
+        "dexterous"
+      ],
+      "options_bn": [
+        "versatile (বহুমুখী)",
+        "flexible (নমনীয়)",
+        "ambidextrous (উভয়হস্ত-দক্ষ)",
+        "dexterous (দক্ষ)"
+      ],
+      "answer": 2,
+      "explain_en": "'Ambidextrous' (ambi = both, dextrous = skilled) means able to use both hands equally well.",
+      "explain_bn": "'Ambidextrous' (ambi = উভয়, dextrous = দক্ষ) অর্থ উভয় হাত সমানভাবে ব্যবহারে সক্ষম।"
+    },
+    {
+      "id": "en-085",
+      "topic_en": "One-Word Substitution",
+      "topic_bn": "শব্দভাণ্ডার: এককথায় প্রকাশ",
+      "q_en": "A person who speaks many languages is called —",
+      "q_bn": "যে ব্যক্তি অনেক ভাষায় কথা বলতে পারে তাকে কী বলে?",
+      "options_en": [
+        "orator",
+        "bilingual",
+        "spokesman",
+        "polyglot"
+      ],
+      "options_bn": [
+        "orator (বক্তা)",
+        "bilingual (দ্বিভাষিক)",
+        "spokesman (মুখপাত্র)",
+        "polyglot (বহুভাষাবিদ)"
+      ],
+      "answer": 3,
+      "explain_en": "A 'polyglot' is a person who knows or uses several languages.",
+      "explain_bn": "'Polyglot' হলো এমন ব্যক্তি যে একাধিক ভাষা জানে বা ব্যবহার করে।"
+    },
+    {
+      "id": "en-086",
+      "topic_en": "One-Word Substitution",
+      "topic_bn": "শব্দভাণ্ডার: এককথায় প্রকাশ",
+      "q_en": "One who hates mankind is called —",
+      "q_bn": "যে মানবজাতিকে ঘৃণা করে তাকে কী বলে?",
+      "options_en": [
+        "misanthrope",
+        "philanthropist",
+        "misogynist",
+        "optimist"
+      ],
+      "options_bn": [
+        "misanthrope (মানববিদ্বেষী)",
+        "philanthropist (মানবপ্রেমী)",
+        "misogynist (নারীবিদ্বেষী)",
+        "optimist (আশাবাদী)"
+      ],
+      "answer": 0,
+      "explain_en": "A 'misanthrope' is a person who dislikes or distrusts humankind.",
+      "explain_bn": "'Misanthrope' হলো মানবজাতিকে অপছন্দকারী ব্যক্তি।"
+    },
+    {
+      "id": "en-087",
+      "topic_en": "One-Word Substitution",
+      "topic_bn": "শব্দভাণ্ডার: এককথায় প্রকাশ",
+      "q_en": "A place where birds are kept is called —",
+      "q_bn": "যেখানে পাখি রাখা হয় সেই জায়গাকে কী বলে?",
+      "options_en": [
+        "apiary",
+        "aviary",
+        "stable",
+        "aquarium"
+      ],
+      "options_bn": [
+        "apiary (মৌমাছির খামার)",
+        "aviary (পক্ষিশালা)",
+        "stable (আস্তাবল)",
+        "aquarium (মৎস্যশালা)"
+      ],
+      "answer": 1,
+      "explain_en": "An 'aviary' is a large enclosure for keeping birds.",
+      "explain_bn": "'Aviary' হলো পাখি রাখার বড় খাঁচা বা পক্ষিশালা।"
+    },
+    {
+      "id": "en-088",
+      "topic_en": "One-Word Substitution",
+      "topic_bn": "শব্দভাণ্ডার: এককথায় প্রকাশ",
+      "q_en": "One who is new to a profession is called —",
+      "q_bn": "যে পেশায় নতুন তাকে কী বলে?",
+      "options_en": [
+        "veteran",
+        "expert",
+        "novice",
+        "master"
+      ],
+      "options_bn": [
+        "veteran (অভিজ্ঞ)",
+        "expert (বিশেষজ্ঞ)",
+        "novice (নবীন)",
+        "master (ওস্তাদ)"
+      ],
+      "answer": 2,
+      "explain_en": "A 'novice' is a person new to a field or activity.",
+      "explain_bn": "'Novice' হলো কোনো ক্ষেত্রে নতুন ব্যক্তি।"
+    },
+    {
+      "id": "en-089",
+      "topic_en": "One-Word Substitution",
+      "topic_bn": "শব্দভাণ্ডার: এককথায় প্রকাশ",
+      "q_en": "Government by the people is called —",
+      "q_bn": "জনগণের শাসনকে কী বলে?",
+      "options_en": [
+        "monarchy",
+        "autocracy",
+        "oligarchy",
+        "democracy"
+      ],
+      "options_bn": [
+        "monarchy (রাজতন্ত্র)",
+        "autocracy (স্বৈরতন্ত্র)",
+        "oligarchy (গোষ্ঠীতন্ত্র)",
+        "democracy (গণতন্ত্র)"
+      ],
+      "answer": 3,
+      "explain_en": "'Democracy' is government by the people, through elected representatives.",
+      "explain_bn": "'Democracy' হলো জনগণের শাসন, নির্বাচিত প্রতিনিধিদের মাধ্যমে।"
+    },
+    {
+      "id": "en-090",
+      "topic_en": "One-Word Substitution",
+      "topic_bn": "শব্দভাণ্ডার: এককথায় প্রকাশ",
+      "q_en": "A person who writes dictionaries is called —",
+      "q_bn": "যে ব্যক্তি অভিধান রচনা করে তাকে কী বলে?",
+      "options_en": [
+        "lexicographer",
+        "biographer",
+        "author",
+        "editor"
+      ],
+      "options_bn": [
+        "lexicographer (অভিধানকার)",
+        "biographer (জীবনীকার)",
+        "author (লেখক)",
+        "editor (সম্পাদক)"
+      ],
+      "answer": 0,
+      "explain_en": "A 'lexicographer' is a person who compiles dictionaries.",
+      "explain_bn": "'Lexicographer' হলো অভিধান সংকলনকারী ব্যক্তি।"
+    },
+    {
+      "id": "en-091",
+      "topic_en": "Spelling",
+      "topic_bn": "শব্দভাণ্ডার: বানান",
+      "q_en": "Choose the correctly spelt word.",
+      "q_bn": "সঠিক বানানযুক্ত শব্দটি বেছে নাও।",
+      "options_en": [
+        "occassion",
+        "occasion",
+        "ocassion",
+        "occation"
+      ],
+      "options_bn": [
+        "occassion",
+        "occasion",
+        "ocassion",
+        "occation"
+      ],
+      "answer": 1,
+      "explain_en": "The correct spelling is 'occasion' — double 'c', single 's'.",
+      "explain_bn": "সঠিক বানান 'occasion' — double 'c', single 's'।"
+    },
+    {
+      "id": "en-092",
+      "topic_en": "Spelling",
+      "topic_bn": "শব্দভাণ্ডার: বানান",
+      "q_en": "Which of these words is spelt correctly?",
+      "q_bn": "কোন শব্দটির বানান সঠিক?",
+      "options_en": [
+        "embarass",
+        "embarras",
+        "embarrass",
+        "embbarass"
+      ],
+      "options_bn": [
+        "embarass",
+        "embarras",
+        "embarrass",
+        "embbarass"
+      ],
+      "answer": 2,
+      "explain_en": "The correct spelling is 'embarrass' — double 'r', double 's'.",
+      "explain_bn": "সঠিক বানান 'embarrass' — double 'r', double 's'।"
+    },
+    {
+      "id": "en-093",
+      "topic_en": "Spelling",
+      "topic_bn": "শব্দভাণ্ডার: বানান",
+      "q_en": "Select the word with the correct spelling.",
+      "q_bn": "সঠিক বানানযুক্ত শব্দটি নির্বাচন করো।",
+      "options_en": [
+        "seperate",
+        "seprate",
+        "separete",
+        "separate"
+      ],
+      "options_bn": [
+        "seperate",
+        "seprate",
+        "separete",
+        "separate"
+      ],
+      "answer": 3,
+      "explain_en": "The correct spelling is 'separate' — remember 'a rat' in the middle: sep-a-rat-e.",
+      "explain_bn": "সঠিক বানান 'separate' — মাঝে 'a rat' মনে রাখো: sep-a-rat-e।"
+    },
+    {
+      "id": "en-094",
+      "topic_en": "Spelling",
+      "topic_bn": "শব্দভাণ্ডার: বানান",
+      "q_en": "Identify the correctly spelt word.",
+      "q_bn": "সঠিক বানানযুক্ত শব্দটি চিহ্নিত করো।",
+      "options_en": [
+        "necessary",
+        "necesary",
+        "neccessary",
+        "necessaryy"
+      ],
+      "options_bn": [
+        "necessary",
+        "necesary",
+        "neccessary",
+        "necessaryy"
+      ],
+      "answer": 0,
+      "explain_en": "The correct spelling is 'necessary' — one 'c', double 's'.",
+      "explain_bn": "সঠিক বানান 'necessary' — একটি 'c', double 's'।"
+    },
+    {
+      "id": "en-095",
+      "topic_en": "Spelling",
+      "topic_bn": "শব্দভাণ্ডার: বানান",
+      "q_en": "Pick the word that is spelt correctly.",
+      "q_bn": "সঠিক বানানযুক্ত শব্দটি বাছাই করো।",
+      "options_en": [
+        "accomodate",
+        "accommodate",
+        "acommodate",
+        "accommadate"
+      ],
+      "options_bn": [
+        "accomodate",
+        "accommodate",
+        "acommodate",
+        "accommadate"
+      ],
+      "answer": 1,
+      "explain_en": "The correct spelling is 'accommodate' — double 'c', double 'm'.",
+      "explain_bn": "সঠিক বানান 'accommodate' — double 'c', double 'm'।"
+    },
+    {
+      "id": "en-096",
+      "topic_en": "Analogy",
+      "topic_bn": "শব্দভাণ্ডার: সাদৃশ্য",
+      "q_en": "Book : Pages :: Wall : ?",
+      "q_bn": "বই : পৃষ্ঠা :: দেয়াল : ?",
+      "options_en": [
+        "Bricks",
+        "Cement",
+        "Paint",
+        "Roof"
+      ],
+      "options_bn": [
+        "Bricks (ইট)",
+        "Cement (সিমেন্ট)",
+        "Paint (রং)",
+        "Roof (ছাদ)"
+      ],
+      "answer": 0,
+      "explain_en": "A book is made up of pages, just as a wall is made up of bricks (part-to-whole relation).",
+      "explain_bn": "বই যেমন পৃষ্ঠা দিয়ে তৈরি, দেয়াল তেমনি ইট দিয়ে তৈরি (অংশ-সমগ্র সম্পর্ক)।"
+    },
+    {
+      "id": "en-097",
+      "topic_en": "Analogy",
+      "topic_bn": "শব্দভাণ্ডার: সাদৃশ্য",
+      "q_en": "Doctor : Hospital :: Teacher : ?",
+      "q_bn": "ডাক্তার : হাসপাতাল :: শিক্ষক : ?",
+      "options_en": [
+        "Student",
+        "School",
+        "Book",
+        "Class"
+      ],
+      "options_bn": [
+        "Student (ছাত্র)",
+        "School (বিদ্যালয়)",
+        "Book (বই)",
+        "Class (শ্রেণি)"
+      ],
+      "answer": 1,
+      "explain_en": "A doctor works in a hospital, just as a teacher works in a school (worker-to-workplace relation).",
+      "explain_bn": "ডাক্তার যেমন হাসপাতালে কাজ করে, শিক্ষক তেমনি বিদ্যালয়ে কাজ করে (কর্মী-কর্মস্থল সম্পর্ক)।"
+    },
+    {
+      "id": "en-098",
+      "topic_en": "Analogy",
+      "topic_bn": "শব্দভাণ্ডার: সাদৃশ্য",
+      "q_en": "Bird : Nest :: Bee : ?",
+      "q_bn": "পাখি : বাসা :: মৌমাছি : ?",
+      "options_en": [
+        "Honey",
+        "Flower",
+        "Hive",
+        "Tree"
+      ],
+      "options_bn": [
+        "Honey (মধু)",
+        "Flower (ফুল)",
+        "Hive (মৌচাক)",
+        "Tree (গাছ)"
+      ],
+      "answer": 2,
+      "explain_en": "A bird lives in a nest, just as a bee lives in a hive (dweller-to-dwelling relation).",
+      "explain_bn": "পাখি যেমন বাসায় থাকে, মৌমাছি তেমনি মৌচাকে থাকে (বাসিন্দা-বাসস্থান সম্পর্ক)।"
+    },
+    {
+      "id": "en-099",
+      "topic_en": "Analogy",
+      "topic_bn": "শব্দভাণ্ডার: সাদৃশ্য",
+      "q_en": "Hot : Cold :: Day : ?",
+      "q_bn": "গরম : ঠান্ডা :: দিন : ?",
+      "options_en": [
+        "Sun",
+        "Light",
+        "Morning",
+        "Night"
+      ],
+      "options_bn": [
+        "Sun (সূর্য)",
+        "Light (আলো)",
+        "Morning (সকাল)",
+        "Night (রাত)"
+      ],
+      "answer": 3,
+      "explain_en": "Hot and cold are opposites, just as day and night are opposites.",
+      "explain_bn": "গরম ও ঠান্ডা যেমন বিপরীত, দিন ও রাতও তেমনি বিপরীত।"
+    },
+    {
+      "id": "en-100",
+      "topic_en": "Analogy",
+      "topic_bn": "শব্দভাণ্ডার: সাদৃশ্য",
+      "q_en": "Pen : Write :: Knife : ?",
+      "q_bn": "কলম : লেখা :: ছুরি : ?",
+      "options_en": [
+        "Cut",
+        "Sharp",
+        "Kitchen",
+        "Blade"
+      ],
+      "options_bn": [
+        "Cut (কাটা)",
+        "Sharp (ধারালো)",
+        "Kitchen (রান্নাঘর)",
+        "Blade (ফলা)"
+      ],
+      "answer": 0,
+      "explain_en": "A pen is used to write, just as a knife is used to cut (tool-to-function relation).",
+      "explain_bn": "কলম যেমন লেখার কাজে ব্যবহৃত হয়, ছুরি তেমনি কাটার কাজে ব্যবহৃত হয় (যন্ত্র-কার্য সম্পর্ক)।"
+    }
+  ]
+}
