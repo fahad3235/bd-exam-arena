@@ -1,0 +1,2207 @@
+{
+  "subject": "math",
+  "subject_en": "Mathematics",
+  "subject_bn": "গণিত",
+  "questions": [
+    {
+      "id": "ma-001",
+      "topic_en": "Arithmetic: Percentages",
+      "topic_bn": "পাটিগণিত: শতকরা",
+      "q_en": "What is 25% of 640?",
+      "q_bn": "640-এর 25% কত?",
+      "options_en": [
+        "150",
+        "170",
+        "180",
+        "160"
+      ],
+      "options_bn": [
+        "150",
+        "170",
+        "180",
+        "160"
+      ],
+      "answer": 3,
+      "explain_en": "25% = 1/4, so 640 ÷ 4 = 160.",
+      "explain_bn": "25% = 1/4, তাই 640 ÷ 4 = 160।"
+    },
+    {
+      "id": "ma-002",
+      "topic_en": "Arithmetic: Percentages",
+      "topic_bn": "পাটিগণিত: শতকরা",
+      "q_en": "40% of a number is 120. What is the number?",
+      "q_bn": "একটি সংখ্যার 40% হলো 120। সংখ্যাটি কত?",
+      "options_en": [
+        "300",
+        "240",
+        "280",
+        "320"
+      ],
+      "options_bn": [
+        "300",
+        "240",
+        "280",
+        "320"
+      ],
+      "answer": 0,
+      "explain_en": "Number = 120 ÷ 0.40 = 300.",
+      "explain_bn": "সংখ্যা = 120 ÷ 0.40 = 300।"
+    },
+    {
+      "id": "ma-003",
+      "topic_en": "Arithmetic: Percentages",
+      "topic_bn": "পাটিগণিত: শতকরা",
+      "q_en": "Increase 500 by 20%. What is the result?",
+      "q_bn": "500-কে 20% বাড়ালে কত হবে?",
+      "options_en": [
+        "510",
+        "600",
+        "590",
+        "620"
+      ],
+      "options_bn": [
+        "510",
+        "600",
+        "590",
+        "620"
+      ],
+      "answer": 1,
+      "explain_en": "500 × 1.20 = 600.",
+      "explain_bn": "500 × 1.20 = 600।"
+    },
+    {
+      "id": "ma-004",
+      "topic_en": "Arithmetic: Percentages",
+      "topic_bn": "পাটিগণিত: শতকরা",
+      "q_en": "A shirt priced at 200 taka is sold for 170 taka. What is the discount percentage?",
+      "q_bn": "200 টাকার একটি শার্ট 170 টাকায় বিক্রি হলে ছাড়ের হার কত?",
+      "options_en": [
+        "12%",
+        "17.5%",
+        "15%",
+        "20%"
+      ],
+      "options_bn": [
+        "12%",
+        "17.5%",
+        "15%",
+        "20%"
+      ],
+      "answer": 2,
+      "explain_en": "Discount = 30; 30 ÷ 200 = 15%.",
+      "explain_bn": "ছাড় = 30; 30 ÷ 200 = 15%।"
+    },
+    {
+      "id": "ma-005",
+      "topic_en": "Arithmetic: Percentages",
+      "topic_bn": "পাটিগণিত: শতকরা",
+      "q_en": "What is 35% of 350?",
+      "q_bn": "350-এর 35% কত?",
+      "options_en": [
+        "120",
+        "122",
+        "125",
+        "122.5"
+      ],
+      "options_bn": [
+        "120",
+        "122",
+        "125",
+        "122.5"
+      ],
+      "answer": 3,
+      "explain_en": "350 × 0.35 = 122.5.",
+      "explain_bn": "350 × 0.35 = 122.5।"
+    },
+    {
+      "id": "ma-006",
+      "topic_en": "Arithmetic: Percentages",
+      "topic_bn": "পাটিগণিত: শতকরা",
+      "q_en": "A number is 30% more than 200. What is the number?",
+      "q_bn": "200-এর চেয়ে 30% বেশি সংখ্যাটি কত?",
+      "options_en": [
+        "260",
+        "230",
+        "250",
+        "270"
+      ],
+      "options_bn": [
+        "260",
+        "230",
+        "250",
+        "270"
+      ],
+      "answer": 0,
+      "explain_en": "200 × 1.30 = 260.",
+      "explain_bn": "200 × 1.30 = 260।"
+    },
+    {
+      "id": "ma-007",
+      "topic_en": "Arithmetic: Percentages",
+      "topic_bn": "পাটিগণিত: শতকরা",
+      "q_en": "A shop gives successive discounts of 10% and then 20% on a 1000-taka item. What is the final price?",
+      "q_bn": "1000 টাকার পণ্যে পরপর 10% ও 20% ছাড় দিলে দাম কত?",
+      "options_en": [
+        "700",
+        "720",
+        "730",
+        "800"
+      ],
+      "options_bn": [
+        "700",
+        "720",
+        "730",
+        "800"
+      ],
+      "answer": 1,
+      "explain_en": "1000 × 0.90 × 0.80 = 720.",
+      "explain_bn": "1000 × 0.90 × 0.80 = 720।"
+    },
+    {
+      "id": "ma-008",
+      "topic_en": "Arithmetic: Percentages",
+      "topic_bn": "পাটিগণিত: শতকরা",
+      "q_en": "What percentage is 45 of 180?",
+      "q_bn": "180-এর মধ্যে 45 কত শতাংশ?",
+      "options_en": [
+        "20%",
+        "22.5%",
+        "25%",
+        "30%"
+      ],
+      "options_bn": [
+        "20%",
+        "22.5%",
+        "25%",
+        "30%"
+      ],
+      "answer": 2,
+      "explain_en": "45 ÷ 180 = 1/4 = 25%.",
+      "explain_bn": "45 ÷ 180 = 1/4 = 25%।"
+    },
+    {
+      "id": "ma-009",
+      "topic_en": "Arithmetic: Profit and Loss",
+      "topic_bn": "পাটিগণিত: লাভ-ক্ষতি",
+      "q_en": "An item bought for 400 taka is sold for 460 taka. What is the profit percentage?",
+      "q_bn": "400 টাকায় কিনে 460 টাকায় বিক্রি করলে লাভের হার কত?",
+      "options_en": [
+        "10%",
+        "12%",
+        "20%",
+        "15%"
+      ],
+      "options_bn": [
+        "10%",
+        "12%",
+        "20%",
+        "15%"
+      ],
+      "answer": 3,
+      "explain_en": "Profit = 60; 60 ÷ 400 = 15%.",
+      "explain_bn": "লাভ = 60; 60 ÷ 400 = 15%।"
+    },
+    {
+      "id": "ma-010",
+      "topic_en": "Arithmetic: Profit and Loss",
+      "topic_bn": "পাটিগণিত: লাভ-ক্ষতি",
+      "q_en": "An item costing 800 taka is sold at a loss of 12.5%. What is the selling price?",
+      "q_bn": "800 টাকার পণ্য 12.5% ক্ষতিতে বিক্রি করলে বিক্রয়মূল্য কত?",
+      "options_en": [
+        "700",
+        "680",
+        "720",
+        "750"
+      ],
+      "options_bn": [
+        "700",
+        "680",
+        "720",
+        "750"
+      ],
+      "answer": 0,
+      "explain_en": "800 × (1 − 0.125) = 700.",
+      "explain_bn": "800 × (1 − 0.125) = 700।"
+    },
+    {
+      "id": "ma-011",
+      "topic_en": "Arithmetic: Profit and Loss",
+      "topic_bn": "পাটিগণিত: লাভ-ক্ষতি",
+      "q_en": "An item is sold for 300 taka at a profit of 20%. What was the cost price?",
+      "q_bn": "20% লাভে 300 টাকায় বিক্রি করলে ক্রয়মূল্য কত ছিল?",
+      "options_en": [
+        "240",
+        "250",
+        "260",
+        "280"
+      ],
+      "options_bn": [
+        "240",
+        "250",
+        "260",
+        "280"
+      ],
+      "answer": 1,
+      "explain_en": "CP = 300 ÷ 1.20 = 250.",
+      "explain_bn": "ক্রয়মূল্য = 300 ÷ 1.20 = 250।"
+    },
+    {
+      "id": "ma-012",
+      "topic_en": "Arithmetic: Profit and Loss",
+      "topic_bn": "পাটিগণিত: লাভ-ক্ষতি",
+      "q_en": "12 eggs are bought for 60 taka and each egg is sold for 6 taka. What is the profit percentage?",
+      "q_bn": "60 টাকায় 12টি ডিম কিনে প্রতিটি 6 টাকায় বিক্রি করলে লাভের হার কত?",
+      "options_en": [
+        "15%",
+        "18%",
+        "20%",
+        "25%"
+      ],
+      "options_bn": [
+        "15%",
+        "18%",
+        "20%",
+        "25%"
+      ],
+      "answer": 2,
+      "explain_en": "SP = 72; profit = 12; 12 ÷ 60 = 20%.",
+      "explain_bn": "বিক্রয়মূল্য = 72; লাভ = 12; 12 ÷ 60 = 20%।"
+    },
+    {
+      "id": "ma-013",
+      "topic_en": "Arithmetic: Profit and Loss",
+      "topic_bn": "পাটিগণিত: লাভ-ক্ষতি",
+      "q_en": "After a 10% discount, an item sells for 990 taka. What was the marked price?",
+      "q_bn": "10% ছাড়ের পর দাম 990 টাকা হলে নির্ধারিত মূল্য কত ছিল?",
+      "options_en": [
+        "1000",
+        "1050",
+        "1089",
+        "1100"
+      ],
+      "options_bn": [
+        "1000",
+        "1050",
+        "1089",
+        "1100"
+      ],
+      "answer": 3,
+      "explain_en": "Marked price = 990 ÷ 0.90 = 1100.",
+      "explain_bn": "নির্ধারিত মূল্য = 990 ÷ 0.90 = 1100।"
+    },
+    {
+      "id": "ma-014",
+      "topic_en": "Arithmetic: Profit and Loss",
+      "topic_bn": "পাটিগণিত: লাভ-ক্ষতি",
+      "q_en": "An item sells for 1250 taka with a 25% profit. What is the cost price?",
+      "q_bn": "1250 টাকায় বিক্রি করে 25% লাভ হলে ক্রয়মূল্য কত?",
+      "options_en": [
+        "1000",
+        "937.50",
+        "950",
+        "1041.67"
+      ],
+      "options_bn": [
+        "1000",
+        "937.50",
+        "950",
+        "1041.67"
+      ],
+      "answer": 0,
+      "explain_en": "CP = 1250 ÷ 1.25 = 1000.",
+      "explain_bn": "ক্রয়মূল্য = 1250 ÷ 1.25 = 1000।"
+    },
+    {
+      "id": "ma-015",
+      "topic_en": "Arithmetic: Interest",
+      "topic_bn": "পাটিগণিত: সুদ",
+      "q_en": "Find the simple interest on 5000 taka at 8% per annum for 3 years.",
+      "q_bn": "5000 টাকার 3 বছরে বার্ষিক 8% হারে সরল সুদ কত?",
+      "options_en": [
+        "1000",
+        "1200",
+        "1500",
+        "1800"
+      ],
+      "options_bn": [
+        "1000",
+        "1200",
+        "1500",
+        "1800"
+      ],
+      "answer": 1,
+      "explain_en": "SI = 5000 × 0.08 × 3 = 1200.",
+      "explain_bn": "সরল সুদ = 5000 × 0.08 × 3 = 1200।"
+    },
+    {
+      "id": "ma-016",
+      "topic_en": "Arithmetic: Interest",
+      "topic_bn": "পাটিগণিত: সুদ",
+      "q_en": "6000 taka becomes 6600 taka in 2 years at simple interest. What is the rate?",
+      "q_bn": "সরল সুদে 6000 টাকা 2 বছরে 6600 টাকা হলে সুদের হার কত?",
+      "options_en": [
+        "4%",
+        "6%",
+        "5%",
+        "7%"
+      ],
+      "options_bn": [
+        "4%",
+        "6%",
+        "5%",
+        "7%"
+      ],
+      "answer": 2,
+      "explain_en": "SI = 600; rate = 600 ÷ (6000 × 2) = 5%.",
+      "explain_bn": "সুদ = 600; হার = 600 ÷ (6000 × 2) = 5%।"
+    },
+    {
+      "id": "ma-017",
+      "topic_en": "Arithmetic: Interest",
+      "topic_bn": "পাটিগণিত: সুদ",
+      "q_en": "Find the compound amount of 1000 taka at 10% per annum for 2 years.",
+      "q_bn": "বার্ষিক 10% হারে 2 বছরে 1000 টাকার চক্রবৃদ্ধি মূলধন কত?",
+      "options_en": [
+        "1200",
+        "1220",
+        "1300",
+        "1210"
+      ],
+      "options_bn": [
+        "1200",
+        "1220",
+        "1300",
+        "1210"
+      ],
+      "answer": 3,
+      "explain_en": "1000 × 1.1² = 1210.",
+      "explain_bn": "1000 × 1.1² = 1210।"
+    },
+    {
+      "id": "ma-018",
+      "topic_en": "Arithmetic: Interest",
+      "topic_bn": "পাটিগণিত: সুদ",
+      "q_en": "The difference between compound and simple interest on 4000 taka at 5% for 2 years is:",
+      "q_bn": "5% হারে 2 বছরে 4000 টাকার চক্রবৃদ্ধি ও সরল সুদের পার্থক্য কত?",
+      "options_en": [
+        "10",
+        "8",
+        "12",
+        "20"
+      ],
+      "options_bn": [
+        "10",
+        "8",
+        "12",
+        "20"
+      ],
+      "answer": 0,
+      "explain_en": "Difference = P(r/100)² = 4000 × 0.0025 = 10.",
+      "explain_bn": "পার্থক্য = P(r/100)² = 4000 × 0.0025 = 10।"
+    },
+    {
+      "id": "ma-019",
+      "topic_en": "Arithmetic: Interest",
+      "topic_bn": "পাটিগণিত: সুদ",
+      "q_en": "At 8% compound interest, in about how many years will money double? (Rule of 72)",
+      "q_bn": "72-এর নিয়মে 8% চক্রবৃদ্ধি হারে টাকা দ্বিগুণ হতে কত বছর লাগবে?",
+      "options_en": [
+        "8 years",
+        "9 years",
+        "10 years",
+        "12 years"
+      ],
+      "options_bn": [
+        "8 years",
+        "9 years",
+        "10 years",
+        "12 years"
+      ],
+      "answer": 1,
+      "explain_en": "72 ÷ 8 = 9 years.",
+      "explain_bn": "72 ÷ 8 = 9 বছর।"
+    },
+    {
+      "id": "ma-020",
+      "topic_en": "Arithmetic: Interest",
+      "topic_bn": "পাটিগণিত: সুদ",
+      "q_en": "A sum doubles in 10 years at simple interest. What is the rate?",
+      "q_bn": "সরল সুদে 10 বছরে টাকা দ্বিগুণ হলে সুদের হার কত?",
+      "options_en": [
+        "8%",
+        "12%",
+        "10%",
+        "15%"
+      ],
+      "options_bn": [
+        "8%",
+        "12%",
+        "10%",
+        "15%"
+      ],
+      "answer": 2,
+      "explain_en": "Interest = P in 10 years, so rate = 100 ÷ 10 = 10%.",
+      "explain_bn": "10 বছরে সুদ = আসল, তাই হার = 100 ÷ 10 = 10%।"
+    },
+    {
+      "id": "ma-021",
+      "topic_en": "Arithmetic: Interest",
+      "topic_bn": "পাটিগণিত: সুদ",
+      "q_en": "Simple interest on 2500 taka at 6% per annum for 4 years is:",
+      "q_bn": "2500 টাকার বার্ষিক 6% হারে 4 বছরে সরল সুদ কত?",
+      "options_en": [
+        "500",
+        "650",
+        "700",
+        "600"
+      ],
+      "options_bn": [
+        "500",
+        "650",
+        "700",
+        "600"
+      ],
+      "answer": 3,
+      "explain_en": "2500 × 0.06 × 4 = 600.",
+      "explain_bn": "2500 × 0.06 × 4 = 600।"
+    },
+    {
+      "id": "ma-022",
+      "topic_en": "Arithmetic: Ratio and Proportion",
+      "topic_bn": "পাটিগণিত: অনুপাত",
+      "q_en": "Two numbers are in the ratio 2:3 and their sum is 60. What is the smaller number?",
+      "q_bn": "দুটি সংখ্যার অনুপাত 2:3 এবং যোগফল 60। ছোট সংখ্যাটি কত?",
+      "options_en": [
+        "24",
+        "20",
+        "30",
+        "36"
+      ],
+      "options_bn": [
+        "24",
+        "20",
+        "30",
+        "36"
+      ],
+      "answer": 0,
+      "explain_en": "Smaller = (2/5) × 60 = 24.",
+      "explain_bn": "ছোট সংখ্যা = (2/5) × 60 = 24।"
+    },
+    {
+      "id": "ma-023",
+      "topic_en": "Arithmetic: Ratio and Proportion",
+      "topic_bn": "পাটিগণিত: অনুপাত",
+      "q_en": "Divide 91 in the ratio 3:4. What is the larger part?",
+      "q_bn": "91-কে 3:4 অনুপাতে ভাগ করলে বড় অংশ কত?",
+      "options_en": [
+        "39",
+        "52",
+        "48",
+        "55"
+      ],
+      "options_bn": [
+        "39",
+        "52",
+        "48",
+        "55"
+      ],
+      "answer": 1,
+      "explain_en": "Larger = (4/7) × 91 = 52.",
+      "explain_bn": "বড় অংশ = (4/7) × 91 = 52।"
+    },
+    {
+      "id": "ma-024",
+      "topic_en": "Arithmetic: Ratio and Proportion",
+      "topic_bn": "পাটিগণিত: অনুপাত",
+      "q_en": "If a:b = 2:3 and b:c = 4:5, what is a:c?",
+      "q_bn": "a:b = 2:3 এবং b:c = 4:5 হলে a:c কত?",
+      "options_en": [
+        "2:5",
+        "4:5",
+        "8:15",
+        "8:9"
+      ],
+      "options_bn": [
+        "2:5",
+        "4:5",
+        "8:15",
+        "8:9"
+      ],
+      "answer": 2,
+      "explain_en": "a:c = (2×4):(3×5) = 8:15.",
+      "explain_bn": "a:c = (2×4):(3×5) = 8:15।"
+    },
+    {
+      "id": "ma-025",
+      "topic_en": "Arithmetic: Ratio and Proportion",
+      "topic_bn": "পাটিগণিত: অনুপাত",
+      "q_en": "Find the fourth proportional to 4, 8 and 12.",
+      "q_bn": "4, 8 ও 12-এর চতুর্থ সমানুপাতিক কত?",
+      "options_en": [
+        "16",
+        "20",
+        "32",
+        "24"
+      ],
+      "options_bn": [
+        "16",
+        "20",
+        "32",
+        "24"
+      ],
+      "answer": 3,
+      "explain_en": "4:8 = 12:x gives x = 24.",
+      "explain_bn": "4:8 = 12:x থেকে x = 24।"
+    },
+    {
+      "id": "ma-026",
+      "topic_en": "Arithmetic: Ratio and Proportion",
+      "topic_bn": "পাটিগণিত: অনুপাত",
+      "q_en": "Find the mean proportional between 9 and 16.",
+      "q_bn": "9 ও 16-এর মধ্য সমানুপাতিক কত?",
+      "options_en": [
+        "12",
+        "10",
+        "13",
+        "14"
+      ],
+      "options_bn": [
+        "12",
+        "10",
+        "13",
+        "14"
+      ],
+      "answer": 0,
+      "explain_en": "√(9 × 16) = √144 = 12.",
+      "explain_bn": "√(9 × 16) = √144 = 12।"
+    },
+    {
+      "id": "ma-027",
+      "topic_en": "Arithmetic: Average and Median",
+      "topic_bn": "পাটিগণিত: গড় ও মধ্যক",
+      "q_en": "Find the average of 12, 18, 24 and 30.",
+      "q_bn": "12, 18, 24 ও 30-এর গড় কত?",
+      "options_en": [
+        "20",
+        "21",
+        "22",
+        "24"
+      ],
+      "options_bn": [
+        "20",
+        "21",
+        "22",
+        "24"
+      ],
+      "answer": 1,
+      "explain_en": "(12+18+24+30) ÷ 4 = 84 ÷ 4 = 21.",
+      "explain_bn": "(12+18+24+30) ÷ 4 = 84 ÷ 4 = 21।"
+    },
+    {
+      "id": "ma-028",
+      "topic_en": "Arithmetic: Average and Median",
+      "topic_bn": "পাটিগণিত: গড় ও মধ্যক",
+      "q_en": "What is the average of the first 10 natural numbers?",
+      "q_bn": "প্রথম 10টি স্বাভাবিক সংখ্যার গড় কত?",
+      "options_en": [
+        "5",
+        "6",
+        "5.5",
+        "10"
+      ],
+      "options_bn": [
+        "5",
+        "6",
+        "5.5",
+        "10"
+      ],
+      "answer": 2,
+      "explain_en": "(1 + 10) ÷ 2 = 5.5.",
+      "explain_bn": "(1 + 10) ÷ 2 = 5.5।"
+    },
+    {
+      "id": "ma-029",
+      "topic_en": "Arithmetic: Average and Median",
+      "topic_bn": "পাটিগণিত: গড় ও মধ্যক",
+      "q_en": "Find the median of 3, 7, 9, 12, 15.",
+      "q_bn": "3, 7, 9, 12, 15-এর মধ্যক কত?",
+      "options_en": [
+        "7",
+        "11",
+        "12",
+        "9"
+      ],
+      "options_bn": [
+        "7",
+        "11",
+        "12",
+        "9"
+      ],
+      "answer": 3,
+      "explain_en": "The middle (3rd) value of the sorted list is 9.",
+      "explain_bn": "সাজানো তালিকার মাঝের (3য়) মান 9।"
+    },
+    {
+      "id": "ma-030",
+      "topic_en": "Arithmetic: Average and Median",
+      "topic_bn": "পাটিগণিত: গড় ও মধ্যক",
+      "q_en": "The average of 4 numbers is 20. A fifth number 30 is added. What is the new average?",
+      "q_bn": "4টি সংখ্যার গড় 20। 30 সংখ্যাটি যোগ করলে নতুন গড় কত?",
+      "options_en": [
+        "22",
+        "21",
+        "23",
+        "25"
+      ],
+      "options_bn": [
+        "22",
+        "21",
+        "23",
+        "25"
+      ],
+      "answer": 0,
+      "explain_en": "(80 + 30) ÷ 5 = 110 ÷ 5 = 22.",
+      "explain_bn": "(80 + 30) ÷ 5 = 110 ÷ 5 = 22।"
+    },
+    {
+      "id": "ma-031",
+      "topic_en": "Arithmetic: Average and Median",
+      "topic_bn": "পাটিগণিত: গড় ও মধ্যক",
+      "q_en": "What is the average of the first 5 odd numbers?",
+      "q_bn": "প্রথম 5টি বিজোড় সংখ্যার গড় কত?",
+      "options_en": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "options_bn": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": 1,
+      "explain_en": "(1+3+5+7+9) ÷ 5 = 25 ÷ 5 = 5.",
+      "explain_bn": "(1+3+5+7+9) ÷ 5 = 25 ÷ 5 = 5।"
+    },
+    {
+      "id": "ma-032",
+      "topic_en": "Arithmetic: LCM and HCF",
+      "topic_bn": "পাটিগণিত: লসাগু-গসাগু",
+      "q_en": "Find the LCM of 12 and 18.",
+      "q_bn": "12 ও 18-এর লসাগু কত?",
+      "options_en": [
+        "24",
+        "54",
+        "36",
+        "72"
+      ],
+      "options_bn": [
+        "24",
+        "54",
+        "36",
+        "72"
+      ],
+      "answer": 2,
+      "explain_en": "LCM = 2² × 3² = 36.",
+      "explain_bn": "লসাগু = 2² × 3² = 36।"
+    },
+    {
+      "id": "ma-033",
+      "topic_en": "Arithmetic: LCM and HCF",
+      "topic_bn": "পাটিগণিত: লসাগু-গসাগু",
+      "q_en": "Find the HCF of 24 and 36.",
+      "q_bn": "24 ও 36-এর গসাগু কত?",
+      "options_en": [
+        "6",
+        "18",
+        "24",
+        "12"
+      ],
+      "options_bn": [
+        "6",
+        "18",
+        "24",
+        "12"
+      ],
+      "answer": 3,
+      "explain_en": "The greatest common factor is 12.",
+      "explain_bn": "সর্বোচ্চ সাধারণ গুণনীয়ক 12।"
+    },
+    {
+      "id": "ma-034",
+      "topic_en": "Arithmetic: LCM and HCF",
+      "topic_bn": "পাটিগণিত: লসাগু-গসাগু",
+      "q_en": "The LCM of two numbers is 60 and their HCF is 4. What is the product of the numbers?",
+      "q_bn": "দুটি সংখ্যার লসাগু 60 ও গসাগু 4 হলে সংখ্যা দুটির গুণফল কত?",
+      "options_en": [
+        "240",
+        "200",
+        "250",
+        "300"
+      ],
+      "options_bn": [
+        "240",
+        "200",
+        "250",
+        "300"
+      ],
+      "answer": 0,
+      "explain_en": "Product = LCM × HCF = 60 × 4 = 240.",
+      "explain_bn": "গুণফল = লসাগু × গসাগু = 60 × 4 = 240।"
+    },
+    {
+      "id": "ma-035",
+      "topic_en": "Arithmetic: Time, Work and Speed",
+      "topic_bn": "পাটিগণিত: সময়-কাজ-গতি",
+      "q_en": "A can do a work in 12 days and B in 18 days. Together, in how many days will they finish it?",
+      "q_bn": "A কাজটি 12 দিনে ও B 18 দিনে করতে পারে। একত্রে কত দিনে শেষ করবে?",
+      "options_en": [
+        "6",
+        "7.2",
+        "8",
+        "9"
+      ],
+      "options_bn": [
+        "6",
+        "7.2",
+        "8",
+        "9"
+      ],
+      "answer": 1,
+      "explain_en": "1 ÷ (1/12 + 1/18) = 36/5 = 7.2 days.",
+      "explain_bn": "1 ÷ (1/12 + 1/18) = 36/5 = 7.2 দিন।"
+    },
+    {
+      "id": "ma-036",
+      "topic_en": "Arithmetic: Time, Work and Speed",
+      "topic_bn": "পাটিগণিত: সময়-কাজ-গতি",
+      "q_en": "A train travels at 60 km/h for 2.5 hours. How far does it go?",
+      "q_bn": "একটি ট্রেন ঘণ্টায় 60 কিমি বেগে 2.5 ঘণ্টা চললে কত দূর যাবে?",
+      "options_en": [
+        "120 km",
+        "140 km",
+        "150 km",
+        "160 km"
+      ],
+      "options_bn": [
+        "120 km",
+        "140 km",
+        "150 km",
+        "160 km"
+      ],
+      "answer": 2,
+      "explain_en": "Distance = 60 × 2.5 = 150 km.",
+      "explain_bn": "দূরত্ব = 60 × 2.5 = 150 কিমি।"
+    },
+    {
+      "id": "ma-037",
+      "topic_en": "Arithmetic: Time, Work and Speed",
+      "topic_bn": "পাটিগণিত: সময়-কাজ-গতি",
+      "q_en": "Convert 72 km/h to m/s.",
+      "q_bn": "72 কিমি/ঘণ্টাকে মি/সেকেন্ডে প্রকাশ করো।",
+      "options_en": [
+        "18",
+        "22",
+        "25",
+        "20"
+      ],
+      "options_bn": [
+        "18",
+        "22",
+        "25",
+        "20"
+      ],
+      "answer": 3,
+      "explain_en": "72 × 5/18 = 20 m/s.",
+      "explain_bn": "72 × 5/18 = 20 মি/সে।"
+    },
+    {
+      "id": "ma-038",
+      "topic_en": "Algebra: Linear Equations",
+      "topic_bn": "বীজগণিত: সরল সমীকরণ",
+      "q_en": "Solve: 2x + 5 = 17.",
+      "q_bn": "সমাধান করো: 2x + 5 = 17।",
+      "options_en": [
+        "6",
+        "5",
+        "7",
+        "8"
+      ],
+      "options_bn": [
+        "6",
+        "5",
+        "7",
+        "8"
+      ],
+      "answer": 0,
+      "explain_en": "2x = 12, so x = 6.",
+      "explain_bn": "2x = 12, তাই x = 6।"
+    },
+    {
+      "id": "ma-039",
+      "topic_en": "Algebra: Linear Equations",
+      "topic_bn": "বীজগণিত: সরল সমীকরণ",
+      "q_en": "Solve: 3x − 7 = 20.",
+      "q_bn": "সমাধান করো: 3x − 7 = 20।",
+      "options_en": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "options_bn": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "answer": 1,
+      "explain_en": "3x = 27, so x = 9.",
+      "explain_bn": "3x = 27, তাই x = 9।"
+    },
+    {
+      "id": "ma-040",
+      "topic_en": "Algebra: Linear Equations",
+      "topic_bn": "বীজগণিত: সরল সমীকরণ",
+      "q_en": "Solve: x/4 + 3 = 8.",
+      "q_bn": "সমাধান করো: x/4 + 3 = 8।",
+      "options_en": [
+        "16",
+        "24",
+        "20",
+        "28"
+      ],
+      "options_bn": [
+        "16",
+        "24",
+        "20",
+        "28"
+      ],
+      "answer": 2,
+      "explain_en": "x/4 = 5, so x = 20.",
+      "explain_bn": "x/4 = 5, তাই x = 20।"
+    },
+    {
+      "id": "ma-041",
+      "topic_en": "Algebra: Linear Equations",
+      "topic_bn": "বীজগণিত: সরল সমীকরণ",
+      "q_en": "The sum of two numbers is 40 and their difference is 8. What is the larger number?",
+      "q_bn": "দুটি সংখ্যার যোগফল 40 ও বিয়োগফল 8। বড় সংখ্যাটি কত?",
+      "options_en": [
+        "20",
+        "22",
+        "26",
+        "24"
+      ],
+      "options_bn": [
+        "20",
+        "22",
+        "26",
+        "24"
+      ],
+      "answer": 3,
+      "explain_en": "Larger = (40 + 8) ÷ 2 = 24.",
+      "explain_bn": "বড় সংখ্যা = (40 + 8) ÷ 2 = 24।"
+    },
+    {
+      "id": "ma-042",
+      "topic_en": "Algebra: Linear Equations",
+      "topic_bn": "বীজগণিত: সরল সমীকরণ",
+      "q_en": "If 5 pens cost 100 taka, how much do 8 pens cost?",
+      "q_bn": "5টি কলমের দাম 100 টাকা হলে 8টির দাম কত?",
+      "options_en": [
+        "160",
+        "140",
+        "150",
+        "180"
+      ],
+      "options_bn": [
+        "160",
+        "140",
+        "150",
+        "180"
+      ],
+      "answer": 0,
+      "explain_en": "Each pen = 20 taka; 8 × 20 = 160.",
+      "explain_bn": "প্রতিটি কলম = 20 টাকা; 8 × 20 = 160।"
+    },
+    {
+      "id": "ma-043",
+      "topic_en": "Algebra: Quadratic Equations",
+      "topic_bn": "বীজগণিত: দ্বিঘাত সমীকরণ",
+      "q_en": "For x² − 5x + 6 = 0, what is the sum of the roots?",
+      "q_bn": "x² − 5x + 6 = 0 সমীকরণের মূলদ্বয়ের যোগফল কত?",
+      "options_en": [
+        "3",
+        "5",
+        "6",
+        "−5"
+      ],
+      "options_bn": [
+        "3",
+        "5",
+        "6",
+        "−5"
+      ],
+      "answer": 1,
+      "explain_en": "Sum of roots = −b/a = 5.",
+      "explain_bn": "মূলদ্বয়ের যোগফল = −b/a = 5।"
+    },
+    {
+      "id": "ma-044",
+      "topic_en": "Algebra: Quadratic Equations",
+      "topic_bn": "বীজগণিত: দ্বিঘাত সমীকরণ",
+      "q_en": "For x² − 9 = 0, what is the product of the roots?",
+      "q_bn": "x² − 9 = 0 সমীকরণের মূলদ্বয়ের গুণফল কত?",
+      "options_en": [
+        "9",
+        "3",
+        "−9",
+        "0"
+      ],
+      "options_bn": [
+        "9",
+        "3",
+        "−9",
+        "0"
+      ],
+      "answer": 2,
+      "explain_en": "Roots are 3 and −3; product = −9.",
+      "explain_bn": "মূল 3 ও −3; গুণফল = −9।"
+    },
+    {
+      "id": "ma-045",
+      "topic_en": "Algebra: Quadratic Equations",
+      "topic_bn": "বীজগণিত: দ্বিঘাত সমীকরণ",
+      "q_en": "What is the discriminant of x² + 4x + 4 = 0?",
+      "q_bn": "x² + 4x + 4 = 0-এর নিশ্চায়ক কত?",
+      "options_en": [
+        "4",
+        "8",
+        "16",
+        "0"
+      ],
+      "options_bn": [
+        "4",
+        "8",
+        "16",
+        "0"
+      ],
+      "answer": 3,
+      "explain_en": "b² − 4ac = 16 − 16 = 0.",
+      "explain_bn": "b² − 4ac = 16 − 16 = 0।"
+    },
+    {
+      "id": "ma-046",
+      "topic_en": "Algebra: Indices",
+      "topic_bn": "বীজগণিত: সূচক",
+      "q_en": "What is 2⁵?",
+      "q_bn": "2⁵-এর মান কত?",
+      "options_en": [
+        "32",
+        "25",
+        "30",
+        "64"
+      ],
+      "options_bn": [
+        "32",
+        "25",
+        "30",
+        "64"
+      ],
+      "answer": 0,
+      "explain_en": "2 × 2 × 2 × 2 × 2 = 32.",
+      "explain_bn": "2 × 2 × 2 × 2 × 2 = 32।"
+    },
+    {
+      "id": "ma-047",
+      "topic_en": "Algebra: Indices",
+      "topic_bn": "বীজগণিত: সূচক",
+      "q_en": "What is 3⁻²?",
+      "q_bn": "3⁻²-এর মান কত?",
+      "options_en": [
+        "1/6",
+        "1/9",
+        "−6",
+        "−9"
+      ],
+      "options_bn": [
+        "1/6",
+        "1/9",
+        "−6",
+        "−9"
+      ],
+      "answer": 1,
+      "explain_en": "3⁻² = 1/3² = 1/9.",
+      "explain_bn": "3⁻² = 1/3² = 1/9।"
+    },
+    {
+      "id": "ma-048",
+      "topic_en": "Algebra: Indices",
+      "topic_bn": "বীজগণিত: সূচক",
+      "q_en": "Simplify: (2³)².",
+      "q_bn": "সরল করো: (2³)²।",
+      "options_en": [
+        "32",
+        "48",
+        "64",
+        "128"
+      ],
+      "options_bn": [
+        "32",
+        "48",
+        "64",
+        "128"
+      ],
+      "answer": 2,
+      "explain_en": "(2³)² = 2⁶ = 64.",
+      "explain_bn": "(2³)² = 2⁶ = 64।"
+    },
+    {
+      "id": "ma-049",
+      "topic_en": "Algebra: Indices",
+      "topic_bn": "বীজগণিত: সূচক",
+      "q_en": "Evaluate: √144 + ∛27.",
+      "q_bn": "মান নির্ণয় করো: √144 + ∛27।",
+      "options_en": [
+        "12",
+        "14",
+        "18",
+        "15"
+      ],
+      "options_bn": [
+        "12",
+        "14",
+        "18",
+        "15"
+      ],
+      "answer": 3,
+      "explain_en": "12 + 3 = 15.",
+      "explain_bn": "12 + 3 = 15।"
+    },
+    {
+      "id": "ma-050",
+      "topic_en": "Algebra: Logarithms",
+      "topic_bn": "বীজগণিত: লগারিদম",
+      "q_en": "What is log₂ 32?",
+      "q_bn": "log₂ 32-এর মান কত?",
+      "options_en": [
+        "5",
+        "4",
+        "6",
+        "16"
+      ],
+      "options_bn": [
+        "5",
+        "4",
+        "6",
+        "16"
+      ],
+      "answer": 0,
+      "explain_en": "2⁵ = 32, so log₂ 32 = 5.",
+      "explain_bn": "2⁵ = 32, তাই log₂ 32 = 5।"
+    },
+    {
+      "id": "ma-051",
+      "topic_en": "Algebra: Logarithms",
+      "topic_bn": "বীজগণিত: লগারিদম",
+      "q_en": "What is log₁₀ 1000?",
+      "q_bn": "log₁₀ 1000-এর মান কত?",
+      "options_en": [
+        "2",
+        "3",
+        "4",
+        "10"
+      ],
+      "options_bn": [
+        "2",
+        "3",
+        "4",
+        "10"
+      ],
+      "answer": 1,
+      "explain_en": "10³ = 1000, so the log is 3.",
+      "explain_bn": "10³ = 1000, তাই লগ 3।"
+    },
+    {
+      "id": "ma-052",
+      "topic_en": "Algebra: Logarithms",
+      "topic_bn": "বীজগণিত: লগারিদম",
+      "q_en": "Simplify: log 5 + log 2 (base 10).",
+      "q_bn": "সরল করো: log 5 + log 2 (ভিত্তি 10)।",
+      "options_en": [
+        "0",
+        "7",
+        "1",
+        "10"
+      ],
+      "options_bn": [
+        "0",
+        "7",
+        "1",
+        "10"
+      ],
+      "answer": 2,
+      "explain_en": "log(5 × 2) = log 10 = 1.",
+      "explain_bn": "log(5 × 2) = log 10 = 1।"
+    },
+    {
+      "id": "ma-053",
+      "topic_en": "Sets",
+      "topic_bn": "সেট",
+      "q_en": "If |A| = 20, |B| = 15 and |A ∩ B| = 8, find |A ∪ B|.",
+      "q_bn": "|A| = 20, |B| = 15 ও |A ∩ B| = 8 হলে |A ∪ B| কত?",
+      "options_en": [
+        "25",
+        "28",
+        "35",
+        "27"
+      ],
+      "options_bn": [
+        "25",
+        "28",
+        "35",
+        "27"
+      ],
+      "answer": 3,
+      "explain_en": "|A ∪ B| = 20 + 15 − 8 = 27.",
+      "explain_bn": "|A ∪ B| = 20 + 15 − 8 = 27।"
+    },
+    {
+      "id": "ma-054",
+      "topic_en": "Sets",
+      "topic_bn": "সেট",
+      "q_en": "How many subsets does a set with 3 elements have?",
+      "q_bn": "3টি উপাদানের সেটের উপসেট কয়টি?",
+      "options_en": [
+        "8",
+        "6",
+        "7",
+        "9"
+      ],
+      "options_bn": [
+        "8",
+        "6",
+        "7",
+        "9"
+      ],
+      "answer": 0,
+      "explain_en": "Number of subsets = 2³ = 8.",
+      "explain_bn": "উপসেট সংখ্যা = 2³ = 8।"
+    },
+    {
+      "id": "ma-055",
+      "topic_en": "Sets",
+      "topic_bn": "সেট",
+      "q_en": "If A = {1, 2, 3}, how many proper subsets does A have?",
+      "q_bn": "A = {1, 2, 3} হলে A-এর প্রকৃত উপসেট কয়টি?",
+      "options_en": [
+        "6",
+        "7",
+        "8",
+        "3"
+      ],
+      "options_bn": [
+        "6",
+        "7",
+        "8",
+        "3"
+      ],
+      "answer": 1,
+      "explain_en": "Proper subsets = 2³ − 1 = 7.",
+      "explain_bn": "প্রকৃত উপসেট = 2³ − 1 = 7।"
+    },
+    {
+      "id": "ma-056",
+      "topic_en": "Probability",
+      "topic_bn": "সম্ভাব্যতা",
+      "q_en": "What is the probability of getting a head when a fair coin is tossed?",
+      "q_bn": "একটি মুদ্রা নিক্ষেপে হেড পাওয়ার সম্ভাবনা কত?",
+      "options_en": [
+        "1/4",
+        "1/3",
+        "1/2",
+        "1"
+      ],
+      "options_bn": [
+        "1/4",
+        "1/3",
+        "1/2",
+        "1"
+      ],
+      "answer": 2,
+      "explain_en": "1 favorable outcome out of 2.",
+      "explain_bn": "2টি ফলাফলের মধ্যে 1টি অনুকূল।"
+    },
+    {
+      "id": "ma-057",
+      "topic_en": "Probability",
+      "topic_bn": "সম্ভাব্যতা",
+      "q_en": "What is the probability of rolling a 6 on a fair die?",
+      "q_bn": "একটি ছক্কায় 6 পাওয়ার সম্ভাবনা কত?",
+      "options_en": [
+        "1/5",
+        "1/3",
+        "1/2",
+        "1/6"
+      ],
+      "options_bn": [
+        "1/5",
+        "1/3",
+        "1/2",
+        "1/6"
+      ],
+      "answer": 3,
+      "explain_en": "1 favorable outcome out of 6.",
+      "explain_bn": "6টি ফলাফলের মধ্যে 1টি অনুকূল।"
+    },
+    {
+      "id": "ma-058",
+      "topic_en": "Probability",
+      "topic_bn": "সম্ভাব্যতা",
+      "q_en": "What is the probability of rolling an even number on a die?",
+      "q_bn": "ছক্কায় জোড় সংখ্যা পাওয়ার সম্ভাবনা কত?",
+      "options_en": [
+        "1/2",
+        "1/3",
+        "2/3",
+        "1/6"
+      ],
+      "options_bn": [
+        "1/2",
+        "1/3",
+        "2/3",
+        "1/6"
+      ],
+      "answer": 0,
+      "explain_en": "3 even faces out of 6: 3/6 = 1/2.",
+      "explain_bn": "6টির মধ্যে 3টি জোড়: 3/6 = 1/2।"
+    },
+    {
+      "id": "ma-059",
+      "topic_en": "Probability",
+      "topic_bn": "সম্ভাব্যতা",
+      "q_en": "What is the probability of drawing a king from a standard deck of 52 cards?",
+      "q_bn": "52টি তাস থেকে একটি বাদশা তোলার সম্ভাবনা কত?",
+      "options_en": [
+        "1/4",
+        "1/13",
+        "1/52",
+        "4/13"
+      ],
+      "options_bn": [
+        "1/4",
+        "1/13",
+        "1/52",
+        "4/13"
+      ],
+      "answer": 1,
+      "explain_en": "4 kings out of 52: 4/52 = 1/13.",
+      "explain_bn": "52টির মধ্যে 4টি বাদশা: 4/52 = 1/13।"
+    },
+    {
+      "id": "ma-060",
+      "topic_en": "Probability",
+      "topic_bn": "সম্ভাব্যতা",
+      "q_en": "Two dice are rolled. What is the probability that the sum is 7?",
+      "q_bn": "দুটি ছক্কা নিক্ষেপে যোগফল 7 হওয়ার সম্ভাবনা কত?",
+      "options_en": [
+        "1/9",
+        "5/36",
+        "1/6",
+        "7/36"
+      ],
+      "options_bn": [
+        "1/9",
+        "5/36",
+        "1/6",
+        "7/36"
+      ],
+      "answer": 2,
+      "explain_en": "6 favorable pairs out of 36: 6/36 = 1/6.",
+      "explain_bn": "36টির মধ্যে 6টি অনুকূল জোড়া: 6/36 = 1/6।"
+    },
+    {
+      "id": "ma-061",
+      "topic_en": "Series",
+      "topic_bn": "ধারা",
+      "q_en": "What is the sum of the first 100 natural numbers?",
+      "q_bn": "প্রথম 100টি স্বাভাবিক সংখ্যার যোগফল কত?",
+      "options_en": [
+        "5000",
+        "5100",
+        "10000",
+        "5050"
+      ],
+      "options_bn": [
+        "5000",
+        "5100",
+        "10000",
+        "5050"
+      ],
+      "answer": 3,
+      "explain_en": "n(n+1)/2 = 100 × 101 ÷ 2 = 5050.",
+      "explain_bn": "n(n+1)/2 = 100 × 101 ÷ 2 = 5050।"
+    },
+    {
+      "id": "ma-062",
+      "topic_en": "Series",
+      "topic_bn": "ধারা",
+      "q_en": "Find the next term: 2, 4, 8, 16, …",
+      "q_bn": "পরবর্তী পদ নির্ণয় করো: 2, 4, 8, 16, …",
+      "options_en": [
+        "32",
+        "24",
+        "28",
+        "36"
+      ],
+      "options_bn": [
+        "32",
+        "24",
+        "28",
+        "36"
+      ],
+      "answer": 0,
+      "explain_en": "Each term doubles: 16 × 2 = 32.",
+      "explain_bn": "প্রতিটি পদ দ্বিগুণ: 16 × 2 = 32।"
+    },
+    {
+      "id": "ma-063",
+      "topic_en": "Series",
+      "topic_bn": "ধারা",
+      "q_en": "Find the next term: 3, 6, 11, 18, …",
+      "q_bn": "পরবর্তী পদ নির্ণয় করো: 3, 6, 11, 18, …",
+      "options_en": [
+        "25",
+        "27",
+        "26",
+        "29"
+      ],
+      "options_bn": [
+        "25",
+        "27",
+        "26",
+        "29"
+      ],
+      "answer": 1,
+      "explain_en": "Differences are 3, 5, 7; next +9 gives 18 + 9 = 27.",
+      "explain_bn": "পার্থক্য 3, 5, 7; পরের +9, তাই 18 + 9 = 27।"
+    },
+    {
+      "id": "ma-064",
+      "topic_en": "Series",
+      "topic_bn": "ধারা",
+      "q_en": "Find the sum: 1 + 3 + 5 + … + 19.",
+      "q_bn": "যোগফল নির্ণয় করো: 1 + 3 + 5 + … + 19।",
+      "options_en": [
+        "90",
+        "95",
+        "100",
+        "110"
+      ],
+      "options_bn": [
+        "90",
+        "95",
+        "100",
+        "110"
+      ],
+      "answer": 2,
+      "explain_en": "Sum of first 10 odd numbers = 10² = 100.",
+      "explain_bn": "প্রথম 10টি বিজোড় সংখ্যার যোগফল = 10² = 100।"
+    },
+    {
+      "id": "ma-065",
+      "topic_en": "Series",
+      "topic_bn": "ধারা",
+      "q_en": "Find the 10th term of the AP: 5, 8, 11, …",
+      "q_bn": "5, 8, 11, … সমান্তর ধারার 10তম পদ কত?",
+      "options_en": [
+        "29",
+        "35",
+        "38",
+        "32"
+      ],
+      "options_bn": [
+        "29",
+        "35",
+        "38",
+        "32"
+      ],
+      "answer": 3,
+      "explain_en": "a + 9d = 5 + 9 × 3 = 32.",
+      "explain_bn": "a + 9d = 5 + 9 × 3 = 32।"
+    },
+    {
+      "id": "ma-066",
+      "topic_en": "Series",
+      "topic_bn": "ধারা",
+      "q_en": "Find the 4th term of the GP: 2, 6, 18, …",
+      "q_bn": "2, 6, 18, … গুণোত্তর ধারার 4র্থ পদ কত?",
+      "options_en": [
+        "54",
+        "36",
+        "48",
+        "72"
+      ],
+      "options_bn": [
+        "54",
+        "36",
+        "48",
+        "72"
+      ],
+      "answer": 0,
+      "explain_en": "Common ratio 3: 18 × 3 = 54.",
+      "explain_bn": "সাধারণ অনুপাত 3: 18 × 3 = 54।"
+    },
+    {
+      "id": "ma-067",
+      "topic_en": "Geometry: Triangles",
+      "topic_bn": "জ্যামিতি: ত্রিভুজ",
+      "q_en": "What is the sum of the interior angles of a triangle?",
+      "q_bn": "ত্রিভুজের তিনটি অন্তঃকোণের সমষ্টি কত?",
+      "options_en": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "options_bn": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "answer": 1,
+      "explain_en": "The angle sum of any triangle is 180°.",
+      "explain_bn": "যেকোনো ত্রিভুজের কোণত্রয়ের সমষ্টি 180°।"
+    },
+    {
+      "id": "ma-068",
+      "topic_en": "Geometry: Triangles",
+      "topic_bn": "জ্যামিতি: ত্রিভুজ",
+      "q_en": "A right triangle has legs 3 and 4. What is the hypotenuse?",
+      "q_bn": "সমকোণী ত্রিভুজের বাহুদ্বয় 3 ও 4 হলে অতিভুজ কত?",
+      "options_en": [
+        "6",
+        "7",
+        "5",
+        "12"
+      ],
+      "options_bn": [
+        "6",
+        "7",
+        "5",
+        "12"
+      ],
+      "answer": 2,
+      "explain_en": "√(3² + 4²) = √25 = 5.",
+      "explain_bn": "√(3² + 4²) = √25 = 5।"
+    },
+    {
+      "id": "ma-069",
+      "topic_en": "Geometry: Polygons",
+      "topic_bn": "জ্যামিতি: বহুভুজ",
+      "q_en": "What is each interior angle of a regular hexagon?",
+      "q_bn": "সুষম ষড়ভুজের প্রতিটি অন্তঃকোণ কত?",
+      "options_en": [
+        "108°",
+        "135°",
+        "144°",
+        "120°"
+      ],
+      "options_bn": [
+        "108°",
+        "135°",
+        "144°",
+        "120°"
+      ],
+      "answer": 3,
+      "explain_en": "(6 − 2) × 180 ÷ 6 = 120°.",
+      "explain_bn": "(6 − 2) × 180 ÷ 6 = 120°।"
+    },
+    {
+      "id": "ma-070",
+      "topic_en": "Geometry: Polygons",
+      "topic_bn": "জ্যামিতি: বহুভুজ",
+      "q_en": "What is the sum of the interior angles of a pentagon?",
+      "q_bn": "পঞ্চভুজের অন্তঃকোণগুলোর সমষ্টি কত?",
+      "options_en": [
+        "540°",
+        "360°",
+        "720°",
+        "900°"
+      ],
+      "options_bn": [
+        "540°",
+        "360°",
+        "720°",
+        "900°"
+      ],
+      "answer": 0,
+      "explain_en": "(5 − 2) × 180 = 540°.",
+      "explain_bn": "(5 − 2) × 180 = 540°।"
+    },
+    {
+      "id": "ma-071",
+      "topic_en": "Geometry: Angles",
+      "topic_bn": "জ্যামিতি: কোণ",
+      "q_en": "What is the complement of a 35° angle?",
+      "q_bn": "35° কোণের পূরক কোণ কত?",
+      "options_en": [
+        "45°",
+        "55°",
+        "65°",
+        "145°"
+      ],
+      "options_bn": [
+        "45°",
+        "55°",
+        "65°",
+        "145°"
+      ],
+      "answer": 1,
+      "explain_en": "90 − 35 = 55°.",
+      "explain_bn": "90 − 35 = 55°।"
+    },
+    {
+      "id": "ma-072",
+      "topic_en": "Geometry: Triangles",
+      "topic_bn": "জ্যামিতি: ত্রিভুজ",
+      "q_en": "What is the area of an equilateral triangle with side 6?",
+      "q_bn": "6 বাহুবিশিষ্ট সমবাহু ত্রিভুজের ক্ষেত্রফল কত?",
+      "options_en": [
+        "18",
+        "12√3",
+        "9√3",
+        "36"
+      ],
+      "options_bn": [
+        "18",
+        "12√3",
+        "9√3",
+        "36"
+      ],
+      "answer": 2,
+      "explain_en": "Area = (√3/4) × 6² = 9√3.",
+      "explain_bn": "ক্ষেত্রফল = (√3/4) × 6² = 9√3।"
+    },
+    {
+      "id": "ma-073",
+      "topic_en": "Geometry: Triangles",
+      "topic_bn": "জ্যামিতি: ত্রিভুজ",
+      "q_en": "A triangle has sides 5, 12, 13. What is its area?",
+      "q_bn": "5, 12, 13 বাহুর ত্রিভুজের ক্ষেত্রফল কত?",
+      "options_en": [
+        "25",
+        "32.5",
+        "60",
+        "30"
+      ],
+      "options_bn": [
+        "25",
+        "32.5",
+        "60",
+        "30"
+      ],
+      "answer": 3,
+      "explain_en": "It is right-angled: ½ × 5 × 12 = 30.",
+      "explain_bn": "এটি সমকোণী: ½ × 5 × 12 = 30।"
+    },
+    {
+      "id": "ma-074",
+      "topic_en": "Geometry: Triangles",
+      "topic_bn": "জ্যামিতি: ত্রিভুজ",
+      "q_en": "An isosceles triangle has equal sides 5 and base 6. What is its area?",
+      "q_bn": "সমান বাহু 5 ও ভূমি 6-এর সমদ্বিবাহু ত্রিভুজের ক্ষেত্রফল কত?",
+      "options_en": [
+        "12",
+        "10",
+        "15",
+        "24"
+      ],
+      "options_bn": [
+        "12",
+        "10",
+        "15",
+        "24"
+      ],
+      "answer": 0,
+      "explain_en": "Height = √(25 − 9) = 4; area = ½ × 6 × 4 = 12.",
+      "explain_bn": "উচ্চতা = √(25 − 9) = 4; ক্ষেত্রফল = ½ × 6 × 4 = 12।"
+    },
+    {
+      "id": "ma-075",
+      "topic_en": "Geometry: Circles",
+      "topic_bn": "জ্যামিতি: বৃত্ত",
+      "q_en": "A circle has radius 7. What is its circumference? (π = 22/7)",
+      "q_bn": "ব্যাসার্ধ 7-এর বৃত্তের পরিধি কত? (π = 22/7)",
+      "options_en": [
+        "40",
+        "44",
+        "48",
+        "154"
+      ],
+      "options_bn": [
+        "40",
+        "44",
+        "48",
+        "154"
+      ],
+      "answer": 1,
+      "explain_en": "2 × (22/7) × 7 = 44.",
+      "explain_bn": "2 × (22/7) × 7 = 44।"
+    },
+    {
+      "id": "ma-076",
+      "topic_en": "Geometry: Circles",
+      "topic_bn": "জ্যামিতি: বৃত্ত",
+      "q_en": "A circle has radius 7. What is its area? (π = 22/7)",
+      "q_bn": "ব্যাসার্ধ 7-এর বৃত্তের ক্ষেত্রফল কত? (π = 22/7)",
+      "options_en": [
+        "144",
+        "164",
+        "154",
+        "308"
+      ],
+      "options_bn": [
+        "144",
+        "164",
+        "154",
+        "308"
+      ],
+      "answer": 2,
+      "explain_en": "(22/7) × 7² = 154.",
+      "explain_bn": "(22/7) × 7² = 154।"
+    },
+    {
+      "id": "ma-077",
+      "topic_en": "Geometry: Circles",
+      "topic_bn": "জ্যামিতি: বৃত্ত",
+      "q_en": "The area of a circle is 154 square units (π = 22/7). What is its diameter?",
+      "q_bn": "বৃত্তের ক্ষেত্রফল 154 বর্গ একক (π = 22/7)। ব্যাস কত?",
+      "options_en": [
+        "7",
+        "21",
+        "28",
+        "14"
+      ],
+      "options_bn": [
+        "7",
+        "21",
+        "28",
+        "14"
+      ],
+      "answer": 3,
+      "explain_en": "r² = 49, so r = 7 and diameter = 14.",
+      "explain_bn": "r² = 49, তাই r = 7 ও ব্যাস = 14।"
+    },
+    {
+      "id": "ma-078",
+      "topic_en": "Geometry: Quadrilaterals",
+      "topic_bn": "জ্যামিতি: চতুর্ভুজ",
+      "q_en": "What is the area of a square with side 9?",
+      "q_bn": "9 বাহুর বর্গক্ষেত্রের ক্ষেত্রফল কত?",
+      "options_en": [
+        "81",
+        "72",
+        "90",
+        "108"
+      ],
+      "options_bn": [
+        "81",
+        "72",
+        "90",
+        "108"
+      ],
+      "answer": 0,
+      "explain_en": "9² = 81.",
+      "explain_bn": "9² = 81।"
+    },
+    {
+      "id": "ma-079",
+      "topic_en": "Geometry: Quadrilaterals",
+      "topic_bn": "জ্যামিতি: চতুর্ভুজ",
+      "q_en": "A rectangle is 12 by 8. What is its perimeter?",
+      "q_bn": "12 × 8 আয়তক্ষেত্রের পরিসীমা কত?",
+      "options_en": [
+        "36",
+        "40",
+        "48",
+        "96"
+      ],
+      "options_bn": [
+        "36",
+        "40",
+        "48",
+        "96"
+      ],
+      "answer": 1,
+      "explain_en": "2 × (12 + 8) = 40.",
+      "explain_bn": "2 × (12 + 8) = 40।"
+    },
+    {
+      "id": "ma-080",
+      "topic_en": "Geometry: Quadrilaterals",
+      "topic_bn": "জ্যামিতি: চতুর্ভুজ",
+      "q_en": "What is the diagonal of a square with side 5?",
+      "q_bn": "5 বাহুর বর্গক্ষেত্রের কর্ণ কত?",
+      "options_en": [
+        "10",
+        "7",
+        "5√2",
+        "25"
+      ],
+      "options_bn": [
+        "10",
+        "7",
+        "5√2",
+        "25"
+      ],
+      "answer": 2,
+      "explain_en": "√(5² + 5²) = 5√2.",
+      "explain_bn": "√(5² + 5²) = 5√2।"
+    },
+    {
+      "id": "ma-081",
+      "topic_en": "Mensuration",
+      "topic_bn": "পরিমিতি",
+      "q_en": "What is the volume of a cube with side 4?",
+      "q_bn": "4 বাহুর ঘনকের আয়তন কত?",
+      "options_en": [
+        "48",
+        "96",
+        "128",
+        "64"
+      ],
+      "options_bn": [
+        "48",
+        "96",
+        "128",
+        "64"
+      ],
+      "answer": 3,
+      "explain_en": "4³ = 64.",
+      "explain_bn": "4³ = 64।"
+    },
+    {
+      "id": "ma-082",
+      "topic_en": "Mensuration",
+      "topic_bn": "পরিমিতি",
+      "q_en": "What is the total surface area of a cube with side 3?",
+      "q_bn": "3 বাহুর ঘনকের সমগ্রতলের ক্ষেত্রফল কত?",
+      "options_en": [
+        "54",
+        "27",
+        "36",
+        "81"
+      ],
+      "options_bn": [
+        "54",
+        "27",
+        "36",
+        "81"
+      ],
+      "answer": 0,
+      "explain_en": "6 × 3² = 54.",
+      "explain_bn": "6 × 3² = 54।"
+    },
+    {
+      "id": "ma-083",
+      "topic_en": "Mensuration",
+      "topic_bn": "পরিমিতি",
+      "q_en": "What is the volume of a cuboid 4 × 5 × 6?",
+      "q_bn": "4 × 5 × 6 আয়তঘনকের আয়তন কত?",
+      "options_en": [
+        "100",
+        "120",
+        "140",
+        "180"
+      ],
+      "options_bn": [
+        "100",
+        "120",
+        "140",
+        "180"
+      ],
+      "answer": 1,
+      "explain_en": "4 × 5 × 6 = 120.",
+      "explain_bn": "4 × 5 × 6 = 120।"
+    },
+    {
+      "id": "ma-084",
+      "topic_en": "Mensuration",
+      "topic_bn": "পরিমিতি",
+      "q_en": "A cylinder has radius 7 and height 10 (π = 22/7). What is its volume?",
+      "q_bn": "ব্যাসার্ধ 7 ও উচ্চতা 10-এর সিলিন্ডারের আয়তন কত? (π = 22/7)",
+      "options_en": [
+        "1400",
+        "1570",
+        "1540",
+        "1600"
+      ],
+      "options_bn": [
+        "1400",
+        "1570",
+        "1540",
+        "1600"
+      ],
+      "answer": 2,
+      "explain_en": "(22/7) × 7² × 10 = 1540.",
+      "explain_bn": "(22/7) × 7² × 10 = 1540।"
+    },
+    {
+      "id": "ma-085",
+      "topic_en": "Mensuration",
+      "topic_bn": "পরিমিতি",
+      "q_en": "A sphere has radius 3. What is its volume in terms of π?",
+      "q_bn": "ব্যাসার্ধ 3-এর গোলকের আয়তন π-এর মাধ্যমে কত?",
+      "options_en": [
+        "12π",
+        "18π",
+        "108π",
+        "36π"
+      ],
+      "options_bn": [
+        "12π",
+        "18π",
+        "108π",
+        "36π"
+      ],
+      "answer": 3,
+      "explain_en": "(4/3)π × 3³ = 36π.",
+      "explain_bn": "(4/3)π × 3³ = 36π।"
+    },
+    {
+      "id": "ma-086",
+      "topic_en": "Trigonometry",
+      "topic_bn": "ত্রিকোণমিতি",
+      "q_en": "What is sin 30°?",
+      "q_bn": "sin 30°-এর মান কত?",
+      "options_en": [
+        "1/2",
+        "0",
+        "√3/2",
+        "1"
+      ],
+      "options_bn": [
+        "1/2",
+        "0",
+        "√3/2",
+        "1"
+      ],
+      "answer": 0,
+      "explain_en": "Standard value: sin 30° = 1/2.",
+      "explain_bn": "আদর্শ মান: sin 30° = 1/2।"
+    },
+    {
+      "id": "ma-087",
+      "topic_en": "Trigonometry",
+      "topic_bn": "ত্রিকোণমিতি",
+      "q_en": "What is cos 60°?",
+      "q_bn": "cos 60°-এর মান কত?",
+      "options_en": [
+        "√3/2",
+        "1/2",
+        "1",
+        "0"
+      ],
+      "options_bn": [
+        "√3/2",
+        "1/2",
+        "1",
+        "0"
+      ],
+      "answer": 1,
+      "explain_en": "Standard value: cos 60° = 1/2.",
+      "explain_bn": "আদর্শ মান: cos 60° = 1/2।"
+    },
+    {
+      "id": "ma-088",
+      "topic_en": "Trigonometry",
+      "topic_bn": "ত্রিকোণমিতি",
+      "q_en": "What is tan 45°?",
+      "q_bn": "tan 45°-এর মান কত?",
+      "options_en": [
+        "0",
+        "1/2",
+        "1",
+        "√3"
+      ],
+      "options_bn": [
+        "0",
+        "1/2",
+        "1",
+        "√3"
+      ],
+      "answer": 2,
+      "explain_en": "tan 45° = sin 45° ÷ cos 45° = 1.",
+      "explain_bn": "tan 45° = sin 45° ÷ cos 45° = 1।"
+    },
+    {
+      "id": "ma-089",
+      "topic_en": "Trigonometry",
+      "topic_bn": "ত্রিকোণমিতি",
+      "q_en": "What is sin²θ + cos²θ?",
+      "q_bn": "sin²θ + cos²θ-এর মান কত?",
+      "options_en": [
+        "0",
+        "2",
+        "tan²θ",
+        "1"
+      ],
+      "options_bn": [
+        "0",
+        "2",
+        "tan²θ",
+        "1"
+      ],
+      "answer": 3,
+      "explain_en": "The fundamental identity: always 1.",
+      "explain_bn": "মৌলিক অভেদ: সর্বদা 1।"
+    },
+    {
+      "id": "ma-090",
+      "topic_en": "Trigonometry",
+      "topic_bn": "ত্রিকোণমিতি",
+      "q_en": "A 10 m ladder makes a 30° angle with the ground. How high up the wall does it reach?",
+      "q_bn": "10 মি মই ভূমির সাথে 30° কোণ করলে দেয়ালে কত উঁচুতে পৌঁছাবে?",
+      "options_en": [
+        "5 m",
+        "4 m",
+        "8.66 m",
+        "10 m"
+      ],
+      "options_bn": [
+        "5 m",
+        "4 m",
+        "8.66 m",
+        "10 m"
+      ],
+      "answer": 0,
+      "explain_en": "Height = 10 × sin 30° = 10 × 1/2 = 5 m.",
+      "explain_bn": "উচ্চতা = 10 × sin 30° = 10 × 1/2 = 5 মি।"
+    },
+    {
+      "id": "ma-091",
+      "topic_en": "Trigonometry",
+      "topic_bn": "ত্রিকোণমিতি",
+      "q_en": "What is tan 60°?",
+      "q_bn": "tan 60°-এর মান কত?",
+      "options_en": [
+        "1",
+        "√3",
+        "1/√3",
+        "2"
+      ],
+      "options_bn": [
+        "1",
+        "√3",
+        "1/√3",
+        "2"
+      ],
+      "answer": 1,
+      "explain_en": "Standard value: tan 60° = √3.",
+      "explain_bn": "আদর্শ মান: tan 60° = √3।"
+    },
+    {
+      "id": "ma-092",
+      "topic_en": "Functions",
+      "topic_bn": "ফাংশন",
+      "q_en": "If f(x) = 2x + 3, what is f(4)?",
+      "q_bn": "f(x) = 2x + 3 হলে f(4) কত?",
+      "options_en": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "options_bn": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answer": 2,
+      "explain_en": "f(4) = 2 × 4 + 3 = 11.",
+      "explain_bn": "f(4) = 2 × 4 + 3 = 11।"
+    },
+    {
+      "id": "ma-093",
+      "topic_en": "Functions",
+      "topic_bn": "ফাংশন",
+      "q_en": "If f(x) = x² − 1, what is f(3)?",
+      "q_bn": "f(x) = x² − 1 হলে f(3) কত?",
+      "options_en": [
+        "6",
+        "7",
+        "9",
+        "8"
+      ],
+      "options_bn": [
+        "6",
+        "7",
+        "9",
+        "8"
+      ],
+      "answer": 3,
+      "explain_en": "f(3) = 9 − 1 = 8.",
+      "explain_bn": "f(3) = 9 − 1 = 8।"
+    },
+    {
+      "id": "ma-094",
+      "topic_en": "Functions",
+      "topic_bn": "ফাংশন",
+      "q_en": "What is the slope of the line through (1, 2) and (3, 6)?",
+      "q_bn": "(1, 2) ও (3, 6) বিন্দুগামী রেখার ঢাল কত?",
+      "options_en": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "options_bn": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "answer": 0,
+      "explain_en": "Slope = (6 − 2) ÷ (3 − 1) = 2.",
+      "explain_bn": "ঢাল = (6 − 2) ÷ (3 − 1) = 2।"
+    },
+    {
+      "id": "ma-095",
+      "topic_en": "Functions",
+      "topic_bn": "ফাংশন",
+      "q_en": "What is the y-intercept of y = 3x + 5?",
+      "q_bn": "y = 3x + 5 রেখার y-ছেদাংশ কত?",
+      "options_en": [
+        "3",
+        "5",
+        "−5",
+        "8"
+      ],
+      "options_bn": [
+        "3",
+        "5",
+        "−5",
+        "8"
+      ],
+      "answer": 1,
+      "explain_en": "At x = 0, y = 5.",
+      "explain_bn": "x = 0 হলে y = 5।"
+    },
+    {
+      "id": "ma-096",
+      "topic_en": "Functions",
+      "topic_bn": "ফাংশন",
+      "q_en": "What is the x-intercept of y = 2x − 8?",
+      "q_bn": "y = 2x − 8 রেখার x-ছেদাংশ কত?",
+      "options_en": [
+        "2",
+        "8",
+        "4",
+        "−4"
+      ],
+      "options_bn": [
+        "2",
+        "8",
+        "4",
+        "−4"
+      ],
+      "answer": 2,
+      "explain_en": "Set y = 0: 2x = 8, so x = 4.",
+      "explain_bn": "y = 0 বসিয়ে: 2x = 8, তাই x = 4।"
+    },
+    {
+      "id": "ma-097",
+      "topic_en": "Numbers",
+      "topic_bn": "সংখ্যা",
+      "q_en": "What is the smallest prime number?",
+      "q_bn": "ক্ষুদ্রতম মৌলিক সংখ্যা কোনটি?",
+      "options_en": [
+        "1",
+        "3",
+        "0",
+        "2"
+      ],
+      "options_bn": [
+        "1",
+        "3",
+        "0",
+        "2"
+      ],
+      "answer": 3,
+      "explain_en": "1 is not prime; 2 is the smallest prime.",
+      "explain_bn": "1 মৌলিক নয়; 2 ক্ষুদ্রতম মৌলিক।"
+    },
+    {
+      "id": "ma-098",
+      "topic_en": "Numbers",
+      "topic_bn": "সংখ্যা",
+      "q_en": "Which of these numbers is divisible by both 3 and 4?",
+      "q_bn": "নিচের কোন সংখ্যাটি 3 ও 4 উভয় দ্বারা বিভাজ্য?",
+      "options_en": [
+        "12",
+        "10",
+        "14",
+        "18"
+      ],
+      "options_bn": [
+        "12",
+        "10",
+        "14",
+        "18"
+      ],
+      "answer": 0,
+      "explain_en": "12 ÷ 3 = 4 and 12 ÷ 4 = 3.",
+      "explain_bn": "12 ÷ 3 = 4 এবং 12 ÷ 4 = 3।"
+    },
+    {
+      "id": "ma-099",
+      "topic_en": "Numbers",
+      "topic_bn": "সংখ্যা",
+      "q_en": "Simplify: √2 × √8.",
+      "q_bn": "সরল করো: √2 × √8।",
+      "options_en": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "options_bn": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "answer": 1,
+      "explain_en": "√(2 × 8) = √16 = 4.",
+      "explain_bn": "√(2 × 8) = √16 = 4।"
+    },
+    {
+      "id": "ma-100",
+      "topic_en": "Numbers",
+      "topic_bn": "সংখ্যা",
+      "q_en": "If a = 3 and b = 4, what is (a + b)²?",
+      "q_bn": "a = 3 ও b = 4 হলে (a + b)²-এর মান কত?",
+      "options_en": [
+        "25",
+        "36",
+        "49",
+        "64"
+      ],
+      "options_bn": [
+        "25",
+        "36",
+        "49",
+        "64"
+      ],
+      "answer": 2,
+      "explain_en": "(3 + 4)² = 7² = 49.",
+      "explain_bn": "(3 + 4)² = 7² = 49।"
+    }
+  ]
+}
