@@ -1,0 +1,2211 @@
+{
+  "questions": [
+    {
+      "answer": 0,
+      "explain_bn": "নিয়ম: n(n+1)। 1×2=2, 2×3=6, 3×4=12, 4×5=20, 5×6=30, তাই পরেরটি 6×7=42।",
+      "explain_en": "Pattern: n(n+1). 1x2=2, 2x3=6, 3x4=12, 4x5=20, 5x6=30, so next is 6x7=42.",
+      "id": "me-001",
+      "options_bn": [
+        "42",
+        "40",
+        "36",
+        "44"
+      ],
+      "options_en": [
+        "42",
+        "40",
+        "36",
+        "44"
+      ],
+      "q_bn": "ধারাটির পরবর্তী সংখ্যা নির্ণয় কর: 2, 6, 12, 20, 30, ?",
+      "q_en": "Find the next number in the series: 2, 6, 12, 20, 30, ?",
+      "topic_bn": "সংখ্যা ধারা",
+      "topic_en": "Number Series"
+    },
+    {
+      "answer": 1,
+      "explain_bn": "নিয়ম: প্রতিটি ধাপে 3 দিয়ে গুণ। 3×3=9, 9×3=27, 27×3=81, তাই পরেরটি 81×3=243।",
+      "explain_en": "Pattern: multiply by 3 each step. 3x3=9, 9x3=27, 27x3=81, so next is 81x3=243.",
+      "id": "me-002",
+      "options_bn": [
+        "162",
+        "243",
+        "324",
+        "729"
+      ],
+      "options_en": [
+        "162",
+        "243",
+        "324",
+        "729"
+      ],
+      "q_bn": "ধারাটির পরবর্তী সংখ্যা নির্ণয় কর: 3, 9, 27, 81, ?",
+      "q_en": "Find the next number in the series: 3, 9, 27, 81, ?",
+      "topic_bn": "সংখ্যা ধারা",
+      "topic_en": "Number Series"
+    },
+    {
+      "answer": 2,
+      "explain_bn": "নিয়ম: 2 দিয়ে গুণ করে 1 যোগ। 5×2+1=11, 11×2+1=23, 23×2+1=47, তাই পরেরটি 47×2+1=95।",
+      "explain_en": "Pattern: multiply by 2 and add 1. 5x2+1=11, 11x2+1=23, 23x2+1=47, so next is 47x2+1=95.",
+      "id": "me-003",
+      "options_bn": [
+        "93",
+        "94",
+        "95",
+        "96"
+      ],
+      "options_en": [
+        "93",
+        "94",
+        "95",
+        "96"
+      ],
+      "q_bn": "ধারাটির পরবর্তী সংখ্যা নির্ণয় কর: 5, 11, 23, 47, ?",
+      "q_en": "Find the next number in the series: 5, 11, 23, 47, ?",
+      "topic_bn": "সংখ্যা ধারা",
+      "topic_en": "Number Series"
+    },
+    {
+      "answer": 3,
+      "explain_bn": "নিয়ম: পূর্ণবর্গ সংখ্যা। 1^2=1, 2^2=4, 3^2=9, 4^2=16, 5^2=25, তাই পরেরটি 6^2=36।",
+      "explain_en": "Pattern: perfect squares. 1^2=1, 2^2=4, 3^2=9, 4^2=16, 5^2=25, so next is 6^2=36.",
+      "id": "me-004",
+      "options_bn": [
+        "30",
+        "32",
+        "35",
+        "36"
+      ],
+      "options_en": [
+        "30",
+        "32",
+        "35",
+        "36"
+      ],
+      "q_bn": "ধারাটির পরবর্তী সংখ্যা নির্ণয় কর: 1, 4, 9, 16, 25, ?",
+      "q_en": "Find the next number in the series: 1, 4, 9, 16, 25, ?",
+      "topic_bn": "সংখ্যা ধারা",
+      "topic_en": "Number Series"
+    },
+    {
+      "answer": 0,
+      "explain_bn": "নিয়ম: প্রতিটি ধাপে দ্বিগুণ। 7×2=14, 14×2=28, 28×2=56, তাই পরেরটি 56×2=112।",
+      "explain_en": "Pattern: double each step. 7x2=14, 14x2=28, 28x2=56, so next is 56x2=112.",
+      "id": "me-005",
+      "options_bn": [
+        "112",
+        "104",
+        "108",
+        "120"
+      ],
+      "options_en": [
+        "112",
+        "104",
+        "108",
+        "120"
+      ],
+      "q_bn": "ধারাটির পরবর্তী সংখ্যা নির্ণয় কর: 7, 14, 28, 56, ?",
+      "q_en": "Find the next number in the series: 7, 14, 28, 56, ?",
+      "topic_bn": "সংখ্যা ধারা",
+      "topic_en": "Number Series"
+    },
+    {
+      "answer": 1,
+      "explain_bn": "নিয়ম: 2 দিয়ে গুণ করে 1 বিয়োগ। 2×2-1=3, 3×2-1=5, 5×2-1=9, 9×2-1=17, তাই পরেরটি 17×2-1=33।",
+      "explain_en": "Pattern: multiply by 2 and subtract 1. 2x2-1=3, 3x2-1=5, 5x2-1=9, 9x2-1=17, so next is 17x2-1=33.",
+      "id": "me-006",
+      "options_bn": [
+        "31",
+        "33",
+        "34",
+        "35"
+      ],
+      "options_en": [
+        "31",
+        "33",
+        "34",
+        "35"
+      ],
+      "q_bn": "ধারাটির পরবর্তী সংখ্যা নির্ণয় কর: 2, 3, 5, 9, 17, ?",
+      "q_en": "Find the next number in the series: 2, 3, 5, 9, 17, ?",
+      "topic_bn": "সংখ্যা ধারা",
+      "topic_en": "Number Series"
+    },
+    {
+      "answer": 2,
+      "explain_bn": "নিয়ম: ক্রমিক সংখ্যার বর্গ। 11^2=121, 12^2=144, 13^2=169, 14^2=196, তাই পরেরটি 15^2=225।",
+      "explain_en": "Pattern: squares of consecutive numbers. 11^2=121, 12^2=144, 13^2=169, 14^2=196, so next is 15^2=225.",
+      "id": "me-007",
+      "options_bn": [
+        "220",
+        "224",
+        "225",
+        "256"
+      ],
+      "options_en": [
+        "220",
+        "224",
+        "225",
+        "256"
+      ],
+      "q_bn": "ধারাটির পরবর্তী সংখ্যা নির্ণয় কর: 121, 144, 169, 196, ?",
+      "q_en": "Find the next number in the series: 121, 144, 169, 196, ?",
+      "topic_bn": "সংখ্যা ধারা",
+      "topic_en": "Number Series"
+    },
+    {
+      "answer": 3,
+      "explain_bn": "নিয়ম: পূর্ণঘন সংখ্যা। 1^3=1, 2^3=8, 3^3=27, 4^3=64, তাই পরেরটি 5^3=125।",
+      "explain_en": "Pattern: perfect cubes. 1^3=1, 2^3=8, 3^3=27, 4^3=64, so next is 5^3=125.",
+      "id": "me-008",
+      "options_bn": [
+        "100",
+        "124",
+        "126",
+        "125"
+      ],
+      "options_en": [
+        "100",
+        "124",
+        "126",
+        "125"
+      ],
+      "q_bn": "ধারাটির পরবর্তী সংখ্যা নির্ণয় কর: 1, 8, 27, 64, ?",
+      "q_en": "Find the next number in the series: 1, 8, 27, 64, ?",
+      "topic_bn": "সংখ্যা ধারা",
+      "topic_en": "Number Series"
+    },
+    {
+      "answer": 0,
+      "explain_bn": "নিয়ম: পার্থক্য 2 করে বাড়ে। +3, +5, +7, +9, তাই পরের পার্থক্য +11: 28+11=39।",
+      "explain_en": "Pattern: differences increase by 2. +3, +5, +7, +9, so next difference is +11: 28+11=39.",
+      "id": "me-009",
+      "options_bn": [
+        "39",
+        "37",
+        "38",
+        "41"
+      ],
+      "options_en": [
+        "39",
+        "37",
+        "38",
+        "41"
+      ],
+      "q_bn": "ধারাটির পরবর্তী সংখ্যা নির্ণয় কর: 4, 7, 12, 19, 28, ?",
+      "q_en": "Find the next number in the series: 4, 7, 12, 19, 28, ?",
+      "topic_bn": "সংখ্যা ধারা",
+      "topic_en": "Number Series"
+    },
+    {
+      "answer": 1,
+      "explain_bn": "নিয়ম: ক্রমবর্ধমান সংখ্যা বিয়োগ। -2, -3, -4, -5, তাই পরেরটি 6-6=0।",
+      "explain_en": "Pattern: subtract increasing numbers. -2, -3, -4, -5, so next is 6-6=0.",
+      "id": "me-010",
+      "options_bn": [
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "options_en": [
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "q_bn": "ধারাটির পরবর্তী সংখ্যা নির্ণয় কর: 20, 18, 15, 11, 6, ?",
+      "q_en": "Find the next number in the series: 20, 18, 15, 11, 6, ?",
+      "topic_bn": "সংখ্যা ধারা",
+      "topic_en": "Number Series"
+    },
+    {
+      "answer": 2,
+      "explain_bn": "নিয়ম: পার্থক্য 1 করে বাড়ে। A+1=C, C+2=F, F+3=J, J+4=O, তাই O+5=T।",
+      "explain_en": "Pattern: gaps increase by 1. A+1=C, C+2=F, F+3=J, J+4=O, so O+5=T.",
+      "id": "me-011",
+      "options_bn": [
+        "S",
+        "R",
+        "T",
+        "U"
+      ],
+      "options_en": [
+        "S",
+        "R",
+        "T",
+        "U"
+      ],
+      "q_bn": "ধারাটির পরবর্তী বর্ণ নির্ণয় কর: A, C, F, J, O, ?",
+      "q_en": "Find the next letter in the series: A, C, F, J, O, ?",
+      "topic_bn": "বর্ণ ধারা",
+      "topic_en": "Letter Series"
+    },
+    {
+      "answer": 3,
+      "explain_bn": "নিয়ম: প্রতিটি ধাপে 2 ঘর পেছনে। Z-2=X, X-2=V, V-2=T, তাই T-2=R।",
+      "explain_en": "Pattern: move 2 steps back each time. Z-2=X, X-2=V, V-2=T, so T-2=R.",
+      "id": "me-012",
+      "options_bn": [
+        "P",
+        "Q",
+        "S",
+        "R"
+      ],
+      "options_en": [
+        "P",
+        "Q",
+        "S",
+        "R"
+      ],
+      "q_bn": "ধারাটির পরবর্তী বর্ণ নির্ণয় কর: Z, X, V, T, ?",
+      "q_en": "Find the next letter in the series: Z, X, V, T, ?",
+      "topic_bn": "বর্ণ ধারা",
+      "topic_en": "Letter Series"
+    },
+    {
+      "answer": 0,
+      "explain_bn": "নিয়ম: প্রতিটি ধাপে 3 ঘর এগিয়ে। A+3=D, D+3=G, G+3=J, তাই J+3=M।",
+      "explain_en": "Pattern: move 3 steps forward each time. A+3=D, D+3=G, G+3=J, so J+3=M.",
+      "id": "me-013",
+      "options_bn": [
+        "M",
+        "K",
+        "L",
+        "N"
+      ],
+      "options_en": [
+        "M",
+        "K",
+        "L",
+        "N"
+      ],
+      "q_bn": "ধারাটির পরবর্তী বর্ণ নির্ণয় কর: A, D, G, J, ?",
+      "q_en": "Find the next letter in the series: A, D, G, J, ?",
+      "topic_bn": "বর্ণ ধারা",
+      "topic_en": "Letter Series"
+    },
+    {
+      "answer": 1,
+      "explain_bn": "নিয়ম: প্রতিটি ধাপে 3 ঘর এগিয়ে। B+3=E, E+3=H, H+3=K, K+3=N, তাই N+3=Q।",
+      "explain_en": "Pattern: move 3 steps forward each time. B+3=E, E+3=H, H+3=K, K+3=N, so N+3=Q.",
+      "id": "me-014",
+      "options_bn": [
+        "P",
+        "Q",
+        "R",
+        "O"
+      ],
+      "options_en": [
+        "P",
+        "Q",
+        "R",
+        "O"
+      ],
+      "q_bn": "ধারাটির পরবর্তী বর্ণ নির্ণয় কর: B, E, H, K, N, ?",
+      "q_en": "Find the next letter in the series: B, E, H, K, N, ?",
+      "topic_bn": "বর্ণ ধারা",
+      "topic_en": "Letter Series"
+    },
+    {
+      "answer": 2,
+      "explain_bn": "নিয়ম: প্রথম বর্ণ এগিয়ে যায়, দ্বিতীয় বর্ণ পেছনে যায়। A→B→C→D→E এবং Z→Y→X→W→V, তাই পরেরটি EV।",
+      "explain_en": "Pattern: first letter moves forward, second moves backward. A→B→C→D→E and Z→Y→X→W→V, so next is EV.",
+      "id": "me-015",
+      "options_bn": [
+        "DU",
+        "EU",
+        "EV",
+        "FV"
+      ],
+      "options_en": [
+        "DU",
+        "EU",
+        "EV",
+        "FV"
+      ],
+      "q_bn": "ধারাটির পরবর্তী পদ নির্ণয় কর: AZ, BY, CX, DW, ?",
+      "q_en": "Find the next term in the series: AZ, BY, CX, DW, ?",
+      "topic_bn": "বর্ণ ধারা",
+      "topic_en": "Letter Series"
+    },
+    {
+      "answer": 3,
+      "explain_bn": "নিয়ম: প্রতিটি ধাপে একটি নতুন বর্ণ যোগ হয়। A, AB, ABC, ABCD, তাই পরেরটি ABCDE।",
+      "explain_en": "Pattern: one new letter is added each step. A, AB, ABC, ABCD, so next is ABCDE.",
+      "id": "me-016",
+      "options_bn": [
+        "ABCDEF",
+        "ABCDEE",
+        "ABCDD",
+        "ABCDE"
+      ],
+      "options_en": [
+        "ABCDEF",
+        "ABCDEE",
+        "ABCDD",
+        "ABCDE"
+      ],
+      "q_bn": "ধারাটির পরবর্তী পদ নির্ণয় কর: A, AB, ABC, ABCD, ?",
+      "q_en": "Find the next term in the series: A, AB, ABC, ABCD, ?",
+      "topic_bn": "বর্ণ ধারা",
+      "topic_en": "Letter Series"
+    },
+    {
+      "answer": 0,
+      "explain_bn": "নিয়ম: বর্ণমালার বিপরীত ক্রম। P, O, N, M-এর পরের বর্ণ L।",
+      "explain_en": "Pattern: reverse alphabetical order. After P, O, N, M comes L.",
+      "id": "me-017",
+      "options_bn": [
+        "L",
+        "K",
+        "J",
+        "M"
+      ],
+      "options_en": [
+        "L",
+        "K",
+        "J",
+        "M"
+      ],
+      "q_bn": "ধারাটির পরবর্তী বর্ণ নির্ণয় কর: P, O, N, M, ?",
+      "q_en": "Find the next letter in the series: P, O, N, M, ?",
+      "topic_bn": "বর্ণ ধারা",
+      "topic_en": "Letter Series"
+    },
+    {
+      "answer": 1,
+      "explain_bn": "নিয়ম: প্রতিটি ধাপে 3 ঘর এগিয়ে। C+3=F, F+3=I, I+3=L, L+3=O, তাই O+3=R।",
+      "explain_en": "Pattern: move 3 steps forward each time. C+3=F, F+3=I, I+3=L, L+3=O, so O+3=R.",
+      "id": "me-018",
+      "options_bn": [
+        "Q",
+        "R",
+        "S",
+        "P"
+      ],
+      "options_en": [
+        "Q",
+        "R",
+        "S",
+        "P"
+      ],
+      "q_bn": "ধারাটির পরবর্তী বর্ণ নির্ণয় কর: C, F, I, L, O, ?",
+      "q_en": "Find the next letter in the series: C, F, I, L, O, ?",
+      "topic_bn": "বর্ণ ধারা",
+      "topic_en": "Letter Series"
+    },
+    {
+      "answer": 2,
+      "explain_bn": "নিয়ম: প্রতি দ্বিতীয় বর্ণ (স্বরবর্ণ বাদে)। a, c, e, g-এর পরেরটি i।",
+      "explain_en": "Pattern: every second letter. After a, c, e, g comes i.",
+      "id": "me-019",
+      "options_bn": [
+        "h",
+        "j",
+        "i",
+        "k"
+      ],
+      "options_en": [
+        "h",
+        "j",
+        "i",
+        "k"
+      ],
+      "q_bn": "ধারাটির পরবর্তী বর্ণ নির্ণয় কর: a, c, e, g, ?",
+      "q_en": "Find the next letter in the series: a, c, e, g, ?",
+      "topic_bn": "বর্ণ ধারা",
+      "topic_en": "Letter Series"
+    },
+    {
+      "answer": 3,
+      "explain_bn": "নিয়ম: প্রতিটি ধাপে 4 ঘর এগিয়ে। A+4=E, E+4=I, I+4=M, তাই M+4=Q।",
+      "explain_en": "Pattern: move 4 steps forward each time. A+4=E, E+4=I, I+4=M, so M+4=Q.",
+      "id": "me-020",
+      "options_bn": [
+        "N",
+        "O",
+        "P",
+        "Q"
+      ],
+      "options_en": [
+        "N",
+        "O",
+        "P",
+        "Q"
+      ],
+      "q_bn": "ধারাটির পরবর্তী বর্ণ নির্ণয় কর: A, E, I, M, ?",
+      "q_en": "Find the next letter in the series: A, E, I, M, ?",
+      "topic_bn": "বর্ণ ধারা",
+      "topic_en": "Letter Series"
+    },
+    {
+      "answer": 0,
+      "explain_bn": "হাতুড়ি দিয়ে পেরেক ঠোকা হয়; স্ক্রু-ড্রাইভার দিয়ে স্ক্রু ঘোরানো হয় — যন্ত্র ও তার সংশ্লিষ্ট বস্তুর সম্পর্ক।",
+      "explain_en": "A hammer drives a nail; a screwdriver drives a screw — tool to the fastener it works on.",
+      "id": "me-021",
+      "options_bn": [
+        "স্ক্রু",
+        "বোল্ট",
+        "কাঠ",
+        "ধাতু"
+      ],
+      "options_en": [
+        "Screw",
+        "Bolt",
+        "Wood",
+        "Metal"
+      ],
+      "q_bn": "হাতুড়ি : পেরেক :: স্ক্রু-ড্রাইভার : ?",
+      "q_en": "Hammer : Nail :: Screwdriver : ?",
+      "topic_bn": "অ্যানালজি",
+      "topic_en": "Analogy",
+      "subject": "mental"
+    },
+    {
+      "answer": 2,
+      "explain_bn": "বীজ থেকে গাছ জন্�ন্মায়; ডিম থেকে পাখি ফোটে — উৎস ও তা থেকে জন্মানো প্রাণীর সম্পর্ক।",
+      "explain_en": "A seed grows into a plant; an egg hatches into a bird — origin to the living thing it becomes.",
+      "id": "me-022",
+      "options_bn": [
+        "বাসা",
+        "পালক",
+        "পাখি",
+        "ডানা"
+      ],
+      "options_en": [
+        "Nest",
+        "Feather",
+        "Bird",
+        "Wing"
+      ],
+      "q_bn": "বীজ : গাছ :: ডিম : ?",
+      "q_en": "Seed : Plant :: Egg : ?",
+      "topic_bn": "অ্যানালজি",
+      "topic_en": "Analogy",
+      "subject": "mental"
+    },
+    {
+      "answer": 2,
+      "explain_bn": "লেখক বই রচনা করেন; সুরকার গান রচনা করেন — স্রষ্টা ও সৃষ্টির সম্পর্ক।",
+      "explain_en": "An author creates a book; a composer creates a song — creator to creation.",
+      "id": "me-023",
+      "options_bn": [
+        "মঞ্চ",
+        "বাদ্যযন্ত্র",
+        "গান",
+        "শ্রোতা"
+      ],
+      "options_en": [
+        "Stage",
+        "Instrument",
+        "Song",
+        "Audience"
+      ],
+      "q_bn": "লেখক : বই :: সুরকার : ?",
+      "q_en": "Author : Book :: Composer : ?",
+      "topic_bn": "অ্যানালজি",
+      "topic_en": "Analogy",
+      "subject": "mental"
+    },
+    {
+      "answer": 3,
+      "explain_bn": "নিয়ম: যন্ত্র ও পরিমাপ-সম্পর্ক। ঘড়ি সময় মাপে, থার্মোমিটার তাপমাত্রা মাপে।",
+      "explain_en": "Rule: instrument and measurement. A clock measures time, a thermometer measures temperature.",
+      "id": "me-024",
+      "options_bn": [
+        "তাপ",
+        "জ্বর",
+        "আবহাওয়া",
+        "তাপমাত্রা"
+      ],
+      "options_en": [
+        "Heat",
+        "Fever",
+        "Weather",
+        "Temperature"
+      ],
+      "q_bn": "ঘড়ি : সময় :: থার্মোমিটার : ?",
+      "q_en": "Clock : Time :: Thermometer : ?",
+      "topic_bn": "অ্যানালজি",
+      "topic_en": "Analogy"
+    },
+    {
+      "answer": 1,
+      "explain_bn": "চাকা গাড়িকে চলতে সাহায্য করে; ডানা উড়োজাহাজকে উড়তে সাহায্য করে — অংশ ও পূর্ণ বস্তুর কার্যগত সম্পর্ক।",
+      "explain_en": "A wheel is the part that lets a car move; a wing is the part that lets an aeroplane fly — part to whole by function.",
+      "id": "me-025",
+      "options_bn": [
+        "পাখি",
+        "উড়োজাহাজ",
+        "ঘুড়ি",
+        "পালক"
+      ],
+      "options_en": [
+        "Bird",
+        "Aeroplane",
+        "Kite",
+        "Feather"
+      ],
+      "q_bn": "চাকা : গাড়ি :: ডানা : ?",
+      "q_en": "Wheel : Car :: Wing : ?",
+      "topic_bn": "অ্যানালজি",
+      "topic_en": "Analogy",
+      "subject": "mental"
+    },
+    {
+      "answer": 1,
+      "explain_bn": "নিয়ম: চাহিদা পূরণ-সম্পর্ক। পানি তৃষ্ণা মেটায়, খাবার ক্ষুধা মেটায়।",
+      "explain_en": "Rule: need and satisfaction. Water satisfies thirst, food satisfies hunger.",
+      "id": "me-026",
+      "options_bn": [
+        "স্বাদ",
+        "ক্ষুধা",
+        "শক্তি",
+        "ভাত"
+      ],
+      "options_en": [
+        "Taste",
+        "Hunger",
+        "Energy",
+        "Rice"
+      ],
+      "q_bn": "পানি : তৃষ্ণা :: খাবার : ?",
+      "q_en": "Water : Thirst :: Food : ?",
+      "topic_bn": "অ্যানালজি",
+      "topic_en": "Analogy"
+    },
+    {
+      "answer": 2,
+      "explain_bn": "নিয়ম: অঙ্গ ও কাজ-সম্পর্ক। চোখ দিয়ে দেখা হয়, কান দিয়ে শোনা হয়।",
+      "explain_en": "Rule: organ and function. The eye is for seeing, the ear is for hearing.",
+      "id": "me-027",
+      "options_bn": [
+        "শব্দ",
+        "কোলাহল",
+        "শোনা",
+        "মনোযোগ"
+      ],
+      "options_en": [
+        "Sound",
+        "Noise",
+        "Hear",
+        "Listen"
+      ],
+      "q_bn": "চোখ : দেখা :: কান : ?",
+      "q_en": "Eye : See :: Ear : ?",
+      "topic_bn": "অ্যানালজি",
+      "topic_en": "Analogy"
+    },
+    {
+      "answer": 3,
+      "explain_bn": "নিয়ম: সময়-সম্পর্ক। সূর্য দিনের সাথে, চাঁদ রাতের সাথে সম্পর্কিত।",
+      "explain_en": "Rule: time association. The sun belongs to day, the moon belongs to night.",
+      "id": "me-028",
+      "options_bn": [
+        "তারা",
+        "আকাশ",
+        "আলো",
+        "রাত"
+      ],
+      "options_en": [
+        "Star",
+        "Sky",
+        "Light",
+        "Night"
+      ],
+      "q_bn": "সূর্য : দিন :: চাঁদ : ?",
+      "q_en": "Sun : Day :: Moon : ?",
+      "topic_bn": "অ্যানালজি",
+      "topic_en": "Analogy"
+    },
+    {
+      "answer": 0,
+      "explain_bn": "নিয়ম: প্রাণী ও বাসস্থান-সম্পর্ক। সিংহ গুহায় থাকে, ঘোড়া আস্তাবলে থাকে।",
+      "explain_en": "Rule: animal and shelter. A lion lives in a den, a horse lives in a stable.",
+      "id": "me-029",
+      "options_bn": [
+        "আস্তাবল",
+        "মাঠ",
+        "জিন",
+        "খামার"
+      ],
+      "options_en": [
+        "Stable",
+        "Field",
+        "Saddle",
+        "Barn"
+      ],
+      "q_bn": "সিংহ : গুহা :: ঘোড়া : ?",
+      "q_en": "Lion : Den :: Horse : ?",
+      "topic_bn": "অ্যানালজি",
+      "topic_en": "Analogy"
+    },
+    {
+      "answer": 1,
+      "explain_bn": "নিয়ম: নিরাপত্তা-সম্পর্ক। চাবি তালা খোলে, পাসওয়ার্ড কম্পিউটার খোলে।",
+      "explain_en": "Rule: security relationship. A key opens a lock, a password opens a computer.",
+      "id": "me-030",
+      "options_bn": [
+        "দরজা",
+        "কম্পিউটার",
+        "গোপন",
+        "কোড"
+      ],
+      "options_en": [
+        "Door",
+        "Computer",
+        "Secret",
+        "Code"
+      ],
+      "q_bn": "চাবি : তালা :: পাসওয়ার্ড : ?",
+      "q_en": "Key : Lock :: Password : ?",
+      "topic_bn": "অ্যানালজি",
+      "topic_en": "Analogy"
+    },
+    {
+      "answer": 2,
+      "explain_bn": "নিয়ম: প্রতিটি বর্ণ 1 ঘর এগিয়ে। C→D, A→B, T→U, তাই D→E, O→P, G→H = EPH।",
+      "explain_en": "Rule: each letter moves 1 step forward. C→D, A→B, T→U, so D→E, O→P, G→H = EPH.",
+      "id": "me-031",
+      "options_bn": [
+        "DPH",
+        "EPG",
+        "EPH",
+        "FQI"
+      ],
+      "options_en": [
+        "DPH",
+        "EPG",
+        "EPH",
+        "FQI"
+      ],
+      "q_bn": "CAT-কে DBU লেখা হলে, DOG-কে কী লেখা হবে?",
+      "q_en": "If CAT is written as DBU, how is DOG written?",
+      "topic_bn": "কোডিং-ডিকোডিং",
+      "topic_en": "Coding-Decoding"
+    },
+    {
+      "answer": 3,
+      "explain_bn": "নিয়ম: বর্ণের অবস্থান যোগ। B=2, A=1, D=4; 2+1+4=7।",
+      "explain_en": "Rule: add letter positions. B=2, A=1, D=4; 2+1+4=7.",
+      "id": "me-032",
+      "options_bn": [
+        "5",
+        "6",
+        "8",
+        "7"
+      ],
+      "options_en": [
+        "5",
+        "6",
+        "8",
+        "7"
+      ],
+      "q_bn": "A=1, B=2, ..., Z=26 হলে, BAD-এর কোড কত?",
+      "q_en": "If A=1, B=2, ..., Z=26, what is the code for BAD?",
+      "topic_bn": "কোডিং-ডিকোডিং",
+      "topic_en": "Coding-Decoding"
+    },
+    {
+      "answer": 0,
+      "explain_bn": "নিয়ম: বর্ণগুলো বিপরীত ক্রমে। CAT→TAC, তাই DOG→GOD।",
+      "explain_en": "Rule: reverse the letter order. CAT→TAC, so DOG→GOD.",
+      "id": "me-033",
+      "options_bn": [
+        "GOD",
+        "ODG",
+        "DGO",
+        "GDO"
+      ],
+      "options_en": [
+        "GOD",
+        "ODG",
+        "DGO",
+        "GDO"
+      ],
+      "q_bn": "CAT-কে TAC লেখা হলে, DOG-কে কী লেখা হবে?",
+      "q_en": "If CAT is written as TAC, how is DOG written?",
+      "topic_bn": "কোডিং-ডিকোডিং",
+      "topic_en": "Coding-Decoding"
+    },
+    {
+      "answer": 1,
+      "explain_bn": "নিয়ম: বিপরীত বর্ণ (A↔Z)। A→Z, P→K, P→K, L→O, E→V = ZKKOV।",
+      "explain_en": "Rule: opposite letters (A↔Z). A→Z, P→K, P→K, L→O, E→V = ZKKOV.",
+      "id": "me-034",
+      "options_bn": [
+        "YKLOV",
+        "ZKKOV",
+        "ZKKOU",
+        "AJJOV"
+      ],
+      "options_en": [
+        "YKLOV",
+        "ZKKOV",
+        "ZKKOU",
+        "AJJOV"
+      ],
+      "q_bn": "বিপরীত বর্ণমালা নিয়মে (A↔Z) APPLE-এর কোড কী?",
+      "q_en": "Using opposite letters (A↔Z), what is the code for APPLE?",
+      "topic_bn": "কোডিং-ডিকোডিং",
+      "topic_en": "Coding-Decoding"
+    },
+    {
+      "answer": 2,
+      "explain_bn": "নিয়ম: বর্ণের অবস্থান যোগ। PEN = 16+5+14 = 35, তাই SUN = 19+21+14 = 54।",
+      "explain_en": "Rule: add letter positions. PEN = 16+5+14 = 35, so SUN = 19+21+14 = 54.",
+      "id": "me-035",
+      "options_bn": [
+        "52",
+        "53",
+        "54",
+        "55"
+      ],
+      "options_en": [
+        "52",
+        "53",
+        "54",
+        "55"
+      ],
+      "q_bn": "PEN-এর কোড 35 হলে, SUN-এর কোড কত?",
+      "q_en": "If the code for PEN is 35, what is the code for SUN?",
+      "topic_bn": "কোডিং-ডিকোডিং",
+      "topic_en": "Coding-Decoding"
+    },
+    {
+      "answer": 3,
+      "explain_bn": "নিয়ম: প্রতিটি বর্ণ 2 ঘর এগিয়ে। C→E, A→C, T→V, তাই D→F, O→Q, G→I = FQI।",
+      "explain_en": "Rule: each letter moves 2 steps forward. C→E, A→C, T→V, so D→F, O→Q, G→I = FQI.",
+      "id": "me-036",
+      "options_bn": [
+        "EPH",
+        "FPH",
+        "FQH",
+        "FQI"
+      ],
+      "options_en": [
+        "EPH",
+        "FPH",
+        "FQH",
+        "FQI"
+      ],
+      "q_bn": "CAT-কে ECV লেখা হলে, DOG-কে কী লেখা হবে?",
+      "q_en": "If CAT is written as ECV, how is DOG written?",
+      "topic_bn": "কোডিং-ডিকোডিং",
+      "topic_en": "Coding-Decoding"
+    },
+    {
+      "answer": 0,
+      "explain_bn": "নিয়ম: প্রতিটি বর্ণ 1 ঘর এগিয়ে। C→D, O→P, D→E, E→F, তাই B→C, O→P, O→P, K→L = CPPL।",
+      "explain_en": "Rule: each letter moves 1 step forward. C→D, O→P, D→E, E→F, so B→C, O→P, O→P, K→L = CPPL.",
+      "id": "me-037",
+      "options_bn": [
+        "CPPL",
+        "CQQM",
+        "BNNL",
+        "DPPM"
+      ],
+      "options_en": [
+        "CPPL",
+        "CQQM",
+        "BNNL",
+        "DPPM"
+      ],
+      "q_bn": "CODE-কে DPEF লেখা হলে, BOOK-কে কী লেখা হবে?",
+      "q_en": "If CODE is written as DPEF, how is BOOK written?",
+      "topic_bn": "কোডিং-ডিকোডিং",
+      "topic_en": "Coding-Decoding"
+    },
+    {
+      "answer": 1,
+      "explain_bn": "নিয়ম: প্রতিটি বর্ণ 1 ঘর এগিয়ে। M→N, A→B, N→O, G→H, O→P, তাই A→B, P→Q, P→Q, L→M, E→F = BQQMF।",
+      "explain_en": "Rule: each letter moves 1 step forward. M→N, A→B, N→O, G→H, O→P, so A→B, P→Q, P→Q, L→M, E→F = BQQMF.",
+      "id": "me-038",
+      "options_bn": [
+        "BPPLE",
+        "BQQMF",
+        "BQQLE",
+        "AQPMF"
+      ],
+      "options_en": [
+        "BPPLE",
+        "BQQMF",
+        "BQQLE",
+        "AQPMF"
+      ],
+      "q_bn": "MANGO-কে NBOHP লেখা হলে, APPLE-কে কী লেখা হবে?",
+      "q_en": "If MANGO is written as NBOHP, how is APPLE written?",
+      "topic_bn": "কোডিং-ডিকোডিং",
+      "topic_en": "Coding-Decoding"
+    },
+    {
+      "answer": 2,
+      "explain_bn": "নিয়ম: বর্ণের অবস্থান সংখ্যা। C=3, A=1, T=20 → 3120; D=4, O=15, G=7 → 4157।",
+      "explain_en": "Rule: letter position numbers. C=3, A=1, T=20 → 3120; D=4, O=15, G=7 → 4157.",
+      "id": "me-039",
+      "options_bn": [
+        "4156",
+        "4158",
+        "4157",
+        "5147"
+      ],
+      "options_en": [
+        "4156",
+        "4158",
+        "4157",
+        "5147"
+      ],
+      "q_bn": "CAT-এর কোড 3120 হলে, DOG-এর কোড কত?",
+      "q_en": "If the code for CAT is 3120, what is the code for DOG?",
+      "topic_bn": "কোডিং-ডিকোডিং",
+      "topic_en": "Coding-Decoding"
+    },
+    {
+      "answer": 3,
+      "explain_bn": "নিয়ম: বিপরীত অবস্থান (A=26, B=25, ...)। C=24, A=26, B=25; 24+26+25=75।",
+      "explain_en": "Rule: reverse positions (A=26, B=25, ...). C=24, A=26, B=25; 24+26+25=75.",
+      "id": "me-040",
+      "options_bn": [
+        "72",
+        "73",
+        "74",
+        "75"
+      ],
+      "options_en": [
+        "72",
+        "73",
+        "74",
+        "75"
+      ],
+      "q_bn": "বিপরীত বর্ণমালায় A=26 হলে, CAB-এর কোড (অবস্থান যোগফল) কত?",
+      "q_en": "With reverse alphabet positions (A=26), what is the code for CAB (sum of positions)?",
+      "topic_bn": "কোডিং-ডিকোডিং",
+      "topic_en": "Coding-Decoding"
+    },
+    {
+      "answer": 0,
+      "explain_bn": "নিয়ম: উত্তরমুখী হয়ে ডানে ঘুরলে পূর্ব, আবার ডানে ঘুরলে দক্ষিণ।",
+      "explain_en": "Rule: facing north, a right turn faces east, another right turn faces south.",
+      "id": "me-041",
+      "options_bn": [
+        "দক্ষিণ",
+        "উত্তর",
+        "পূর্ব",
+        "পশ্চিম"
+      ],
+      "options_en": [
+        "South",
+        "North",
+        "East",
+        "West"
+      ],
+      "q_bn": "একজন ব্যক্তি উত্তর দিকে মুখ করে দাঁড়িয়ে ডানে ঘুরল, আবার ডানে ঘুরল। এখন সে কোন দিকে মুখ করে আছে?",
+      "q_en": "A person facing north turns right, then turns right again. Which direction is he facing now?",
+      "topic_bn": "দিক নির্ণয়",
+      "topic_en": "Direction Sense"
+    },
+    {
+      "answer": 1,
+      "explain_bn": "নিয়ম: পিথাগোরাস। দূরত্ব = √(3²+4²) = √25 = 5 কিমি।",
+      "explain_en": "Rule: Pythagoras. Distance = √(3²+4²) = √25 = 5 km.",
+      "id": "me-042",
+      "options_bn": [
+        "4 কিমি",
+        "5 কিমি",
+        "6 কিমি",
+        "7 কিমি"
+      ],
+      "options_en": [
+        "4 km",
+        "5 km",
+        "6 km",
+        "7 km"
+      ],
+      "q_bn": "রহিম উত্তর দিকে 3 কিমি হেঁটে পূর্ব দিকে 4 কিমি হাঁটল। শুরুর স্থান থেকে সে কত দূরে?",
+      "q_en": "Rahim walks 3 km north, then 4 km east. How far is he from the starting point?",
+      "topic_bn": "দিক নির্ণয়",
+      "topic_en": "Direction Sense"
+    },
+    {
+      "answer": 2,
+      "explain_bn": "নিয়ম: দক্ষিণ দিকে মুখ করে বামে ঘুরলে পূর্ব দিকে মুখ হয়।",
+      "explain_en": "Rule: facing south, a left turn faces east.",
+      "id": "me-043",
+      "options_bn": [
+        "উত্তর",
+        "দক্ষিণ",
+        "পূর্ব",
+        "পশ্চিম"
+      ],
+      "options_en": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "q_bn": "করিম দক্ষিণ দিকে মুখ করে দাঁড়িয়ে বাম দিকে ঘুরল। এখন সে কোন দিকে মুখ করে আছে?",
+      "q_en": "Karim is facing south and turns left. Which direction is he facing now?",
+      "topic_bn": "দিক নির্ণয়",
+      "topic_en": "Direction Sense"
+    },
+    {
+      "answer": 3,
+      "explain_bn": "নিয়ম: পূর্ব দিক থেকে ঘড়ির কাঁটার দিকে 90° ঘুরলে দক্ষিণ দিক হয়।",
+      "explain_en": "Rule: from east, a 90° clockwise turn faces south.",
+      "id": "me-044",
+      "options_bn": [
+        "উত্তর",
+        "পূর্ব",
+        "পশ্চিম",
+        "দক্ষিণ"
+      ],
+      "options_en": [
+        "North",
+        "East",
+        "West",
+        "South"
+      ],
+      "q_bn": "পূর্ব দিকে মুখ করে একজন ঘড়ির কাঁটার দিকে 90° ঘুরল। এখন সে কোন দিকে?",
+      "q_en": "A person facing east turns 90° clockwise. Which direction is he facing now?",
+      "topic_bn": "দিক নির্ণয়",
+      "topic_en": "Direction Sense"
+    },
+    {
+      "answer": 0,
+      "explain_bn": "নিয়ম: উত্তর 5, পূর্ব 5, দক্ষিণ 5, পশ্চিম 5 = পূর্ণ বর্গ; শুরুর স্থানেই ফিরে আসে।",
+      "explain_en": "Rule: 5 north, 5 east, 5 south, 5 west forms a closed square; he returns to the start.",
+      "id": "me-045",
+      "options_bn": [
+        "শুরুর স্থানে",
+        "শুরুর পূর্বে",
+        "শুরুর উত্তরে",
+        "শুরুর পশ্চিমে"
+      ],
+      "options_en": [
+        "At the starting point",
+        "East of the start",
+        "North of the start",
+        "West of the start"
+      ],
+      "q_bn": "একজন উত্তর দিকে 5 মিটার, পূর্ব দিকে 5 মিটার, দক্ষিণ দিকে 5 মিটার, পশ্চিম দিকে 5 মিটার হাঁটল। এখন সে কোথায়?",
+      "q_en": "A person walks 5 m north, 5 m east, 5 m south, then 5 m west. Where is he now?",
+      "topic_bn": "দিক নির্ণয়",
+      "topic_en": "Direction Sense"
+    },
+    {
+      "answer": 1,
+      "explain_bn": "নিয়ম: 180° ঘোরা মানে বিপরীত দিক। দক্ষিণ-পশ্চিমের বিপরীত উত্তর-পূর্ব।",
+      "explain_en": "Rule: a 180° turn means the opposite direction. The opposite of south-west is north-east.",
+      "id": "me-046",
+      "options_bn": [
+        "দক্ষিণ-পশ্চিম",
+        "উত্তর-পূর্ব",
+        "উত্তর-পশ্চিম",
+        "দক্ষিণ-পূর্ব"
+      ],
+      "options_en": [
+        "South-west",
+        "North-east",
+        "North-west",
+        "South-east"
+      ],
+      "q_bn": "দক্ষিণ-পশ্চিম দিকে মুখ করে একজন 180° ঘুরল। এখন সে কোন দিকে?",
+      "q_en": "A person facing south-west turns 180°. Which direction is he facing now?",
+      "topic_bn": "দিক নির্ণয়",
+      "topic_en": "Direction Sense"
+    },
+    {
+      "answer": 2,
+      "explain_bn": "নিয়ম: A, B-এর উত্তরে; B, C-এর পূর্বে। তাই A, C-এর উত্তর-পূর্বে।",
+      "explain_en": "Rule: A is north of B; B is east of C. So A is north-east of C.",
+      "id": "me-047",
+      "options_bn": [
+        "উত্তর-পশ্চিম",
+        "দক্ষিণ-পূর্ব",
+        "উত্তর-পূর্ব",
+        "দক্ষিণ-পশ্চিম"
+      ],
+      "options_en": [
+        "North-west",
+        "South-east",
+        "North-east",
+        "South-west"
+      ],
+      "q_bn": "A, B-এর উত্তরে এবং B, C-এর পূর্বে অবস্থিত। C-এর সাপেক্ষে A কোন দিকে?",
+      "q_en": "A is north of B, and B is east of C. In which direction is A from C?",
+      "topic_bn": "দিক নির্ণয়",
+      "topic_en": "Direction Sense"
+    },
+    {
+      "answer": 3,
+      "explain_bn": "নিয়ম: 10 মি উত্তর, তারপর ডানে (পূর্বে) 10 মি। চূড়ান্ত অবস্থান শুরুর উত্তর-পূর্বে।",
+      "explain_en": "Rule: 10 m north, then right (east) 10 m. The final position is north-east of the start.",
+      "id": "me-048",
+      "options_bn": [
+        "উত্তর-পশ্চিম",
+        "দক্ষিণ-পূর্ব",
+        "দক্ষিণ-পশ্চিম",
+        "উত্তর-পূর্ব"
+      ],
+      "options_en": [
+        "North-west",
+        "South-east",
+        "South-west",
+        "North-east"
+      ],
+      "q_bn": "একজন উত্তর দিকে 10 মিটার হেঁটে ডানে ঘুরে আরও 10 মিটার হাঁটল। শুরুর স্থানের সাপেক্ষে সে কোন দিকে?",
+      "q_en": "A person walks 10 m north, turns right and walks 10 m more. In which direction is he from the start?",
+      "topic_bn": "দিক নির্ণয়",
+      "topic_en": "Direction Sense"
+    },
+    {
+      "answer": 0,
+      "explain_bn": "নিয়ম: উত্তর থেকে ঘড়ির কাঁটার দিকে 270° = ঘড়ির বিপরীতে 90° = পশ্চিম।",
+      "explain_en": "Rule: 270° clockwise from north equals 90° anticlockwise = west.",
+      "id": "me-049",
+      "options_bn": [
+        "পশ্চিম",
+        "পূর্ব",
+        "উত্তর",
+        "দক্ষিণ"
+      ],
+      "options_en": [
+        "West",
+        "East",
+        "North",
+        "South"
+      ],
+      "q_bn": "উত্তর দিক থেকে ঘড়ির কাঁটার দিকে 270° ঘুরলে কোন দিক হয়?",
+      "q_en": "Turning 270° clockwise from north, which direction results?",
+      "topic_bn": "দিক নির্ণয়",
+      "topic_en": "Direction Sense"
+    },
+    {
+      "answer": 1,
+      "explain_bn": "নিয়ম: দুইবার বামে ঘোরা (প্রতিবার 90°) = 180° = ইউ-টার্ন। উত্তরের বিপরীত দক্ষিণ।",
+      "explain_en": "Rule: two left turns (90° each) = 180° = U-turn. The opposite of north is south.",
+      "id": "me-050",
+      "options_bn": [
+        "উত্তর",
+        "দক্ষিণ",
+        "পূর্ব",
+        "পশ্চিম"
+      ],
+      "options_en": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "q_bn": "উত্তর দিকে মুখ করে একজন পরপর দুইবার বামে ঘুরল। এখন সে কোন দিকে?",
+      "q_en": "A person facing north turns left twice in a row. Which direction is he facing now?",
+      "topic_bn": "দিক নির্ণয়",
+      "topic_en": "Direction Sense"
+    },
+    {
+      "answer": 2,
+      "explain_bn": "নিয়ম: দাদার একমাত্র ছেলে = বাবা; বাবার মেয়ে = বোন।",
+      "explain_en": "Rule: grandfather's only son = father; father's daughter = sister.",
+      "id": "me-051",
+      "options_bn": [
+        "মা",
+        "চাচি",
+        "বোন",
+        "চাচাতো বোন"
+      ],
+      "options_en": [
+        "Mother",
+        "Aunt",
+        "Sister",
+        "Cousin"
+      ],
+      "q_bn": "ছবির দিকে ইঙ্গিত করে রানা বলল, সে আমার দাদার একমাত্র ছেলের মেয়ে। ছবির মেয়েটি রানার কে?",
+      "q_en": "Pointing to a photo, Rana said, She is the daughter of my grandfather's only son. Who is she to Rana?",
+      "topic_bn": "রক্তের সম্পর্ক",
+      "topic_en": "Blood Relations"
+    },
+    {
+      "answer": 3,
+      "explain_bn": "নিয়ম: A, B-এর ভাই; B, C-এর মা। মায়ের ভাই = মামা।",
+      "explain_en": "Rule: A is B's brother; B is C's mother. Mother's brother = uncle.",
+      "id": "me-052",
+      "options_bn": [
+        "বাবা",
+        "ভাই",
+        "চাচাতো ভাই",
+        "মামা"
+      ],
+      "options_en": [
+        "Father",
+        "Brother",
+        "Cousin",
+        "Uncle"
+      ],
+      "q_bn": "A, B-এর ভাই এবং B, C-এর মা। A, C-এর কে?",
+      "q_en": "A is B's brother and B is C's mother. Who is A to C?",
+      "topic_bn": "রক্তের সম্পর্ক",
+      "topic_en": "Blood Relations"
+    },
+    {
+      "answer": 0,
+      "explain_bn": "নিয়ম: মায়ের একমাত্র মেয়ে (বক্তা পুরুষ হলে) = নিজের বোন।",
+      "explain_en": "Rule: mother's only daughter (speaker male) = own sister.",
+      "id": "me-053",
+      "options_bn": [
+        "বোন",
+        "মা",
+        "খালা",
+        "স্ত্রী"
+      ],
+      "options_en": [
+        "Sister",
+        "Mother",
+        "Aunt",
+        "Wife"
+      ],
+      "q_bn": "আমার মায়ের একমাত্র মেয়ে আমার কে? (বক্তা পুরুষ)",
+      "q_en": "Who is my mother's only daughter to me? (speaker is male)",
+      "topic_bn": "রক্তের সম্পর্ক",
+      "topic_en": "Blood Relations"
+    },
+    {
+      "answer": 1,
+      "explain_bn": "নিয়ম: বাবার বোন = ফুফু।",
+      "explain_en": "Rule: father's sister = aunt.",
+      "id": "me-054",
+      "options_bn": [
+        "চাচা",
+        "ফুফু",
+        "মা",
+        "বোন"
+      ],
+      "options_en": [
+        "Uncle",
+        "Aunt",
+        "Mother",
+        "Sister"
+      ],
+      "q_bn": "বাবার বোন আমার কে?",
+      "q_en": "Who is my father's sister to me?",
+      "topic_bn": "রক্তের সম্পর্ক",
+      "topic_en": "Blood Relations"
+    },
+    {
+      "answer": 2,
+      "explain_bn": "নিয়ম: রহিমের মা = করিমের মায়ের একমাত্র মেয়ে = করিমের বোন। বোনের ছেলে = ভাগ্নে।",
+      "explain_en": "Rule: Rahim's mother = the only daughter of Karim's mother = Karim's sister. Sister's son = nephew.",
+      "id": "me-055",
+      "options_bn": [
+        "ভাই",
+        "চাচা",
+        "ভাগ্নে",
+        "চাচাতো ভাই"
+      ],
+      "options_en": [
+        "Brother",
+        "Uncle",
+        "Nephew",
+        "Cousin"
+      ],
+      "q_bn": "রহিমের মা করিমের মায়ের একমাত্র মেয়ে। রহিম করিমের কে?",
+      "q_en": "Rahim's mother is the only daughter of Karim's mother. Who is Rahim to Karim?",
+      "topic_bn": "রক্তের সম্পর্ক",
+      "topic_en": "Blood Relations"
+    },
+    {
+      "answer": 3,
+      "explain_bn": "নিয়ম: আমার মায়ের একমাত্র মেয়ে (বক্তা নারী) = আমি নিজে; আমার ছেলের মা = আমি। অর্থাৎ লোকটি আমার ছেলে।",
+      "explain_en": "Rule: the only daughter of my mother (speaker female) = myself; the man's mother = me, so the man is my son.",
+      "id": "me-056",
+      "options_bn": [
+        "ভাই",
+        "ভাগ্নে",
+        "চাচা",
+        "ছেলে"
+      ],
+      "options_en": [
+        "Brother",
+        "Nephew",
+        "Uncle",
+        "Son"
+      ],
+      "q_bn": "একজন লোকের দিকে ইঙ্গিত করে মিতা বলল, তার মা আমার মায়ের একমাত্র মেয়ে। লোকটি মিতার কে?",
+      "q_en": "Pointing to a man, Mita said, His mother is the only daughter of my mother. Who is the man to Mita?",
+      "topic_bn": "রক্তের সম্পর্ক",
+      "topic_en": "Blood Relations"
+    },
+    {
+      "answer": 0,
+      "explain_bn": "নিয়ম: ভাইয়ের স্ত্রী = ভাবি।",
+      "explain_en": "Rule: brother's wife = sister-in-law.",
+      "id": "me-057",
+      "options_bn": [
+        "ভাবি",
+        "চাচি",
+        "চাচাতো বোন",
+        "ভাগ্নি"
+      ],
+      "options_en": [
+        "Sister-in-law",
+        "Aunt",
+        "Cousin",
+        "Niece"
+      ],
+      "q_bn": "ভাইয়ের স্ত্রী আমার কে?",
+      "q_en": "Who is my brother's wife to me?",
+      "topic_bn": "রক্তের সম্পর্ক",
+      "topic_en": "Blood Relations"
+    },
+    {
+      "answer": 1,
+      "explain_bn": "নিয়ম: স্ত্রীর বাবা = শ্বশুর।",
+      "explain_en": "Rule: wife's father = father-in-law.",
+      "id": "me-058",
+      "options_bn": [
+        "চাচা",
+        "শ্বশুর",
+        "শ্যালক",
+        "দাদা"
+      ],
+      "options_en": [
+        "Uncle",
+        "Father-in-law",
+        "Brother-in-law",
+        "Grandfather"
+      ],
+      "q_bn": "স্ত্রীর বাবা আমার কে?",
+      "q_en": "Who is my wife's father to me?",
+      "topic_bn": "রক্তের সম্পর্ক",
+      "topic_en": "Blood Relations"
+    },
+    {
+      "answer": 2,
+      "explain_bn": "নিয়ম: B, C-এর ভাই এবং C, D-এর মেয়ে, অর্থাৎ B-ও D-এর ছেলে। A, B-এর বাবা, তাই D, A-এর স্ত্রী।",
+      "explain_en": "Rule: B is C's brother and C is D's daughter, so B is also D's son. A is B's father, so D is A's wife.",
+      "id": "me-059",
+      "options_bn": [
+        "বোন",
+        "মা",
+        "স্ত্রী",
+        "মেয়ে"
+      ],
+      "options_en": [
+        "Sister",
+        "Mother",
+        "Wife",
+        "Daughter"
+      ],
+      "q_bn": "A, B-এর বাবা। B, C-এর ভাই। C, D-এর মেয়ে। D, A-এর কে?",
+      "q_en": "A is B's father. B is C's brother. C is D's daughter. Who is D to A?",
+      "topic_bn": "রক্তের সম্পর্ক",
+      "topic_en": "Blood Relations"
+    },
+    {
+      "answer": 3,
+      "explain_bn": "নিয়ম: দাদার একমাত্র ছেলে (বক্তা পুরুষ) = নিজের বাবা।",
+      "explain_en": "Rule: grandfather's only son (speaker male) = own father.",
+      "id": "me-060",
+      "options_bn": [
+        "চাচা",
+        "ভাই",
+        "দাদা",
+        "বাবা"
+      ],
+      "options_en": [
+        "Uncle",
+        "Brother",
+        "Grandfather",
+        "Father"
+      ],
+      "q_bn": "আমার দাদার একমাত্র ছেলে আমার কে? (বক্তা পুরুষ)",
+      "q_en": "Who is my grandfather's only son to me? (speaker is male)",
+      "topic_bn": "রক্তের সম্পর্ক",
+      "topic_en": "Blood Relations"
+    },
+    {
+      "answer": 0,
+      "explain_bn": "নিয়ম: সকল বিড়াল প্রাণী, সকল প্রাণী জীবিত বস্তু; তাই সকল বিড়াল জীবিত বস্তু। (Barbara সিলোজিজম)",
+      "explain_en": "Rule: all cats are animals, all animals are living things; therefore all cats are living things. (Barbara syllogism)",
+      "id": "me-061",
+      "options_bn": [
+        "সকল বিড়াল জীবিত বস্তু",
+        "কিছু প্রাণী বিড়াল নয়",
+        "কোনো সিদ্ধান্ত নয়",
+        "কিছু বিড়াল প্রাণী নয়"
+      ],
+      "options_en": [
+        "All cats are living things",
+        "Some animals are not cats",
+        "No conclusion",
+        "Some cats are not animals"
+      ],
+      "q_bn": "সকল বিড়াল প্রাণী। সকল প্রাণী জীবিত বস্তু। সিদ্ধান্ত কী?",
+      "q_en": "All cats are animals. All animals are living things. What follows?",
+      "topic_bn": "সিলোজিজম",
+      "topic_en": "Syllogism"
+    },
+    {
+      "answer": 1,
+      "explain_bn": "নিয়ম: প্রথম বাক্য সর্বজনীন, দ্বিতীয়টি আংশিক এবং মধ্যপদ বণ্টিত নয়; তাই কোনো নিশ্চিত সিদ্ধান্ত আসে না।",
+      "explain_en": "Rule: the middle term (books) is undistributed in both premises, so no definite conclusion follows.",
+      "id": "me-062",
+      "options_bn": [
+        "সকল কলম রাবার",
+        "কোনো নিশ্চিত সিদ্ধান্ত আসে না",
+        "কিছু রাবার কলম",
+        "সকল রাবার কলম"
+      ],
+      "options_en": [
+        "All pens are erasers",
+        "No definite conclusion follows",
+        "Some erasers are pens",
+        "All erasers are pens"
+      ],
+      "q_bn": "সকল কলম বই। কিছু বই রাবার। সিদ্ধান্ত কী?",
+      "q_en": "All pens are books. Some books are erasers. What follows?",
+      "topic_bn": "সিলোজিজম",
+      "topic_en": "Syllogism"
+    },
+    {
+      "answer": 2,
+      "explain_bn": "নিয়ম: কোনো পাখি স্তন্যপায়ী নয়; সকল ঈগল পাখি; তাই কোনো ঈগল স্তন্যপায়ী নয়। (Celarent)",
+      "explain_en": "Rule: no birds are mammals; all eagles are birds; therefore no eagles are mammals. (Celarent)",
+      "id": "me-063",
+      "options_bn": [
+        "কিছু ঈগল স্তন্যপায়ী",
+        "সকল স্তন্যপায়ী ঈগল",
+        "কোনো ঈগল স্তন্যপায়ী নয়",
+        "কিছু পাখি স্তন্যপায়ী"
+      ],
+      "options_en": [
+        "Some eagles are mammals",
+        "All mammals are eagles",
+        "No eagles are mammals",
+        "Some birds are mammals"
+      ],
+      "q_bn": "কোনো পাখি স্তন্যপায়ী নয়। সকল ঈগল পাখি। সিদ্ধান্ত কী?",
+      "q_en": "No birds are mammals. All eagles are birds. What follows?",
+      "topic_bn": "সিলোজিজম",
+      "topic_en": "Syllogism"
+    },
+    {
+      "answer": 3,
+      "explain_bn": "নিয়ম: দ্বিতীয় বাক্যটি গোলাপ সম্পর্কে কিছু বলে না; মধ্যপদ বণ্টিত নয়, তাই নিশ্চিত সিদ্ধান্ত নেই।",
+      "explain_en": "Rule: the second premise says nothing about roses; the middle term is undistributed, so no definite conclusion.",
+      "id": "me-064",
+      "options_bn": [
+        "সকল গোলাপ দ্রুত ঝরে",
+        "কিছু গোলাপ ফুল",
+        "কোনো গোলাপ দ্রুত ঝরে না",
+        "কোনো নিশ্চিত সিদ্ধান্ত আসে না"
+      ],
+      "options_en": [
+        "All roses fade quickly",
+        "Some roses are flowers",
+        "No roses fade quickly",
+        "No definite conclusion follows"
+      ],
+      "q_bn": "সকল গোলাপ ফুল। কিছু ফুল দ্রুত ঝরে যায়। সিদ্ধান্ত কী?",
+      "q_en": "All roses are flowers. Some flowers fade quickly. What follows?",
+      "topic_bn": "সিলোজিজম",
+      "topic_en": "Syllogism"
+    },
+    {
+      "answer": 0,
+      "explain_bn": "নিয়ম: কিছু ছাত্র ক্রীড়াবিদ, সকল ক্রীড়াবিদ ফিট; তাই কিছু ছাত্র ফিট। (Darii)",
+      "explain_en": "Rule: some students are athletes, all athletes are fit; therefore some students are fit. (Darii)",
+      "id": "me-065",
+      "options_bn": [
+        "কিছু ছাত্র ফিট",
+        "সকল ছাত্র ক্রীড়াবিদ",
+        "সকল ফিট মানুষ ছাত্র",
+        "কোনো ছাত্র ফিট নয়"
+      ],
+      "options_en": [
+        "Some students are fit",
+        "All students are athletes",
+        "All fit people are students",
+        "No students are fit"
+      ],
+      "q_bn": "কিছু ছাত্র ক্রীড়াবিদ। সকল ক্রীড়াবিদ ফিট। সিদ্ধান্ত কী?",
+      "q_en": "Some students are athletes. All athletes are fit. What follows?",
+      "topic_bn": "সিলোজিজম",
+      "topic_en": "Syllogism"
+    },
+    {
+      "answer": 1,
+      "explain_bn": "নিয়ম: সকল ধাতু বিদ্যুৎ পরিবহন করে; তামা একটি ধাতু; তাই তামা বিদ্যুৎ পরিবহন করে।",
+      "explain_en": "Rule: all metals conduct electricity; copper is a metal; therefore copper conducts electricity.",
+      "id": "me-066",
+      "options_bn": [
+        "তামা বিদ্যুৎ পরিবহন করে না",
+        "তামা বিদ্যুৎ পরিবহন করে",
+        "কিছু ধাতু তামা নয়",
+        "কোনো সিদ্ধান্ত নয়"
+      ],
+      "options_en": [
+        "Copper does not conduct electricity",
+        "Copper conducts electricity",
+        "Some metals are not copper",
+        "No conclusion"
+      ],
+      "q_bn": "সকল ধাতু বিদ্যুৎ পরিবহন করে। তামা একটি ধাতু। সিদ্ধান্ত কী?",
+      "q_en": "All metals conduct electricity. Copper is a metal. What follows?",
+      "topic_bn": "সিলোজিজম",
+      "topic_en": "Syllogism"
+    },
+    {
+      "answer": 2,
+      "explain_bn": "নিয়ম: কোনো মাছ উড়তে পারে না; হাঙর একটি মাছ; তাই হাঙর উড়তে পারে না।",
+      "explain_en": "Rule: no fish can fly; a shark is a fish; therefore a shark cannot fly.",
+      "id": "me-067",
+      "options_bn": [
+        "হাঙর উড়তে পারে",
+        "কিছু মাছ উড়তে পারে",
+        "হাঙর উড়তে পারে না",
+        "সকল হাঙর পাখি"
+      ],
+      "options_en": [
+        "A shark can fly",
+        "Some fish can fly",
+        "A shark cannot fly",
+        "All sharks are birds"
+      ],
+      "q_bn": "কোনো মাছ উড়তে পারে না। হাঙর একটি মাছ। সিদ্ধান্ত কী?",
+      "q_en": "No fish can fly. A shark is a fish. What follows?",
+      "topic_bn": "সিলোজিজম",
+      "topic_en": "Syllogism"
+    },
+    {
+      "answer": 3,
+      "explain_bn": "নিয়ম: কিছু আম মিষ্টি, সকল মিষ্টি জিনিস সুস্বাদু; তাই কিছু আম সুস্বাদু।",
+      "explain_en": "Rule: some mangoes are sweet, all sweet things are tasty; therefore some mangoes are tasty.",
+      "id": "me-068",
+      "options_bn": [
+        "সকল আম সুস্বাদু",
+        "কোনো আম মিষ্টি নয়",
+        "কিছু সুস্বাদু জিনিস আম নয়",
+        "কিছু আম সুস্বাদু"
+      ],
+      "options_en": [
+        "All mangoes are tasty",
+        "No mangoes are sweet",
+        "Some tasty things are not mangoes",
+        "Some mangoes are tasty"
+      ],
+      "q_bn": "কিছু আম মিষ্টি। সকল মিষ্টি জিনিস সুস্বাদু। সিদ্ধান্ত কী?",
+      "q_en": "Some mangoes are sweet. All sweet things are tasty. What follows?",
+      "topic_bn": "সিলোজিজম",
+      "topic_en": "Syllogism"
+    },
+    {
+      "answer": 0,
+      "explain_bn": "নিয়ম: সকল বর্গক্ষেত্র আয়তক্ষেত্র, সকল আয়তক্ষেত্রের চারটি বাহু; তাই সকল বর্গক্ষেত্রের চারটি বাহু।",
+      "explain_en": "Rule: all squares are rectangles, all rectangles have four sides; therefore all squares have four sides.",
+      "id": "me-069",
+      "options_bn": [
+        "সকল বর্গক্ষেত্রের চারটি বাহু আছে",
+        "কিছু আয়তক্ষেত্র বর্গক্ষেত্র নয়",
+        "কোনো সিদ্ধান্ত নয়",
+        "কিছু বর্গক্ষেত্রের তিনটি বাহু"
+      ],
+      "options_en": [
+        "All squares have four sides",
+        "Some rectangles are not squares",
+        "No conclusion",
+        "Some squares have three sides"
+      ],
+      "q_bn": "সকল বর্গক্ষেত্র আয়তক্ষেত্র। সকল আয়তক্ষেত্রের চারটি বাহু আছে। সিদ্ধান্ত কী?",
+      "q_en": "All squares are rectangles. All rectangles have four sides. What follows?",
+      "topic_bn": "সিলোজিজম",
+      "topic_en": "Syllogism"
+    },
+    {
+      "answer": 1,
+      "explain_bn": "নিয়ম: কিছু বিড়াল কালো, সকল কালো বস্তু তাপ শোষণ করে; তাই কিছু বিড়াল তাপ শোষণ করে।",
+      "explain_en": "Rule: some cats are black, all black things absorb heat; therefore some cats absorb heat.",
+      "id": "me-070",
+      "options_bn": [
+        "সকল বিড়াল তাপ শোষণ করে",
+        "কিছু বিড়াল তাপ শোষণ করে",
+        "কোনো বিড়াল কালো নয়",
+        "কোনো সিদ্ধান্ত নয়"
+      ],
+      "options_en": [
+        "All cats absorb heat",
+        "Some cats absorb heat",
+        "No cats are black",
+        "No conclusion"
+      ],
+      "q_bn": "কিছু বিড়াল কালো। সকল কালো বস্তু তাপ শোষণ করে। সিদ্ধান্ত কী?",
+      "q_en": "Some cats are black. All black things absorb heat. What follows?",
+      "topic_bn": "সিলোজিজম",
+      "topic_en": "Syllogism"
+    },
+    {
+      "answer": 2,
+      "explain_bn": "নিয়ম: আপেল, আম, কলা ফল; আলু সবজি।",
+      "explain_en": "Rule: apple, mango, banana are fruits; potato is a vegetable.",
+      "id": "me-071",
+      "options_bn": [
+        "আপেল",
+        "আম",
+        "আলু",
+        "কলা"
+      ],
+      "options_en": [
+        "Apple",
+        "Mango",
+        "Potato",
+        "Banana"
+      ],
+      "q_bn": "ব্যতিক্রমটি নির্ণয় কর: আপেল, আম, কলা, আলু",
+      "q_en": "Find the odd one out: Apple, Mango, Banana, Potato",
+      "topic_bn": "অড-ওয়ান-আউট",
+      "topic_en": "Odd One Out"
+    },
+    {
+      "answer": 3,
+      "explain_bn": "নিয়ম: 2, 3, 5 মৌলিক সংখ্যা; 9 মৌলিক নয় (3×3)।",
+      "explain_en": "Rule: 2, 3, 5 are prime numbers; 9 is not prime (3x3).",
+      "id": "me-072",
+      "options_bn": [
+        "2",
+        "3",
+        "5",
+        "9"
+      ],
+      "options_en": [
+        "2",
+        "3",
+        "5",
+        "9"
+      ],
+      "q_bn": "ব্যতিক্রমটি নির্ণয় কর: 2, 3, 5, 9",
+      "q_en": "Find the odd one out: 2, 3, 5, 9",
+      "topic_bn": "অড-ওয়ান-আউট",
+      "topic_en": "Odd One Out"
+    },
+    {
+      "answer": 0,
+      "explain_bn": "নিয়ম: কুকুর, বিড়াল, গরু প্রাণী; গাড়ি যানবাহন।",
+      "explain_en": "Rule: dog, cat, cow are animals; car is a vehicle.",
+      "id": "me-073",
+      "options_bn": [
+        "গাড়ি",
+        "কুকুর",
+        "বিড়াল",
+        "গরু"
+      ],
+      "options_en": [
+        "Car",
+        "Dog",
+        "Cat",
+        "Cow"
+      ],
+      "q_bn": "ব্যতিক্রমটি নির্ণয় কর: কুকুর, বিড়াল, গরু, গাড়ি",
+      "q_en": "Find the odd one out: Dog, Cat, Cow, Car",
+      "topic_bn": "অড-ওয়ান-আউট",
+      "topic_en": "Odd One Out"
+    },
+    {
+      "answer": 1,
+      "explain_bn": "নিয়ম: বৃত্ত, বর্গ, ত্রিভুজ দ্বিমাত্রিক; ঘনক ত্রিমাত্রিক।",
+      "explain_en": "Rule: circle, square, triangle are 2D shapes; cube is 3D.",
+      "id": "me-074",
+      "options_bn": [
+        "বৃত্ত",
+        "ঘনক",
+        "বর্গক্ষেত্র",
+        "ত্রিভুজ"
+      ],
+      "options_en": [
+        "Circle",
+        "Cube",
+        "Square",
+        "Triangle"
+      ],
+      "q_bn": "ব্যতিক্রমটি নির্ণয় কর: বৃত্ত, বর্গক্ষেত্র, ত্রিভুজ, ঘনক",
+      "q_en": "Find the odd one out: Circle, Square, Triangle, Cube",
+      "topic_bn": "অড-ওয়ান-আউট",
+      "topic_en": "Odd One Out"
+    },
+    {
+      "answer": 2,
+      "explain_bn": "নিয়ম: জানুয়ারি, মার্চ, মে 31 দিনের; ফেব্রুয়ারি 28/29 দিনের।",
+      "explain_en": "Rule: January, March, May have 31 days; February has 28/29 days.",
+      "id": "me-075",
+      "options_bn": [
+        "জানুয়ারি",
+        "মার্চ",
+        "ফেব্রুয়ারি",
+        "মে"
+      ],
+      "options_en": [
+        "January",
+        "March",
+        "February",
+        "May"
+      ],
+      "q_bn": "ব্যতিক্রমটি নির্ণয় কর: জানুয়ারি, মার্চ, মে, ফেব্রুয়ারি",
+      "q_en": "Find the odd one out: January, March, May, February",
+      "topic_bn": "অড-ওয়ান-আউট",
+      "topic_en": "Odd One Out"
+    },
+    {
+      "answer": 3,
+      "explain_bn": "নিয়ম: কলম, পেন্সিল, মার্কার দিয়ে লেখা হয়; রাবার দিয়ে মোছা হয়।",
+      "explain_en": "Rule: pen, pencil, marker are for writing; eraser is for erasing.",
+      "id": "me-076",
+      "options_bn": [
+        "কলম",
+        "পেন্সিল",
+        "মার্কার",
+        "রাবার"
+      ],
+      "options_en": [
+        "Pen",
+        "Pencil",
+        "Marker",
+        "Eraser"
+      ],
+      "q_bn": "ব্যতিক্রমটি নির্ণয় কর: কলম, পেন্সিল, মার্কার, রাবার",
+      "q_en": "Find the odd one out: Pen, Pencil, Marker, Eraser",
+      "topic_bn": "অড-ওয়ান-আউট",
+      "topic_en": "Odd One Out"
+    },
+    {
+      "answer": 0,
+      "explain_bn": "নিয়ম: 121=11², 144=12², 169=13² পূর্ণবর্গ; 180 পূর্ণবর্গ নয়।",
+      "explain_en": "Rule: 121=11², 144=12², 169=13² are perfect squares; 180 is not.",
+      "id": "me-077",
+      "options_bn": [
+        "180",
+        "121",
+        "144",
+        "169"
+      ],
+      "options_en": [
+        "180",
+        "121",
+        "144",
+        "169"
+      ],
+      "q_bn": "ব্যতিক্রমটি নির্ণয় কর: 121, 144, 169, 180",
+      "q_en": "Find the odd one out: 121, 144, 169, 180",
+      "topic_bn": "অড-ওয়ান-আউট",
+      "topic_en": "Odd One Out"
+    },
+    {
+      "answer": 1,
+      "explain_bn": "নিয়ম: ঢাকা, দিল্লি, প্যারিস রাজধানী; চট্টগ্রাম রাজধানী নয়।",
+      "explain_en": "Rule: Dhaka, Delhi, Paris are capitals; Chittagong is not a capital.",
+      "id": "me-078",
+      "options_bn": [
+        "ঢাকা",
+        "চট্টগ্রাম",
+        "দিল্লি",
+        "প্যারিস"
+      ],
+      "options_en": [
+        "Dhaka",
+        "Chittagong",
+        "Delhi",
+        "Paris"
+      ],
+      "q_bn": "ব্যতিক্রমটি নির্ণয় কর: ঢাকা, দিল্লি, প্যারিস, চট্টগ্রাম",
+      "q_en": "Find the odd one out: Dhaka, Delhi, Paris, Chittagong",
+      "topic_bn": "অড-ওয়ান-আউট",
+      "topic_en": "Odd One Out"
+    },
+    {
+      "answer": 2,
+      "explain_bn": "নিয়ম: সোনা, রুপা, লোহা ধাতু; কাঠ ধাতু নয়।",
+      "explain_en": "Rule: gold, silver, iron are metals; wood is not a metal.",
+      "id": "me-079",
+      "options_bn": [
+        "সোনা",
+        "রুপা",
+        "কাঠ",
+        "লোহা"
+      ],
+      "options_en": [
+        "Gold",
+        "Silver",
+        "Wood",
+        "Iron"
+      ],
+      "q_bn": "ব্যতিক্রমটি নির্ণয় কর: সোনা, রুপা, লোহা, কাঠ",
+      "q_en": "Find the odd one out: Gold, Silver, Iron, Wood",
+      "topic_bn": "অড-ওয়ান-আউট",
+      "topic_en": "Odd One Out"
+    },
+    {
+      "answer": 3,
+      "explain_bn": "নিয়ম: 3=3¹, 9=3², 27=3³ হলো 3-এর ঘাত; 30 নয়।",
+      "explain_en": "Rule: 3=3¹, 9=3², 27=3³ are powers of 3; 30 is not.",
+      "id": "me-080",
+      "options_bn": [
+        "3",
+        "9",
+        "27",
+        "30"
+      ],
+      "options_en": [
+        "3",
+        "9",
+        "27",
+        "30"
+      ],
+      "q_bn": "ব্যতিক্রমটি নির্ণয় কর: 3, 9, 27, 30",
+      "q_en": "Find the odd one out: 3, 9, 27, 30",
+      "topic_bn": "অড-ওয়ান-আউট",
+      "topic_en": "Odd One Out"
+    },
+    {
+      "answer": 0,
+      "explain_bn": "নিয়ম: প্রতিটি বিড়াল 1 মিনিটে 1 ইঁদুর ধরে (3টি বিড়াল 3 মিনিটে 3টি)। তাই 9টি বিড়াল 9টি ইঁদুর ধরবে 3 মিনিটে।",
+      "explain_en": "Rule: each cat works at the same rate, so 9 cats catch 9 mice in the same 3 minutes.",
+      "id": "me-081",
+      "options_bn": [
+        "3 মিনিট",
+        "6 মিনিট",
+        "9 মিনিট",
+        "27 মিনিট"
+      ],
+      "options_en": [
+        "3 minutes",
+        "6 minutes",
+        "9 minutes",
+        "27 minutes"
+      ],
+      "q_bn": "3টি বিড়াল 3 মিনিটে 3টি ইঁদুর ধরতে পারলে, 9টি বিড়াল 9টি ইঁদুর ধরতে কত মিনিট নেবে?",
+      "q_en": "If 3 cats catch 3 mice in 3 minutes, how long will 9 cats take to catch 9 mice?",
+      "topic_bn": "পাজল ও যুক্তি",
+      "topic_en": "Logical Puzzles"
+    },
+    {
+      "answer": 1,
+      "explain_bn": "নিয়ম: ব্যাট + বল = 110, ব্যাট = বল + 100। সুতরাং 2×বল = 10, বল = 5 টাকা।",
+      "explain_en": "Rule: bat + ball = 110, bat = ball + 100. So 2xball = 10, ball = 5 taka.",
+      "id": "me-082",
+      "options_bn": [
+        "10 টাকা",
+        "5 টাকা",
+        "15 টাকা",
+        "20 টাকা"
+      ],
+      "options_en": [
+        "10 taka",
+        "5 taka",
+        "15 taka",
+        "20 taka"
+      ],
+      "q_bn": "একটি ব্যাট ও বলের দাম মোট 110 টাকা। ব্যাটের দাম বলের চেয়ে 100 টাকা বেশি। বলের দাম কত?",
+      "q_en": "A bat and a ball cost 110 taka together. The bat costs 100 taka more than the ball. What is the price of the ball?",
+      "topic_bn": "পাজল ও যুক্তি",
+      "topic_en": "Logical Puzzles"
+    },
+    {
+      "answer": 2,
+      "explain_bn": "নিয়ম: প্রতিটি মেশিন 5 মিনিটে 1টি যন্ত্রাংশ বানায়। 100টি মেশিন 100টি যন্ত্রাংশ বানাবে একই 5 মিনিটে।",
+      "explain_en": "Rule: each machine makes 1 part in 5 minutes. 100 machines make 100 parts in the same 5 minutes.",
+      "id": "me-083",
+      "options_bn": [
+        "100 মিনিট",
+        "20 মিনিট",
+        "5 মিনিট",
+        "10 মিনিট"
+      ],
+      "options_en": [
+        "100 minutes",
+        "20 minutes",
+        "5 minutes",
+        "10 minutes"
+      ],
+      "q_bn": "5টি মেশিন 5 মিনিটে 5টি যন্ত্রাংশ বানালে, 100টি মেশিন 100টি যন্ত্রাংশ বানাতে কত মিনিট নেবে?",
+      "q_en": "If 5 machines make 5 parts in 5 minutes, how long will 100 machines take to make 100 parts?",
+      "topic_bn": "পাজল ও যুক্তি",
+      "topic_en": "Logical Puzzles"
+    },
+    {
+      "answer": 3,
+      "explain_bn": "নিয়ম: সংখ্যার ইংরেজি নামের প্রথম বর্ণ। One, Two, Three, Four, Five, Six, Seven, Eight → পরেরটি E।",
+      "explain_en": "Rule: first letters of number names in English. One, Two, Three, Four, Five, Six, Seven, Eight → next is E.",
+      "id": "me-084",
+      "options_bn": [
+        "N",
+        "T",
+        "S",
+        "E"
+      ],
+      "options_en": [
+        "N",
+        "T",
+        "S",
+        "E"
+      ],
+      "q_bn": "পরবর্তী বর্ণ কী? O, T, T, F, F, S, S, ?",
+      "q_en": "What is the next letter? O, T, T, F, F, S, S, ?",
+      "topic_bn": "পাজল ও যুক্তি",
+      "topic_en": "Logical Puzzles"
+    },
+    {
+      "answer": 0,
+      "explain_bn": "নিয়ম: তোমার কাছে 3টি আপেল আছে, 2টি নিয়ে নিলে তোমার কাছে 2টি থাকে।",
+      "explain_en": "Rule: you have 3 apples and take 2 away, so you have 2.",
+      "id": "me-085",
+      "options_bn": [
+        "2টি",
+        "1টি",
+        "3টি",
+        "0টি"
+      ],
+      "options_en": [
+        "2",
+        "1",
+        "3",
+        "0"
+      ],
+      "q_bn": "তোমার কাছে 3টি আপেল আছে। তুমি 2টি নিয়ে নিলে তোমার কাছে কয়টি থাকবে?",
+      "q_en": "You have 3 apples. You take away 2. How many do you have?",
+      "topic_bn": "পাজল ও যুক্তি",
+      "topic_en": "Logical Puzzles"
+    },
+    {
+      "answer": 1,
+      "explain_bn": "নিয়ম: প্রতিটি মাসেই 28 দিন থাকে (ফেব্রুয়ারিতে শুধু 28 দিনে শেষ হয়)। তাই 12টি মাসেই 28 দিন আছে।",
+      "explain_en": "Rule: every month contains 28 days. So all 12 months have 28 days.",
+      "id": "me-086",
+      "options_bn": [
+        "1টি",
+        "12টি",
+        "2টি",
+        "6টি"
+      ],
+      "options_en": [
+        "1",
+        "12",
+        "2",
+        "6"
+      ],
+      "q_bn": "কয়টি মাসে 28 দিন আছে?",
+      "q_en": "How many months have 28 days?",
+      "topic_bn": "পাজল ও যুক্তি",
+      "topic_en": "Logical Puzzles"
+    },
+    {
+      "answer": 2,
+      "explain_bn": "নিয়ম: 9টি ছাড়া সব মারা গেছে, অর্থাৎ 9টি বেঁচে আছে।",
+      "explain_en": "Rule: all but 9 died, so 9 remain alive.",
+      "id": "me-087",
+      "options_bn": [
+        "8টি",
+        "10টি",
+        "9টি",
+        "17টি"
+      ],
+      "options_en": [
+        "8",
+        "10",
+        "9",
+        "17"
+      ],
+      "q_bn": "একজন কৃষকের 17টি ভেড়া ছিল। 9টি ছাড়া সব মারা গেল। কয়টি বেঁচে রইল?",
+      "q_en": "A farmer had 17 sheep. All but 9 died. How many remain?",
+      "topic_bn": "পাজল ও যুক্তি",
+      "topic_en": "Logical Puzzles"
+    },
+    {
+      "answer": 3,
+      "explain_bn": "নিয়ম: বর্ণের অবস্থান যোগ। EAT = 5+1+20 = 26; TEA-তে একই বর্ণ, তাই 20+5+1 = 26।",
+      "explain_en": "Rule: add letter positions. EAT = 5+1+20 = 26; TEA uses the same letters, so 20+5+1 = 26.",
+      "id": "me-088",
+      "options_bn": [
+        "25",
+        "27",
+        "24",
+        "26"
+      ],
+      "options_en": [
+        "25",
+        "27",
+        "24",
+        "26"
+      ],
+      "q_bn": "EAT = 5+1+20 = 26 হলে, TEA = কত?",
+      "q_en": "If EAT = 5+1+20 = 26, what is TEA?",
+      "topic_bn": "পাজল ও যুক্তি",
+      "topic_en": "Logical Puzzles"
+    },
+    {
+      "answer": 0,
+      "explain_bn": "নিয়ম: লুক-অ্যান্ড-সে ধারা। 111221-এ তিনটি 1, দুটি 2, একটি 1 → 312211।",
+      "explain_en": "Rule: look-and-say sequence. 111221 reads as three 1s, two 2s, one 1 → 312211.",
+      "id": "me-089",
+      "options_bn": [
+        "312211",
+        "311221",
+        "132211",
+        "321211"
+      ],
+      "options_en": [
+        "312211",
+        "311221",
+        "132211",
+        "321211"
+      ],
+      "q_bn": "ধারাটির পরবর্তী সংখ্যা: 1, 11, 21, 1211, 111221, ?",
+      "q_en": "Next number in the series: 1, 11, 21, 1211, 111221, ?",
+      "topic_bn": "পাজল ও যুক্তি",
+      "topic_en": "Logical Puzzles"
+    },
+    {
+      "answer": 1,
+      "explain_bn": "নিয়ম: 4 ও 6 উভয় দিয়ে বিভাজ্য হতে হবে। 24 ÷ 4 = 6 এবং 24 ÷ 6 = 4।",
+      "explain_en": "Rule: must be divisible by both 4 and 6. 24 ÷ 4 = 6 and 24 ÷ 6 = 4.",
+      "id": "me-090",
+      "options_bn": [
+        "14",
+        "24",
+        "18",
+        "30"
+      ],
+      "options_en": [
+        "14",
+        "24",
+        "18",
+        "30"
+      ],
+      "q_bn": "কোন সংখ্যাটি 4 এবং 6 উভয় দিয়ে বিভাজ্য?",
+      "q_en": "Which number is divisible by both 4 and 6?",
+      "topic_bn": "পাজল ও যুক্তি",
+      "topic_en": "Logical Puzzles"
+    },
+    {
+      "answer": 2,
+      "explain_bn": "নিয়ম: প্রতি ঘণ্টায় 30°। 3টায় কাঁটা দুটির মধ্যে 3 ঘণ্টার ব্যবধান = 3×30° = 90°।",
+      "explain_en": "Rule: 30° per hour. At 3 o'clock the hands are 3 hours apart = 3x30° = 90°.",
+      "id": "me-091",
+      "options_bn": [
+        "60°",
+        "120°",
+        "90°",
+        "180°"
+      ],
+      "options_en": [
+        "60°",
+        "120°",
+        "90°",
+        "180°"
+      ],
+      "q_bn": "ঠিক 3টায় ঘড়ির কাঁটা দুটির মধ্যে কোণ কত?",
+      "q_en": "What is the angle between the clock hands at exactly 3 o'clock?",
+      "topic_bn": "ঘড়ি-ক্যালেন্ডার",
+      "topic_en": "Clock and Calendar"
+    },
+    {
+      "answer": 3,
+      "explain_bn": "নিয়ম: 6টায় কাঁটা দুটি বিপরীত দিকে = 6×30° = 180°।",
+      "explain_en": "Rule: at 6 o'clock the hands point opposite = 6x30° = 180°.",
+      "id": "me-092",
+      "options_bn": [
+        "90°",
+        "120°",
+        "150°",
+        "180°"
+      ],
+      "options_en": [
+        "90°",
+        "120°",
+        "150°",
+        "180°"
+      ],
+      "q_bn": "ঠিক 6টায় ঘড়ির কাঁটা দুটির মধ্যে কোণ কত?",
+      "q_en": "What is the angle between the clock hands at exactly 6 o'clock?",
+      "topic_bn": "ঘড়ি-ক্যালেন্ডার",
+      "topic_en": "Clock and Calendar"
+    },
+    {
+      "answer": 0,
+      "explain_bn": "নিয়ম: 10 দিন = 1 সপ্তাহ + 3 দিন। সোমবার + 3 দিন = বৃহস্পতিবার।",
+      "explain_en": "Rule: 10 days = 1 week + 3 days. Monday + 3 days = Thursday.",
+      "id": "me-093",
+      "options_bn": [
+        "বৃহস্পতিবার",
+        "বুধবার",
+        "শুক্রবার",
+        "রবিবার"
+      ],
+      "options_en": [
+        "Thursday",
+        "Wednesday",
+        "Friday",
+        "Sunday"
+      ],
+      "q_bn": "আজ সোমবার হলে, 10 দিন পর কী বার হবে?",
+      "q_en": "If today is Monday, what day will it be after 10 days?",
+      "topic_bn": "ঘড়ি-ক্যালেন্ডার",
+      "topic_en": "Clock and Calendar"
+    },
+    {
+      "answer": 1,
+      "explain_bn": "নিয়ম: অধিবর্ষ 4 দিয়ে বিভাজ্য (শতাব্দী বর্ষ ছাড়া)। 2024 ÷ 4 = 506, তাই 2024 অধিবর্ষ।",
+      "explain_en": "Rule: a leap year is divisible by 4 (except century years). 2024 ÷ 4 = 506, so 2024 is a leap year.",
+      "id": "me-094",
+      "options_bn": [
+        "2022",
+        "2024",
+        "2023",
+        "2025"
+      ],
+      "options_en": [
+        "2022",
+        "2024",
+        "2023",
+        "2025"
+      ],
+      "q_bn": "কোনটি অধিবর্ষ?",
+      "q_en": "Which is a leap year?",
+      "topic_bn": "ঘড়ি-ক্যালেন্ডার",
+      "topic_en": "Clock and Calendar"
+    },
+    {
+      "answer": 2,
+      "explain_bn": "নিয়ম: প্রতি ঘণ্টায় 30°। 2টায় ব্যবধান 2 ঘণ্টা = 2×30° = 60°।",
+      "explain_en": "Rule: 30° per hour. At 2 o'clock the gap is 2 hours = 2x30° = 60°.",
+      "id": "me-095",
+      "options_bn": [
+        "90°",
+        "30°",
+        "60°",
+        "120°"
+      ],
+      "options_en": [
+        "90°",
+        "30°",
+        "60°",
+        "120°"
+      ],
+      "q_bn": "ঠিক 2টায় ঘড়ির কাঁটা দুটির মধ্যে কোণ কত?",
+      "q_en": "What is the angle between the clock hands at exactly 2 o'clock?",
+      "topic_bn": "ঘড়ি-ক্যালেন্ডার",
+      "topic_en": "Clock and Calendar"
+    },
+    {
+      "answer": 3,
+      "explain_bn": "নিয়ম: 1 জানুয়ারি রবিবার হলে 8 ও 15 জানুয়ারিও রবিবার (7 দিন পরপর)।",
+      "explain_en": "Rule: if Jan 1 is Sunday, Jan 8 and Jan 15 are also Sundays (every 7 days).",
+      "id": "me-096",
+      "options_bn": [
+        "সোমবার",
+        "শনিবার",
+        "শুক্রবার",
+        "রবিবার"
+      ],
+      "options_en": [
+        "Monday",
+        "Saturday",
+        "Friday",
+        "Sunday"
+      ],
+      "q_bn": "1 জানুয়ারি রবিবার হলে, 15 জানুয়ারি কী বার?",
+      "q_en": "If January 1 is a Sunday, what day is January 15?",
+      "topic_bn": "ঘড়ি-ক্যালেন্ডার",
+      "topic_en": "Clock and Calendar"
+    },
+    {
+      "answer": 0,
+      "explain_bn": "নিয়ম: 12 ঘণ্টায় কাঁটা দুটি 11 বার মিলিত হয় (প্রায় প্রতি 65 মিনিটে একবার)।",
+      "explain_en": "Rule: the hands coincide 11 times in 12 hours (roughly every 65 minutes).",
+      "id": "me-097",
+      "options_bn": [
+        "11 বার",
+        "12 বার",
+        "10 বার",
+        "13 বার"
+      ],
+      "options_en": [
+        "11 times",
+        "12 times",
+        "10 times",
+        "13 times"
+      ],
+      "q_bn": "12 ঘণ্টায় ঘড়ির কাঁটা দুটি কতবার মিলিত হয়?",
+      "q_en": "How many times do the clock hands coincide in 12 hours?",
+      "topic_bn": "ঘড়ি-ক্যালেন্ডার",
+      "topic_en": "Clock and Calendar"
+    },
+    {
+      "answer": 1,
+      "explain_bn": "নিয়ম: কুকুর ও বিড়াল আলাদা শ্রেণি, কিন্তু উভয়ই পোষা প্রাণী হতে পারে। তাই দুটি পৃথক ছোট বৃত্ত একটি বড় বৃত্তের ভেতরে।",
+      "explain_en": "Rule: dogs and cats are separate classes, but both can be pets. So two separate small circles inside one big circle.",
+      "id": "me-098",
+      "options_bn": [
+        "তিনটি পৃথক বৃত্ত",
+        "একটি বড় বৃত্তের ভেতরে দুটি পৃথক ছোট বৃত্ত",
+        "তিনটি এককেন্দ্রিক বৃত্ত",
+        "দুটি পরস্পরছেদী বৃত্ত"
+      ],
+      "options_en": [
+        "Three separate circles",
+        "Two separate small circles inside one big circle",
+        "Three concentric circles",
+        "Two intersecting circles"
+      ],
+      "q_bn": "কুকুর, বিড়াল, পোষা প্রাণী — এদের জন্য সঠিক ভেন চিত্র কোনটি?",
+      "q_en": "Which Venn diagram fits: Dogs, Cats, Pets?",
+      "topic_bn": "ভেন চিত্র",
+      "topic_en": "Venn Diagram"
+    },
+    {
+      "answer": 2,
+      "explain_bn": "নিয়ম: সকল বাবা ও সকল ভাই পুরুষ; কিছু বাবা ভাইও হন। তাই পুরুষ বৃত্তের ভেতরে বাবা ও ভাইয়ের বৃত্ত পরস্পরকে ছেদ করে।",
+      "explain_en": "Rule: all fathers and all brothers are males; some fathers are also brothers. So inside the males circle, the fathers and brothers circles intersect.",
+      "id": "me-099",
+      "options_bn": [
+        "তিনটি এককেন্দ্রিক বৃত্ত",
+        "তিনটি পৃথক বৃত্ত",
+        "পুরুষ বৃত্তের ভেতরে পরস্পরছেদী বাবা ও ভাইয়ের বৃত্ত",
+        "একটি বৃত্তের ভেতরে দুটি পৃথক বৃত্ত"
+      ],
+      "options_en": [
+        "Three concentric circles",
+        "Three separate circles",
+        "Fathers and brothers circles intersecting inside the males circle",
+        "Two separate circles inside one circle"
+      ],
+      "q_bn": "বাবা, ভাই, পুরুষ — এদের জন্য সঠিক ভেন চিত্র কোনটি?",
+      "q_en": "Which Venn diagram fits: Fathers, Brothers, Males?",
+      "topic_bn": "ভেন চিত্র",
+      "topic_en": "Venn Diagram"
+    },
+    {
+      "answer": 3,
+      "explain_bn": "নিয়ম: ঢাকা বাংলাদেশের ভেতরে, বাংলাদেশ এশিয়ার ভেতরে। তাই তিনটি এককেন্দ্রিক বৃত্ত।",
+      "explain_en": "Rule: Dhaka is inside Bangladesh, Bangladesh is inside Asia. So three concentric (nested) circles.",
+      "id": "me-100",
+      "options_bn": [
+        "তিনটি পৃথক বৃত্ত",
+        "দুটি পরস্পরছেদী বৃত্ত",
+        "একটি বড় বৃত্তের ভেতরে দুটি পৃথক বৃত্ত",
+        "তিনটি এককেন্দ্রিক বৃত্ত"
+      ],
+      "options_en": [
+        "Three separate circles",
+        "Two intersecting circles",
+        "Two separate circles inside one big circle",
+        "Three concentric circles"
+      ],
+      "q_bn": "ঢাকা, বাংলাদেশ, এশিয়া — এদের জন্য সঠিক ভেন চিত্র কোনটি?",
+      "q_en": "Which Venn diagram fits: Dhaka, Bangladesh, Asia?",
+      "topic_bn": "ভেন চিত্র",
+      "topic_en": "Venn Diagram"
+    }
+  ],
+  "subject": "mental",
+  "subject_bn": "মানসিক দক্ষতা",
+  "subject_en": "Mental Ability"
+}
